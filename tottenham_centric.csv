@@ -1,977 +1,977 @@
-﻿Season,Date,OT,TL,TFTG,OTFTG,FTR,THTG,OTHTG,HTR,TS,OTS,TST,OTST,FTGD,HTGD,coach
-0001,2000-08-19,Ipswich,H,3,1,W,2,1,W,20,15,6,5,2,1,George Graham
-0001,2000-08-22,Middlesbrough,A,1,1,D,1,0,W,11,12,4,6,0,1,George Graham
-0001,2000-08-26,Newcastle,A,0,2,L,0,1,L,10,15,2,6,-2,-1,George Graham
-0001,2000-09-05,Everton,H,3,2,W,1,2,L,11,11,7,6,1,-1,George Graham
-0001,2000-09-11,West Ham,H,1,0,W,0,0,D,15,11,7,5,1,0,George Graham
-0001,2000-09-16,Charlton,A,0,1,L,0,1,L,10,9,5,5,-1,-1,George Graham
-0001,2000-09-23,Man City,H,0,0,D,0,0,D,18,7,5,2,0,0,George Graham
-0001,2000-09-30,Leeds,A,3,4,L,1,0,W,10,14,5,7,-1,1,George Graham
-0001,2000-10-14,Coventry,A,1,2,L,0,2,L,4,0,5,5,-1,-2,George Graham
-0001,2000-10-21,Derby,H,3,1,W,2,1,W,18,8,8,7,2,1,George Graham
-0001,2000-10-28,Chelsea,A,0,3,L,0,2,L,6,9,3,7,-3,-2,George Graham
-0001,2000-11-04,Sunderland,H,2,1,W,1,0,W,11,12,6,3,1,1,George Graham
-0001,2000-11-11,Aston Villa,A,0,2,L,0,1,L,3,11,2,6,-2,-1,George Graham
-0001,2000-11-19,Liverpool,H,2,1,W,2,1,W,6,9,4,4,1,1,George Graham
-0001,2000-11-25,Leicester,H,3,0,W,2,0,W,15,11,7,5,3,2,George Graham
-0001,2000-12-02,Man United,A,0,2,L,0,1,L,5,16,3,8,-2,-1,George Graham
-0001,2000-12-09,Bradford,A,3,3,D,2,1,W,6,13,4,6,0,1,George Graham
-0001,2000-12-18,Arsenal,H,1,1,D,1,0,W,8,17,4,10,0,1,George Graham
-0001,2000-12-23,Middlesbrough,H,0,0,D,0,0,D,16,5,8,0,0,0,George Graham
-0001,2000-12-27,Southampton,A,0,2,L,0,2,L,7,17,2,6,-2,-2,George Graham
-0001,2000-12-30,Ipswich,A,0,3,L,0,1,L,6,18,3,9,-3,-1,George Graham
-0001,2001-01-02,Newcastle,H,4,2,W,3,1,W,16,9,10,4,2,2,George Graham
-0001,2001-01-13,Everton,A,0,0,D,0,0,D,4,17,1,8,0,0,George Graham
-0001,2001-01-20,Southampton,H,0,0,D,0,0,D,9,9,4,6,0,0,George Graham
-0001,2001-01-31,West Ham,A,0,0,D,0,0,D,14,17,6,6,0,0,George Graham
-0001,2001-02-03,Charlton,H,0,0,D,0,0,D,9,7,3,2,0,0,George Graham
-0001,2001-02-10,Man City,A,1,0,W,0,0,D,11,11,4,4,1,0,George Graham
-0001,2001-02-24,Leeds,H,1,2,L,1,1,D,13,15,4,9,-1,0,George Graham
-0001,2001-03-03,Derby,A,1,2,L,0,2,L,13,8,7,4,-1,-2,George Graham
-0001,2001-03-17,Coventry,H,3,0,W,2,0,W,12,11,4,5,3,2,Interim Manager
-0001,2001-03-31,Arsenal,A,0,2,L,0,0,D,4,25,3,19,-2,0,Interim Manager
-0001,2001-04-10,Bradford,H,2,1,W,1,1,D,17,10,13,5,1,0,Glen Hoddle
-0001,2001-04-14,Sunderland,A,3,2,W,0,2,L,8,13,6,4,1,-2,Glen Hoddle
-0001,2001-04-17,Chelsea,H,0,3,L,0,1,L,5,16,1,10,-3,-1,Glen Hoddle
-0001,2001-04-22,Liverpool,A,1,3,L,1,1,D,7,14,5,8,-2,0,Glen Hoddle
-0001,2001-04-28,Aston Villa,H,0,0,D,0,0,D,7,7,3,4,0,0,Glen Hoddle
-0001,2001-05-05,Leicester,A,2,4,L,0,1,L,9,19,4,9,-2,-1,Glen Hoddle
-0001,2001-05-19,Man United,H,3,1,W,1,1,D,9,15,3,6,2,0,Glen Hoddle
-0102,2001-08-18,Aston Villa,H,0,0,D,0,0,D,8,11,2,2,0,0,Glen Hoddle
-0102,2001-08-20,Everton,A,1,1,D,1,0,W,7,18,2,11,0,1,Glen Hoddle
-0102,2001-08-25,Blackburn,A,1,2,L,0,1,L,12,12,5,7,-1,-1,Glen Hoddle
-0102,2001-09-09,Southampton,H,2,0,W,0,0,D,18,15,6,6,2,0,Glen Hoddle
-0102,2001-09-16,Chelsea,H,2,3,L,0,1,L,11,6,4,4,-1,-1,Glen Hoddle
-0102,2001-09-19,Sunderland,A,2,1,W,1,0,W,13,14,6,8,1,1,Glen Hoddle
-0102,2001-09-22,Liverpool,A,0,1,L,0,0,D,11,14,5,6,-1,0,Glen Hoddle
-0102,2001-09-29,Man United,H,3,5,L,3,0,W,7,18,3,9,-2,3,Glen Hoddle
-0102,2001-10-15,Derby,H,3,1,W,2,1,W,24,8,12,6,2,1,Glen Hoddle
-0102,2001-10-21,Newcastle,A,2,0,W,2,0,W,9,8,3,3,2,2,Glen Hoddle
-0102,2001-10-27,Middlesbrough,H,2,1,W,0,1,L,10,8,4,3,1,-1,Glen Hoddle
-0102,2001-11-04,Leeds,A,1,2,L,0,0,D,11,20,4,9,-1,0,Glen Hoddle
-0102,2001-11-17,Arsenal,H,1,1,D,0,0,D,9,5,4,5,0,0,Glen Hoddle
-0102,2001-11-24,West Ham,A,1,0,W,0,0,D,10,10,3,6,1,0,Glen Hoddle
-0102,2001-12-03,Bolton,H,3,2,W,0,1,L,14,9,6,6,1,-1,Glen Hoddle
-0102,2001-12-08,Charlton,A,1,3,L,0,2,L,14,11,5,6,-2,-2,Glen Hoddle
-0102,2001-12-15,Fulham,H,4,0,W,2,0,W,10,12,6,1,4,2,Glen Hoddle
-0102,2001-12-22,Ipswich,H,1,2,L,1,1,D,12,12,6,4,-1,0,Glen Hoddle
-0102,2001-12-26,Southampton,A,0,1,L,0,0,D,10,6,6,5,-1,0,Glen Hoddle
-0102,2001-12-29,Aston Villa,A,1,1,D,1,0,W,7,12,4,7,0,1,Glen Hoddle
-0102,2002-01-01,Blackburn,H,1,0,W,1,0,W,12,11,7,7,1,1,Glen Hoddle
-0102,2002-01-12,Ipswich,A,1,2,L,0,1,L,11,8,6,5,-1,-1,Glen Hoddle
-0102,2002-01-19,Everton,H,1,1,D,1,1,D,12,4,4,2,0,0,Glen Hoddle
-0102,2002-01-30,Newcastle,H,1,3,L,1,0,W,8,10,6,4,-2,1,Glen Hoddle
-0102,2002-02-02,Derby,A,0,1,L,0,1,L,7,12,3,7,-1,-1,Glen Hoddle
-0102,2002-02-09,Leicester,H,2,1,W,1,0,W,12,7,4,6,1,1,Glen Hoddle
-0102,2002-03-02,Sunderland,H,2,1,W,1,1,D,17,7,7,2,1,0,Glen Hoddle
-0102,2002-03-06,Man United,A,0,4,L,0,2,L,7,25,2,14,-4,-2,Glen Hoddle
-0102,2002-03-13,Chelsea,A,0,4,L,0,1,L,5,24,0,13,-4,-1,Glen Hoddle
-0102,2002-03-18,Charlton,H,0,1,L,0,0,D,13,10,5,4,-1,0,Glen Hoddle
-0102,2002-03-24,Fulham,A,2,0,W,2,0,W,11,9,4,3,2,2,Glen Hoddle
-0102,2002-03-30,Middlesbrough,A,1,1,D,1,0,W,10,8,6,3,0,1,Glen Hoddle
-0102,2002-04-01,Leeds,H,2,1,W,2,0,W,8,17,5,8,1,2,Glen Hoddle
-0102,2002-04-06,Arsenal,A,1,2,L,0,1,L,2,13,2,5,-1,-1,Glen Hoddle
-0102,2002-04-13,West Ham,H,1,1,D,0,0,D,16,12,6,5,0,0,Glen Hoddle
-0102,2002-04-20,Bolton,A,1,1,D,1,0,W,10,13,4,6,0,1,Glen Hoddle
-0102,2002-04-27,Liverpool,H,1,0,W,1,0,W,11,11,5,7,1,1,Glen Hoddle
-0102,2002-05-11,Leicester,A,1,2,L,0,0,D,13,10,6,6,-1,0,Glen Hoddle
-0203,2002-08-17,Everton,A,2,2,D,0,1,L,10,13,5,9,0,-1,Glen Hoddle
-0203,2002-08-24,Aston Villa,H,1,0,W,1,0,W,8,18,3,8,1,1,Glen Hoddle
-0203,2002-08-27,Charlton,A,1,0,W,1,0,W,7,10,1,5,1,1,Glen Hoddle
-0203,2002-08-31,Southampton,H,2,1,W,1,1,D,18,15,8,8,1,0,Glen Hoddle
-0203,2002-09-11,Fulham,A,2,3,L,2,0,W,7,13,4,8,-1,2,Glen Hoddle
-0203,2002-09-15,West Ham,H,3,2,W,0,0,D,12,11,3,1,1,0,Glen Hoddle
-0203,2002-09-21,Man United,A,0,1,L,0,0,D,10,16,5,9,-1,0,Glen Hoddle
-0203,2002-09-28,Middlesbrough,H,0,3,L,0,1,L,12,18,4,12,-3,-1,Glen Hoddle
-0203,2002-10-06,Blackburn,A,2,1,W,1,0,W,9,12,6,7,1,1,Glen Hoddle
-0203,2002-10-20,Bolton,H,3,1,W,0,0,D,6,5,3,1,2,0,Glen Hoddle
-0203,2002-10-26,Liverpool,A,1,2,L,0,0,D,10,9,8,5,-1,0,Glen Hoddle
-0203,2002-11-03,Chelsea,H,0,0,D,0,0,D,15,14,7,4,0,0,Glen Hoddle
-0203,2002-11-10,Sunderland,A,0,2,L,0,0,D,9,13,3,5,-2,0,Glen Hoddle
-0203,2002-11-16,Arsenal,A,0,3,L,0,1,L,6,17,5,12,-3,-1,Glen Hoddle
-0203,2002-11-24,Leeds,H,2,0,W,2,0,W,11,8,6,4,2,2,Glen Hoddle
-0203,2002-11-30,Birmingham,A,1,1,D,0,0,D,7,13,3,6,0,0,Glen Hoddle
-0203,2002-12-08,West Brom,H,3,1,W,2,0,W,10,13,6,7,2,2,Glen Hoddle
-0203,2002-12-15,Arsenal,H,1,1,D,1,1,D,14,6,10,4,0,0,Glen Hoddle
-0203,2002-12-23,Man City,A,3,2,W,1,1,D,9,19,9,18,1,0,Glen Hoddle
-0203,2002-12-26,Charlton,H,2,2,D,0,1,L,20,10,12,7,0,-1,Glen Hoddle
-0203,2002-12-29,Newcastle,A,1,2,L,0,1,L,9,14,6,10,-1,-1,Glen Hoddle
-0203,2003-01-01,Southampton,A,0,1,L,0,0,D,11,12,7,6,-1,0,Glen Hoddle
-0203,2003-01-12,Everton,H,4,3,W,1,1,D,18,13,12,10,1,0,Glen Hoddle
-0203,2003-01-18,Aston Villa,A,1,0,W,0,0,D,10,11,6,5,1,0,Glen Hoddle
-0203,2003-01-29,Newcastle,H,0,1,L,0,0,D,13,15,7,8,-1,0,Glen Hoddle
-0203,2003-02-01,Chelsea,A,1,1,D,1,1,D,8,16,5,8,0,0,Glen Hoddle
-0203,2003-02-08,Sunderland,H,4,1,W,2,1,W,16,8,7,6,3,1,Glen Hoddle
-0203,2003-02-24,Fulham,H,1,1,D,1,1,D,15,8,10,7,0,0,Glen Hoddle
-0203,2003-03-01,West Ham,A,0,2,L,0,1,L,9,10,3,8,-2,-1,Glen Hoddle
-0203,2003-03-16,Liverpool,H,2,3,L,0,0,D,12,9,5,6,-1,0,Glen Hoddle
-0203,2003-03-24,Bolton,A,0,1,L,0,0,D,7,15,2,8,-1,0,Glen Hoddle
-0203,2003-04-05,Birmingham,H,2,1,W,1,0,W,12,10,6,4,1,1,Glen Hoddle
-0203,2003-04-12,Leeds,A,2,2,D,2,1,W,6,11,2,4,0,1,Glen Hoddle
-0203,2003-04-18,Man City,H,0,2,L,0,2,L,9,11,6,6,-2,-2,Glen Hoddle
-0203,2003-04-21,West Brom,A,3,2,W,1,1,D,8,8,5,8,1,0,Glen Hoddle
-0203,2003-04-27,Man United,H,0,2,L,0,0,D,6,20,3,15,-2,0,Glen Hoddle
-0203,2003-05-03,Middlesbrough,A,1,5,L,0,3,L,6,26,4,16,-4,-3,Glen Hoddle
-0203,2003-05-11,Blackburn,H,0,4,L,0,2,L,11,13,7,9,-4,-2,Glen Hoddle
-0304,2003-08-16,Birmingham,A,0,1,L,0,1,L,15,10,7,5,-1,-1,Glen Hoddle
-0304,2003-08-23,Leeds,H,2,1,W,1,1,D,20,5,4,2,1,0,Glen Hoddle
-0304,2003-08-27,Liverpool,A,0,0,D,0,0,D,9,22,4,10,0,0,Glen Hoddle
-0304,2003-08-30,Fulham,H,0,3,L,0,1,L,18,9,6,5,-3,-1,Glen Hoddle
-0304,2003-09-13,Chelsea,A,2,4,L,1,2,L,9,12,3,6,-2,-1,Glen Hoddle
-0304,2003-09-20,Southampton,H,1,3,L,0,2,L,13,12,6,10,-2,-2,Glen Hoddle
-0304,2003-09-28,Man City,A,0,0,D,0,0,D,4,21,2,10,0,0,Interim Manager
-0304,2003-10-04,Everton,H,3,0,W,1,0,W,13,12,7,4,3,1,Interim Manager
-0304,2003-10-19,Leicester,A,2,1,W,0,1,L,7,22,4,15,1,-1,Interim Manager
-0304,2003-10-26,Middlesbrough,H,0,0,D,0,0,D,12,16,8,10,0,0,Interim Manager
-0304,2003-11-01,Bolton,H,0,1,L,0,0,D,10,25,6,15,-1,0,Interim Manager
-0304,2003-11-08,Arsenal,A,1,2,L,1,0,W,5,9,2,3,-1,1,Interim Manager
-0304,2003-11-23,Aston Villa,H,2,1,W,0,0,D,10,13,5,6,1,0,Interim Manager
-0304,2003-11-29,Blackburn,A,0,1,L,0,0,D,9,18,3,12,-1,0,Interim Manager
-0304,2003-12-06,Wolves,H,5,2,W,1,1,D,12,16,10,8,3,0,Interim Manager
-0304,2003-12-13,Newcastle,A,0,4,L,0,1,L,4,19,4,11,-4,-1,Interim Manager
-0304,2003-12-21,Man United,H,1,2,L,0,2,L,14,12,8,7,-1,-2,Interim Manager
-0304,2003-12-26,Portsmouth,A,0,2,L,0,0,D,5,10,3,8,-2,0,Interim Manager
-0304,2003-12-28,Charlton,H,0,1,L,0,0,D,18,10,9,8,-1,0,Interim Manager
-0304,2004-01-07,Birmingham,H,4,1,W,3,0,W,11,9,7,3,3,3,Interim Manager
-0304,2004-01-10,Leeds,A,1,0,W,0,0,D,15,7,8,1,1,0,Interim Manager
-0304,2004-01-17,Liverpool,H,2,1,W,1,0,W,7,10,3,4,1,1,Interim Manager
-0304,2004-01-31,Fulham,A,1,2,L,1,1,D,4,16,4,10,-1,0,Interim Manager
-0304,2004-02-07,Portsmouth,H,4,3,W,2,1,W,15,16,13,9,1,1,Interim Manager
-0304,2004-02-11,Charlton,A,4,2,W,2,0,W,12,18,10,14,2,2,Interim Manager
-0304,2004-02-22,Leicester,H,4,4,D,3,1,W,10,14,9,7,0,2,Interim Manager
-0304,2004-03-09,Middlesbrough,A,0,1,L,0,0,D,10,10,2,6,-1,0,Interim Manager
-0304,2004-03-14,Newcastle,H,1,0,W,0,0,D,11,6,4,4,1,0,Interim Manager
-0304,2004-03-20,Man United,A,0,3,L,0,1,L,8,11,3,6,-3,-1,Interim Manager
-0304,2004-03-27,Southampton,A,0,1,L,0,0,D,15,18,9,11,-1,0,Interim Manager
-0304,2004-04-03,Chelsea,H,0,1,L,0,1,L,12,10,7,7,-1,-1,Interim Manager
-0304,2004-04-09,Everton,A,1,3,L,0,3,L,12,13,7,10,-2,-3,Interim Manager
-0304,2004-04-12,Man City,H,1,1,D,0,1,L,15,9,10,8,0,-1,Interim Manager
-0304,2004-04-17,Bolton,A,0,2,L,0,1,L,4,15,0,10,-2,-1,Interim Manager
-0304,2004-04-25,Arsenal,H,2,2,D,0,2,L,13,9,7,7,0,-2,Interim Manager
-0304,2004-05-02,Aston Villa,A,0,1,L,0,1,L,10,11,5,6,-1,-1,Interim Manager
-0304,2004-05-08,Blackburn,H,1,0,W,1,0,W,16,14,13,2,1,1,Interim Manager
-0304,2004-05-15,Wolves,A,2,0,W,1,0,W,14,18,12,10,2,1,Interim Manager
-0405,2004-08-14,Liverpool,H,1,1,D,0,1,L,14,16,7,8,0,-1,Jacques Santini
-0405,2004-08-21,Newcastle,A,1,0,W,0,0,D,15,13,8,6,1,0,Jacques Santini
-0405,2004-08-25,West Brom,A,1,1,D,1,1,D,12,4,6,2,0,0,Jacques Santini
-0405,2004-08-28,Birmingham,H,1,0,W,1,0,W,6,10,3,2,1,1,Jacques Santini
-0405,2004-09-12,Norwich,H,0,0,D,0,0,D,15,7,7,2,0,0,Jacques Santini
-0405,2004-09-19,Chelsea,A,0,0,D,0,0,D,6,20,3,8,0,0,Jacques Santini
-0405,2004-09-25,Man United,H,0,1,L,0,1,L,11,6,5,4,-1,-1,Jacques Santini
-0405,2004-10-02,Everton,A,1,0,W,0,0,D,8,10,2,4,1,0,Jacques Santini
-0405,2004-10-18,Portsmouth,A,0,1,L,0,0,D,16,11,7,6,-1,0,Jacques Santini
-0405,2004-10-23,Bolton,H,1,2,L,1,1,D,8,6,5,4,-1,0,Jacques Santini
-0405,2004-10-30,Fulham,A,0,2,L,0,1,L,5,8,1,4,-2,-1,Jacques Santini
-0405,2004-11-06,Charlton,H,2,3,L,0,2,L,19,3,11,3,-1,-2,Martin Jol
-0405,2004-11-13,Arsenal,H,4,5,L,1,1,D,10,10,7,6,-1,0,Martin Jol
-0405,2004-11-22,Aston Villa,A,0,1,L,0,0,D,11,9,6,5,-1,0,Martin Jol
-0405,2004-11-28,Middlesbrough,H,2,0,W,0,0,D,14,8,9,3,2,0,Martin Jol
-0405,2004-12-04,Blackburn,A,1,0,W,0,0,D,10,12,8,7,1,0,Martin Jol
-0405,2004-12-11,Man City,A,1,0,W,0,0,D,5,8,2,3,1,0,Martin Jol
-0405,2004-12-18,Southampton,H,5,1,W,3,0,W,18,7,12,4,4,3,Martin Jol
-0405,2004-12-26,Norwich,A,2,0,W,0,0,D,16,13,9,8,2,0,Martin Jol
-0405,2004-12-28,Crystal Palace,H,1,1,D,0,0,D,17,11,14,7,0,0,Martin Jol
-0405,2005-01-01,Everton,H,5,2,W,2,1,W,14,6,12,3,3,1,Martin Jol
-0405,2005-01-04,Man United,A,0,0,D,0,0,D,7,23,5,16,0,0,Martin Jol
-0405,2005-01-15,Chelsea,H,0,2,L,0,1,L,12,12,4,5,-2,-1,Martin Jol
-0405,2005-01-22,Crystal Palace,A,0,3,L,0,0,D,12,8,6,7,-3,0,Martin Jol
-0405,2005-02-01,Bolton,A,1,3,L,0,0,D,11,15,5,9,-2,0,Martin Jol
-0405,2005-02-05,Portsmouth,H,3,1,W,1,1,D,18,6,10,3,2,0,Martin Jol
-0405,2005-02-26,Fulham,H,2,0,W,0,0,D,18,8,8,5,2,0,Martin Jol
-0405,2005-03-05,Southampton,A,0,1,L,0,0,D,13,9,8,4,-1,0,Martin Jol
-0405,2005-03-16,Charlton,A,0,2,L,0,1,L,7,5,4,2,-2,-1,Martin Jol
-0405,2005-03-19,Man City,H,2,1,W,1,1,D,12,11,9,7,1,0,Martin Jol
-0405,2005-04-02,Birmingham,A,1,1,D,0,0,D,9,14,5,7,0,0,Martin Jol
-0405,2005-04-10,Newcastle,H,1,0,W,1,0,W,19,6,6,3,1,1,Martin Jol
-0405,2005-04-16,Liverpool,A,2,2,D,1,1,D,9,18,6,7,0,0,Martin Jol
-0405,2005-04-20,West Brom,H,1,1,D,0,1,L,15,10,5,4,0,-1,Martin Jol
-0405,2005-04-25,Arsenal,A,0,1,L,0,1,L,7,12,1,3,-1,-1,Martin Jol
-0405,2005-05-01,Aston Villa,H,5,1,W,3,1,W,20,4,14,3,4,2,Martin Jol
-0405,2005-05-07,Middlesbrough,A,0,1,L,0,1,L,5,16,2,8,-1,-1,Martin Jol
-0405,2005-05-15,Blackburn,H,0,0,D,0,0,D,11,12,7,8,0,0,Martin Jol
-0506,2005-08-13,Portsmouth,A,2,0,W,1,0,W,11,11,6,7,2,1,Martin Jol
-0506,2005-08-20,Middlesbrough,H,2,0,W,0,0,D,18,12,8,3,2,0,Martin Jol
-0506,2005-08-24,Blackburn,A,0,0,D,0,0,D,1,11,1,7,0,0,Martin Jol
-0506,2005-08-27,Chelsea,H,0,2,L,0,1,L,11,13,6,7,-2,-1,Martin Jol
-0506,2005-09-10,Liverpool,H,0,0,D,0,0,D,10,11,7,6,0,0,Martin Jol
-0506,2005-09-17,Aston Villa,A,1,1,D,0,1,L,13,13,7,6,0,-1,Martin Jol
-0506,2005-09-26,Fulham,H,1,0,W,1,0,W,9,8,4,5,1,1,Martin Jol
-0506,2005-10-01,Charlton,A,3,2,W,0,1,L,13,9,7,4,1,-1,Martin Jol
-0506,2005-10-15,Everton,H,2,0,W,0,0,D,7,8,5,4,2,0,Martin Jol
-0506,2005-10-22,Man United,A,1,1,D,0,1,L,9,13,7,9,0,-1,Martin Jol
-0506,2005-10-29,Arsenal,H,1,1,D,1,0,W,11,10,3,7,0,1,Martin Jol
-0506,2005-11-07,Bolton,A,0,1,L,0,1,L,9,9,7,8,-1,-1,Martin Jol
-0506,2005-11-20,West Ham,H,1,1,D,1,0,W,15,8,8,4,0,1,Martin Jol
-0506,2005-11-26,Wigan,A,2,1,W,1,0,W,7,11,5,3,1,1,Martin Jol
-0506,2005-12-03,Sunderland,H,3,2,W,1,1,D,14,5,8,2,1,0,Martin Jol
-0506,2005-12-12,Portsmouth,H,3,1,W,0,1,L,16,8,9,5,2,-1,Martin Jol
-0506,2005-12-18,Middlesbrough,A,3,3,D,1,2,L,8,11,5,8,0,-1,Martin Jol
-0506,2005-12-26,Birmingham,H,2,0,W,0,0,D,9,7,4,4,2,0,Martin Jol
-0506,2005-12-28,West Brom,A,0,2,L,0,1,L,7,6,7,5,-2,-1,Martin Jol
-0506,2005-12-31,Newcastle,H,2,0,W,1,0,W,13,9,3,4,2,1,Martin Jol
-0506,2006-01-04,Man City,A,2,0,W,1,0,W,8,13,2,3,2,1,Martin Jol
-0506,2006-01-14,Liverpool,A,0,1,L,0,0,D,6,16,2,12,-1,0,Martin Jol
-0506,2006-01-21,Aston Villa,H,0,0,D,0,0,D,21,4,13,1,0,0,Martin Jol
-0506,2006-01-31,Fulham,A,0,1,L,0,0,D,7,12,3,8,-1,0,Martin Jol
-0506,2006-02-05,Charlton,H,3,1,W,2,0,W,14,7,10,5,2,2,Martin Jol
-0506,2006-02-12,Sunderland,A,1,1,D,1,0,W,10,9,7,5,0,1,Martin Jol
-0506,2006-02-19,Wigan,H,2,2,D,1,1,D,10,8,4,5,0,0,Martin Jol
-0506,2006-03-05,Blackburn,H,3,2,W,2,1,W,10,6,5,4,1,1,Martin Jol
-0506,2006-03-11,Chelsea,A,1,2,L,1,1,D,4,13,3,10,-1,0,Martin Jol
-0506,2006-03-18,Birmingham,A,2,0,W,0,0,D,9,6,6,4,2,0,Martin Jol
-0506,2006-03-27,West Brom,H,2,1,W,0,1,L,11,13,8,8,1,-1,Martin Jol
-0506,2006-04-01,Newcastle,A,1,3,L,1,3,L,10,14,5,11,-2,-2,Martin Jol
-0506,2006-04-08,Man City,H,2,1,W,1,0,W,23,14,19,6,1,1,Martin Jol
-0506,2006-04-15,Everton,A,1,0,W,1,0,W,10,8,6,4,1,1,Martin Jol
-0506,2006-04-17,Man United,H,1,2,L,0,2,L,15,11,8,5,-1,-2,Martin Jol
-0506,2006-04-22,Arsenal,A,1,1,D,0,0,D,9,9,6,6,0,0,Martin Jol
-0506,2006-04-30,Bolton,H,1,0,W,0,0,D,9,14,4,6,1,0,Martin Jol
-0506,2006-05-07,West Ham,A,1,2,L,1,1,D,14,12,6,7,-1,0,Martin Jol
-0607,2006-08-19,Bolton,A,0,2,L,0,2,L,9,8,6,6,-2,-2,Martin Jol
-0607,2006-08-22,Sheffield United,H,2,0,W,2,0,W,18,6,13,3,2,2,Martin Jol
-0607,2006-08-26,Everton,H,0,2,L,0,0,D,15,6,6,2,-2,0,Martin Jol
-0607,2006-09-09,Man United,A,0,1,L,0,1,L,9,10,4,5,-1,-1,Martin Jol
-0607,2006-09-17,Fulham,H,0,0,D,0,0,D,18,8,8,3,0,0,Martin Jol
-0607,2006-09-23,Liverpool,A,0,3,L,0,0,D,5,14,1,6,-3,0,Martin Jol
-0607,2006-10-01,Portsmouth,H,2,1,W,2,1,W,8,9,6,6,1,1,Martin Jol
-0607,2006-10-14,Aston Villa,A,1,1,D,0,0,D,10,12,5,6,0,0,Martin Jol
-0607,2006-10-22,West Ham,H,1,0,W,1,0,W,13,5,5,2,1,1,Martin Jol
-0607,2006-10-28,Watford,A,0,0,D,0,0,D,11,9,8,2,0,0,Martin Jol
-0607,2006-11-05,Chelsea,H,2,1,W,1,1,D,8,17,3,10,1,0,Martin Jol
-0607,2006-11-12,Reading,A,1,3,L,1,2,L,9,8,3,4,-2,-1,Martin Jol
-0607,2006-11-19,Blackburn,A,1,1,D,0,1,L,13,6,5,3,0,-1,Martin Jol
-0607,2006-11-26,Wigan,H,3,1,W,2,1,W,11,10,6,5,2,1,Martin Jol
-0607,2006-12-02,Arsenal,A,0,3,L,0,2,L,7,6,4,5,-3,-2,Martin Jol
-0607,2006-12-05,Middlesbrough,H,2,1,W,0,0,D,22,6,11,3,1,0,Martin Jol
-0607,2006-12-09,Charlton,H,5,1,W,2,1,W,13,12,9,3,4,1,Martin Jol
-0607,2006-12-17,Man City,A,2,1,W,2,0,W,11,10,7,4,1,2,Martin Jol
-0607,2006-12-23,Newcastle,A,1,3,L,1,3,L,17,12,6,9,-2,-2,Martin Jol
-0607,2006-12-26,Aston Villa,H,2,1,W,0,0,D,12,9,10,7,1,0,Martin Jol
-0607,2006-12-30,Liverpool,H,0,1,L,0,1,L,9,10,3,5,-1,-1,Martin Jol
-0607,2007-01-01,Portsmouth,A,1,1,D,0,1,L,9,15,7,9,0,-1,Martin Jol
-0607,2007-01-14,Newcastle,H,2,3,L,1,1,D,25,12,17,7,-1,0,Martin Jol
-0607,2007-01-20,Fulham,A,1,1,D,0,0,D,9,9,4,3,0,0,Martin Jol
-0607,2007-02-04,Man United,H,0,4,L,0,1,L,10,12,5,7,-4,-1,Martin Jol
-0607,2007-02-10,Sheffield United,A,1,2,L,1,1,D,6,16,1,5,-1,0,Martin Jol
-0607,2007-02-21,Everton,A,2,1,W,1,1,D,8,10,4,3,1,0,Martin Jol
-0607,2007-02-25,Bolton,H,4,1,W,3,1,W,14,10,10,6,3,2,Martin Jol
-0607,2007-03-04,West Ham,A,4,3,W,0,2,L,12,12,7,6,1,-2,Martin Jol
-0607,2007-03-17,Watford,H,3,1,W,1,0,W,17,2,11,2,2,1,Martin Jol
-0607,2007-04-01,Reading,H,1,0,W,1,0,W,18,6,7,3,1,1,Martin Jol
-0607,2007-04-07,Chelsea,A,0,1,L,0,0,D,6,11,5,8,-1,0,Martin Jol
-0607,2007-04-15,Wigan,A,3,3,D,2,2,D,10,21,6,11,0,0,Martin Jol
-0607,2007-04-21,Arsenal,H,2,2,D,1,0,W,7,17,3,5,0,1,Martin Jol
-0607,2007-04-28,Middlesbrough,A,3,2,W,1,0,W,11,16,5,8,1,1,Martin Jol
-0607,2007-05-07,Charlton,A,2,0,W,1,0,W,9,7,6,4,2,1,Martin Jol
-0607,2007-05-10,Blackburn,H,1,1,D,0,1,L,15,10,7,4,0,-1,Martin Jol
-0607,2007-05-13,Man City,H,2,1,W,2,1,W,8,10,3,5,1,1,Martin Jol
-0708,2007-08-11,Sunderland,A,0,1,L,0,0,D,6,9,3,4,-1,0,Martin Jol
-0708,2007-08-14,Everton,H,1,3,L,1,3,L,14,16,8,10,-2,-2,Martin Jol
-0708,2007-08-18,Derby,H,4,0,W,3,0,W,25,4,14,2,4,3,Martin Jol
-0708,2007-08-26,Man United,A,0,1,L,0,0,D,10,14,3,5,-1,0,Martin Jol
-0708,2007-09-01,Fulham,A,3,3,D,2,1,W,13,13,8,7,0,1,Martin Jol
-0708,2007-09-15,Arsenal,H,1,3,L,1,0,W,14,16,5,10,-2,1,Martin Jol
-0708,2007-09-23,Bolton,A,1,1,D,1,1,D,10,5,7,4,0,0,Martin Jol
-0708,2007-10-01,Aston Villa,H,4,4,D,1,3,L,19,7,12,7,0,-2,Martin Jol
-0708,2007-10-07,Liverpool,A,2,2,D,1,1,D,11,21,6,9,0,0,Martin Jol
-0708,2007-10-22,Newcastle,A,1,3,L,0,1,L,11,15,4,7,-2,-1,Martin Jol
-0708,2007-10-28,Blackburn,H,1,2,L,0,0,D,9,9,6,4,-1,0,Interim Manager
-0708,2007-11-03,Middlesbrough,A,1,1,D,1,0,W,9,5,4,3,0,1,Juande Ramos
-0708,2007-11-11,Wigan,H,4,0,W,3,0,W,19,6,8,2,4,3,Juande Ramos
-0708,2007-11-25,West Ham,A,1,1,D,0,1,L,9,14,5,9,0,-1,Juande Ramos
-0708,2007-12-02,Birmingham,H,2,3,L,0,1,L,17,7,9,3,-1,-1,Juande Ramos
-0708,2007-12-09,Man City,H,2,1,W,1,0,W,12,7,8,3,1,1,Juande Ramos
-0708,2007-12-15,Portsmouth,A,1,0,W,0,0,D,12,9,5,5,1,0,Juande Ramos
-0708,2007-12-22,Arsenal,A,1,2,L,0,0,D,10,9,5,5,-1,0,Juande Ramos
-0708,2007-12-26,Fulham,H,5,1,W,2,0,W,12,9,8,4,4,2,Juande Ramos
-0708,2007-12-29,Reading,H,6,4,W,1,1,D,14,11,12,8,2,0,Juande Ramos
-0708,2008-01-01,Aston Villa,A,1,2,L,0,1,L,9,14,6,4,-1,-1,Juande Ramos
-0708,2008-01-12,Chelsea,A,0,2,L,0,1,L,6,8,2,6,-2,-1,Juande Ramos
-0708,2008-01-19,Sunderland,H,2,0,W,1,0,W,17,14,13,8,2,1,Juande Ramos
-0708,2008-01-30,Everton,A,0,0,D,0,0,D,5,11,4,6,0,0,Juande Ramos
-0708,2008-02-02,Man United,H,1,1,D,1,0,W,10,16,8,10,0,1,Juande Ramos
-0708,2008-02-09,Derby,A,3,0,W,0,0,D,13,10,8,6,3,0,Juande Ramos
-0708,2008-03-01,Birmingham,A,1,4,L,0,1,L,19,13,10,10,-3,-1,Juande Ramos
-0708,2008-03-09,West Ham,H,4,0,W,2,0,W,18,8,11,4,4,2,Juande Ramos
-0708,2008-03-16,Man City,A,1,2,L,1,0,W,12,13,7,8,-1,1,Juande Ramos
-0708,2008-03-19,Chelsea,H,4,4,D,1,2,L,10,10,9,8,0,-1,Juande Ramos
-0708,2008-03-22,Portsmouth,H,2,0,W,0,0,D,17,4,8,4,2,0,Juande Ramos
-0708,2008-03-30,Newcastle,H,1,4,L,1,1,D,18,17,10,9,-3,0,Juande Ramos
-0708,2008-04-05,Blackburn,A,1,1,D,1,1,D,11,12,8,7,0,0,Juande Ramos
-0708,2008-04-12,Middlesbrough,H,1,1,D,1,0,W,12,13,9,7,0,1,Juande Ramos
-0708,2008-04-19,Wigan,A,1,1,D,1,1,D,15,13,12,7,0,0,Juande Ramos
-0708,2008-04-26,Bolton,H,1,1,D,0,0,D,26,7,13,4,0,0,Juande Ramos
-0708,2008-05-03,Reading,A,1,0,W,1,0,W,13,13,7,6,1,1,Juande Ramos
-0708,2008-05-11,Liverpool,H,0,2,L,0,0,D,6,18,3,12,-2,0,Juande Ramos
-0809,2008-08-16,Middlesbrough,A,1,2,L,0,0,D,8,14,5,10,-1,0,Juande Ramos
-0809,2008-08-23,Sunderland,H,1,2,L,0,0,D,18,12,11,7,-1,0,Juande Ramos
-0809,2008-08-31,Chelsea,A,1,1,D,1,1,D,6,12,6,3,0,0,Juande Ramos
-0809,2008-09-15,Aston Villa,H,1,2,L,0,1,L,17,17,10,13,-1,-1,Juande Ramos
-0809,2008-09-21,Wigan,H,0,0,D,0,0,D,11,14,4,6,0,0,Juande Ramos
-0809,2008-09-28,Portsmouth,A,0,2,L,0,1,L,15,8,8,6,-2,-1,Juande Ramos
-0809,2008-10-05,Hull,H,0,1,L,0,1,L,27,10,16,6,-1,-1,Juande Ramos
-0809,2008-10-19,Stoke,A,1,2,L,1,1,D,11,7,6,3,-1,0,Juande Ramos
-0809,2008-10-26,Bolton,H,2,0,W,1,0,W,19,10,9,3,2,1,Harry Redknapp
-0809,2008-10-29,Arsenal,A,4,4,D,1,1,D,9,20,6,12,0,0,Harry Redknapp
-0809,2008-11-01,Liverpool,H,2,1,W,0,1,L,8,14,4,6,1,-1,Harry Redknapp
-0809,2008-11-09,Man City,A,2,1,W,1,1,D,14,9,9,7,1,0,Harry Redknapp
-0809,2008-11-15,Fulham,A,1,2,L,0,1,L,7,16,3,14,-1,-1,Harry Redknapp
-0809,2008-11-23,Blackburn,H,1,0,W,1,0,W,16,9,7,6,1,1,Harry Redknapp
-0809,2008-11-30,Everton,H,0,1,L,0,0,D,14,8,6,6,-1,0,Harry Redknapp
-0809,2008-12-08,West Ham,A,2,0,W,0,0,D,17,11,12,4,2,0,Harry Redknapp
-0809,2008-12-13,Man United,H,0,0,D,0,0,D,11,15,6,12,0,0,Harry Redknapp
-0809,2008-12-21,Newcastle,A,1,2,L,1,1,D,11,7,6,4,-1,0,Harry Redknapp
-0809,2008-12-26,Fulham,H,0,0,D,0,0,D,14,10,7,7,0,0,Harry Redknapp
-0809,2008-12-28,West Brom,A,0,2,L,0,0,D,4,17,3,11,-2,0,Harry Redknapp
-0809,2009-01-11,Wigan,A,0,1,L,0,0,D,6,13,3,5,-1,0,Harry Redknapp
-0809,2009-01-18,Portsmouth,H,1,1,D,0,0,D,26,11,15,4,0,0,Harry Redknapp
-0809,2009-01-27,Stoke,H,3,1,W,3,0,W,22,6,14,3,2,3,Harry Redknapp
-0809,2009-01-31,Bolton,A,2,3,L,0,1,L,13,13,10,7,-1,-1,Harry Redknapp
-0809,2009-02-08,Arsenal,H,0,0,D,0,0,D,16,4,6,1,0,0,Harry Redknapp
-0809,2009-02-23,Hull,A,2,1,W,1,1,D,9,12,6,4,1,0,Harry Redknapp
-0809,2009-03-04,Middlesbrough,H,4,0,W,3,0,W,12,15,7,6,4,3,Harry Redknapp
-0809,2009-03-07,Sunderland,A,1,1,D,0,1,L,13,8,8,3,0,-1,Harry Redknapp
-0809,2009-03-15,Aston Villa,A,2,1,W,1,0,W,10,11,9,5,1,1,Harry Redknapp
-0809,2009-03-21,Chelsea,H,1,0,W,0,0,D,8,15,4,9,1,0,Harry Redknapp
-0809,2009-04-04,Blackburn,A,1,2,L,1,0,W,9,11,3,6,-1,1,Harry Redknapp
-0809,2009-04-11,West Ham,H,1,0,W,0,0,D,14,8,9,6,1,0,Harry Redknapp
-0809,2009-04-19,Newcastle,H,1,0,W,1,0,W,22,8,18,3,1,1,Harry Redknapp
-0809,2009-04-25,Man United,A,2,5,L,2,0,W,6,21,4,14,-3,2,Harry Redknapp
-0809,2009-05-02,West Brom,H,1,0,W,1,0,W,16,10,9,7,1,1,Harry Redknapp
-0809,2009-05-09,Everton,A,0,0,D,0,0,D,4,13,2,5,0,0,Harry Redknapp
-0809,2009-05-16,Man City,H,2,1,W,1,0,W,11,9,4,3,1,1,Harry Redknapp
-0809,2009-05-24,Liverpool,A,1,3,L,0,1,L,8,20,4,9,-2,-1,Harry Redknapp
-0910,2009-08-16,Liverpool,H,2,1,W,1,0,W,17,6,11,3,1,1,Harry Redknapp
-0910,2009-08-19,Hull,A,5,1,W,3,1,W,18,9,12,7,4,2,Harry Redknapp
-0910,2009-08-23,West Ham,A,2,1,W,0,0,D,17,17,10,8,1,0,Harry Redknapp
-0910,2009-08-29,Birmingham,H,2,1,W,0,0,D,20,11,14,6,1,0,Harry Redknapp
-0910,2009-09-12,Man United,H,1,3,L,1,2,L,11,17,7,13,-2,-1,Harry Redknapp
-0910,2009-09-20,Chelsea,A,0,3,L,0,1,L,9,25,4,15,-3,-1,Harry Redknapp
-0910,2009-09-26,Burnley,H,5,0,W,2,0,W,18,10,12,7,5,2,Harry Redknapp
-0910,2009-10-03,Bolton,A,2,2,D,1,1,D,17,12,9,9,0,0,Harry Redknapp
-0910,2009-10-17,Portsmouth,A,2,1,W,2,0,W,9,23,4,13,1,2,Harry Redknapp
-0910,2009-10-24,Stoke,H,0,1,L,0,0,D,22,8,12,2,-1,0,Harry Redknapp
-0910,2009-10-31,Arsenal,A,0,3,L,0,2,L,7,18,5,12,-3,-2,Harry Redknapp
-0910,2009-11-07,Sunderland,H,2,0,W,1,0,W,10,14,8,6,2,1,Harry Redknapp
-0910,2009-11-22,Wigan,H,9,1,W,1,0,W,28,11,16,5,8,1,Harry Redknapp
-0910,2009-11-28,Aston Villa,A,1,1,D,0,1,L,23,12,17,4,0,-1,Harry Redknapp
-0910,2009-12-06,Everton,A,2,2,D,0,0,D,19,15,11,6,0,0,Harry Redknapp
-0910,2009-12-12,Wolves,H,0,1,L,0,1,L,18,3,10,3,-1,-1,Harry Redknapp
-0910,2009-12-16,Man City,H,3,0,W,1,0,W,19,9,7,5,3,1,Harry Redknapp
-0910,2009-12-19,Blackburn,A,2,0,W,1,0,W,7,13,2,9,2,1,Harry Redknapp
-0910,2009-12-26,Fulham,A,0,0,D,0,0,D,6,15,1,6,0,0,Harry Redknapp
-0910,2009-12-28,West Ham,H,2,0,W,1,0,W,21,3,9,2,2,1,Harry Redknapp
-0910,2010-01-16,Hull,H,0,0,D,0,0,D,25,8,18,2,0,0,Harry Redknapp
-0910,2010-01-20,Liverpool,A,0,2,L,0,1,L,7,13,5,5,-2,-1,Harry Redknapp
-0910,2010-01-26,Fulham,H,2,0,W,1,0,W,13,9,7,6,2,1,Harry Redknapp
-0910,2010-01-30,Birmingham,A,1,1,D,0,0,D,21,12,12,6,0,0,Harry Redknapp
-0910,2010-02-06,Aston Villa,H,0,0,D,0,0,D,28,10,15,5,0,0,Harry Redknapp
-0910,2010-02-10,Wolves,A,0,1,L,0,1,L,10,8,4,4,-1,-1,Harry Redknapp
-0910,2010-02-21,Wigan,A,3,0,W,1,0,W,13,8,12,7,3,1,Harry Redknapp
-0910,2010-02-28,Everton,H,2,1,W,2,0,W,13,14,9,10,1,2,Harry Redknapp
-0910,2010-03-13,Blackburn,H,3,1,W,1,0,W,14,10,7,7,2,1,Harry Redknapp
-0910,2010-03-20,Stoke,A,2,1,W,0,0,D,16,8,9,4,1,0,Harry Redknapp
-0910,2010-03-27,Portsmouth,H,2,0,W,2,0,W,16,8,8,3,2,2,Harry Redknapp
-0910,2010-04-03,Sunderland,A,1,3,L,0,2,L,12,11,9,10,-2,-2,Harry Redknapp
-0910,2010-04-14,Arsenal,H,2,1,W,1,0,W,13,19,10,11,1,1,Harry Redknapp
-0910,2010-04-17,Chelsea,H,2,1,W,2,0,W,20,9,10,6,1,2,Harry Redknapp
-0910,2010-04-24,Man United,A,1,3,L,0,0,D,9,15,3,8,-2,0,Harry Redknapp
-0910,2010-05-01,Bolton,H,1,0,W,1,0,W,25,11,12,7,1,1,Harry Redknapp
-0910,2010-05-05,Man City,A,1,0,W,0,0,D,10,10,6,5,1,0,Harry Redknapp
-0910,2010-05-09,Burnley,A,2,4,L,2,1,W,16,16,11,12,-2,1,Harry Redknapp
-1011,2010-08-14,Man City,H,0,0,D,0,0,D,22,11,18,7,0,0,Harry Redknapp
-1011,2010-08-21,Stoke,A,2,1,W,2,1,W,7,15,6,10,1,1,Harry Redknapp
-1011,2010-08-28,Wigan,H,0,1,L,0,0,D,12,13,7,5,-1,0,Harry Redknapp
-1011,2010-09-11,West Brom,A,1,1,D,1,1,D,16,15,9,8,0,0,Harry Redknapp
-1011,2010-09-18,Wolves,H,3,1,W,0,1,L,20,5,11,2,2,-1,Harry Redknapp
-1011,2010-09-25,West Ham,A,0,1,L,0,1,L,17,22,11,15,-1,-1,Harry Redknapp
-1011,2010-10-02,Aston Villa,H,2,1,W,1,1,D,19,13,10,4,1,0,Harry Redknapp
-1011,2010-10-16,Fulham,A,2,1,W,1,1,D,14,11,6,5,1,0,Harry Redknapp
-1011,2010-10-23,Everton,H,1,1,D,1,1,D,13,7,8,3,0,0,Harry Redknapp
-1011,2010-10-30,Man United,A,0,2,L,0,1,L,11,18,5,10,-2,-1,Harry Redknapp
-1011,2010-11-06,Bolton,A,2,4,L,0,1,L,11,18,6,8,-2,-1,Harry Redknapp
-1011,2010-11-09,Sunderland,H,1,1,D,0,0,D,20,8,12,4,0,0,Harry Redknapp
-1011,2010-11-13,Blackburn,H,4,2,W,2,0,W,20,12,12,8,2,2,Harry Redknapp
-1011,2010-11-20,Arsenal,A,3,2,W,0,2,L,10,12,6,7,1,-2,Harry Redknapp
-1011,2010-11-28,Liverpool,H,2,1,W,0,1,L,20,12,13,8,1,-1,Harry Redknapp
-1011,2010-12-04,Birmingham,A,1,1,D,1,0,W,10,13,5,5,0,1,Harry Redknapp
-1011,2010-12-12,Chelsea,H,1,1,D,1,0,W,10,13,3,7,0,1,Harry Redknapp
-1011,2010-12-26,Aston Villa,A,2,1,W,1,0,W,13,26,8,15,1,1,Harry Redknapp
-1011,2010-12-28,Newcastle,H,2,0,W,0,0,D,13,12,8,8,2,0,Harry Redknapp
-1011,2011-01-01,Fulham,H,1,0,W,1,0,W,13,12,9,4,1,1,Harry Redknapp
-1011,2011-01-05,Everton,A,1,2,L,1,1,D,13,19,5,12,-1,0,Harry Redknapp
-1011,2011-01-16,Man United,H,0,0,D,0,0,D,16,7,6,4,0,0,Harry Redknapp
-1011,2011-01-22,Newcastle,A,1,1,D,0,0,D,14,13,9,6,0,0,Harry Redknapp
-1011,2011-02-02,Blackburn,A,1,0,W,1,0,W,6,17,5,9,1,1,Harry Redknapp
-1011,2011-02-05,Bolton,H,2,1,W,1,0,W,13,8,7,3,1,1,Harry Redknapp
-1011,2011-02-12,Sunderland,A,2,1,W,1,1,D,11,16,5,10,1,0,Harry Redknapp
-1011,2011-02-22,Blackpool,A,1,3,L,0,2,L,25,8,10,4,-2,-2,Harry Redknapp
-1011,2011-03-06,Wolves,A,3,3,D,2,2,D,15,13,10,4,0,0,Harry Redknapp
-1011,2011-03-19,West Ham,H,0,0,D,0,0,D,26,11,14,5,0,0,Harry Redknapp
-1011,2011-04-02,Wigan,A,0,0,D,0,0,D,10,14,6,5,0,0,Harry Redknapp
-1011,2011-04-09,Stoke,H,3,2,W,3,2,W,9,10,8,5,1,1,Harry Redknapp
-1011,2011-04-20,Arsenal,H,3,3,D,2,3,L,16,13,9,9,0,-1,Harry Redknapp
-1011,2011-04-23,West Brom,H,2,2,D,1,1,D,19,10,9,4,0,0,Harry Redknapp
-1011,2011-04-30,Chelsea,A,1,2,L,1,1,D,12,16,7,10,-1,0,Harry Redknapp
-1011,2011-05-07,Blackpool,H,1,1,D,0,0,D,20,13,11,7,0,0,Harry Redknapp
-1011,2011-05-10,Man City,A,0,1,L,0,1,L,14,7,7,4,-1,-1,Harry Redknapp
-1011,2011-05-15,Liverpool,A,2,0,W,1,0,W,8,10,4,2,2,1,Harry Redknapp
-1011,2011-05-22,Birmingham,H,2,1,W,0,0,D,22,7,16,3,1,0,Harry Redknapp
-1112,2011-08-22,Man United,A,0,3,L,0,0,D,20,27,12,21,-3,0,Harry Redknapp
-1112,2011-08-28,Man City,H,1,5,L,0,2,L,15,22,10,12,-4,-2,Harry Redknapp
-1112,2011-09-10,Wolves,A,2,0,W,0,0,D,17,10,11,6,2,0,Harry Redknapp
-1112,2011-09-18,Liverpool,H,4,0,W,1,0,W,24,5,16,2,4,1,Harry Redknapp
-1112,2011-09-24,Wigan,A,2,1,W,2,0,W,14,5,7,4,1,2,Harry Redknapp
-1112,2011-10-02,Arsenal,H,2,1,W,1,0,W,16,13,8,7,1,1,Harry Redknapp
-1112,2011-10-16,Newcastle,A,2,2,D,1,0,W,11,12,8,7,0,1,Harry Redknapp
-1112,2011-10-23,Blackburn,A,2,1,W,1,1,D,9,19,7,8,1,0,Harry Redknapp
-1112,2011-10-30,QPR,H,3,1,W,2,0,W,22,12,13,8,2,2,Harry Redknapp
-1112,2011-11-06,Fulham,A,3,1,W,2,0,W,8,26,8,20,2,2,Harry Redknapp
-1112,2011-11-21,Aston Villa,H,2,0,W,2,0,W,20,5,9,1,2,2,Harry Redknapp
-1112,2011-11-26,West Brom,A,3,1,W,1,1,D,23,9,14,5,2,0,Harry Redknapp
-1112,2011-12-03,Bolton,H,3,0,W,1,0,W,25,13,16,9,3,1,Harry Redknapp
-1112,2011-12-11,Stoke,A,1,2,L,0,2,L,15,10,12,7,-1,-2,Harry Redknapp
-1112,2011-12-18,Sunderland,H,1,0,W,0,0,D,16,8,12,4,1,0,Harry Redknapp
-1112,2011-12-22,Chelsea,H,1,1,D,1,1,D,16,20,10,10,0,0,Harry Redknapp
-1112,2011-12-27,Norwich,A,2,0,W,0,0,D,19,8,8,4,2,0,Harry Redknapp
-1112,2011-12-31,Swansea,A,1,1,D,1,0,W,12,14,7,8,0,1,Harry Redknapp
-1112,2012-01-03,West Brom,H,1,0,W,0,0,D,20,8,14,2,1,0,Harry Redknapp
-1112,2012-01-11,Everton,H,2,0,W,1,0,W,14,11,7,4,2,1,Harry Redknapp
-1112,2012-01-14,Wolves,H,1,1,D,0,1,L,22,5,10,3,0,-1,Harry Redknapp
-1112,2012-01-22,Man City,A,2,3,L,0,0,D,12,13,7,7,-1,0,Harry Redknapp
-1112,2012-01-31,Wigan,H,3,1,W,2,0,W,20,10,13,6,2,2,Harry Redknapp
-1112,2012-02-06,Liverpool,A,0,0,D,0,0,D,9,15,6,10,0,0,Harry Redknapp
-1112,2012-02-11,Newcastle,H,5,0,W,4,0,W,18,7,9,3,5,4,Harry Redknapp
-1112,2012-02-26,Arsenal,A,2,5,L,2,2,D,8,21,4,13,-3,0,Harry Redknapp
-1112,2012-03-04,Man United,H,1,3,L,0,1,L,18,6,9,5,-2,-1,Harry Redknapp
-1112,2012-03-10,Everton,A,0,1,L,0,1,L,21,9,9,5,-1,-1,Harry Redknapp
-1112,2012-03-21,Stoke,H,1,1,D,0,0,D,24,8,18,2,0,0,Harry Redknapp
-1112,2012-03-24,Chelsea,A,0,0,D,0,0,D,19,10,7,5,0,0,Harry Redknapp
-1112,2012-04-01,Swansea,H,3,1,W,1,0,W,15,11,10,7,2,1,Harry Redknapp
-1112,2012-04-07,Sunderland,A,0,0,D,0,0,D,15,12,8,9,0,0,Harry Redknapp
-1112,2012-04-09,Norwich,H,1,2,L,1,1,D,13,12,9,6,-1,0,Harry Redknapp
-1112,2012-04-21,QPR,A,0,1,L,0,1,L,17,12,8,5,-1,-1,Harry Redknapp
-1112,2012-04-29,Blackburn,H,2,0,W,1,0,W,19,0,8,0,2,1,Harry Redknapp
-1112,2012-05-02,Bolton,A,4,1,W,1,0,W,13,14,10,8,3,1,Harry Redknapp
-1112,2012-05-06,Aston Villa,A,1,1,D,0,1,L,21,4,10,2,0,-1,Harry Redknapp
-1112,2012-05-13,Fulham,H,2,0,W,1,0,W,15,10,9,7,2,1,Harry Redknapp
-1213,2012-08-18,Newcastle,A,1,2,L,0,0,D,12,6,6,4,-1,0,André Villas-Boas
-1213,2012-08-25,West Brom,H,1,1,D,0,0,D,18,10,10,5,0,0,André Villas-Boas
-1213,2012-09-01,Norwich,H,1,1,D,0,0,D,15,10,9,4,0,0,André Villas-Boas
-1213,2012-09-16,Reading,A,3,1,W,1,0,W,22,4,11,2,2,1,André Villas-Boas
-1213,2012-09-23,QPR,H,2,1,W,0,1,L,18,9,14,6,1,-1,André Villas-Boas
-1213,2012-09-29,Man United,A,3,2,W,2,0,W,10,15,6,8,1,2,André Villas-Boas
-1213,2012-10-07,Aston Villa,H,2,0,W,0,0,D,23,8,10,5,2,0,André Villas-Boas
-1213,2012-10-20,Chelsea,H,2,4,L,0,1,L,23,11,16,7,-2,-1,André Villas-Boas
-1213,2012-10-28,Southampton,A,2,1,W,2,0,W,11,11,4,6,1,2,André Villas-Boas
-1213,2012-11-03,Wigan,H,0,1,L,0,0,D,13,7,10,4,-1,0,André Villas-Boas
-1213,2012-11-11,Man City,A,1,2,L,1,0,W,6,16,2,8,-1,1,André Villas-Boas
-1213,2012-11-17,Arsenal,A,2,5,L,1,3,L,6,13,4,10,-3,-2,André Villas-Boas
-1213,2012-11-25,West Ham,H,3,1,W,1,0,W,25,10,13,6,2,1,André Villas-Boas
-1213,2012-11-28,Liverpool,H,2,1,W,2,0,W,14,14,7,9,1,2,André Villas-Boas
-1213,2012-12-01,Fulham,A,3,0,W,0,0,D,10,8,6,2,3,0,André Villas-Boas
-1213,2012-12-09,Everton,A,1,2,L,0,0,D,8,17,6,11,-1,0,André Villas-Boas
-1213,2012-12-16,Swansea,H,1,0,W,0,0,D,24,4,16,0,1,0,André Villas-Boas
-1213,2012-12-22,Stoke,H,0,0,D,0,0,D,21,4,14,2,0,0,André Villas-Boas
-1213,2012-12-26,Aston Villa,A,4,0,W,0,0,D,20,4,16,1,4,0,André Villas-Boas
-1213,2012-12-29,Sunderland,A,2,1,W,0,1,L,18,9,14,6,1,-1,André Villas-Boas
-1213,2013-01-01,Reading,H,3,1,W,1,1,D,30,7,20,4,2,0,André Villas-Boas
-1213,2013-01-12,QPR,A,0,0,D,0,0,D,16,4,8,1,0,0,André Villas-Boas
-1213,2013-01-20,Man United,H,1,1,D,0,1,L,23,6,18,4,0,-1,André Villas-Boas
-1213,2013-01-30,Norwich,A,1,1,D,0,1,L,12,8,7,4,0,-1,André Villas-Boas
-1213,2013-02-03,West Brom,A,1,0,W,0,0,D,21,4,13,3,1,0,André Villas-Boas
-1213,2013-02-09,Newcastle,H,2,1,W,1,1,D,16,9,9,7,1,0,André Villas-Boas
-1213,2013-02-25,West Ham,A,3,2,W,1,1,D,25,8,16,6,1,0,André Villas-Boas
-1213,2013-03-03,Arsenal,H,2,1,W,2,0,W,11,10,5,6,1,2,André Villas-Boas
-1213,2013-03-10,Liverpool,A,2,3,L,1,1,D,15,10,9,4,-1,0,André Villas-Boas
-1213,2013-03-17,Fulham,H,0,1,L,0,0,D,12,6,6,2,-1,0,André Villas-Boas
-1213,2013-03-30,Swansea,A,2,1,W,2,0,W,9,11,7,3,1,2,André Villas-Boas
-1213,2013-04-07,Everton,H,2,2,D,1,1,D,19,9,10,5,0,0,André Villas-Boas
-1213,2013-04-21,Man City,H,3,1,W,0,1,L,11,11,8,7,2,-1,André Villas-Boas
-1213,2013-04-27,Wigan,A,2,2,D,1,1,D,14,6,7,4,0,0,André Villas-Boas
-1213,2013-05-04,Southampton,H,1,0,W,0,0,D,7,10,4,6,1,0,André Villas-Boas
-1213,2013-05-08,Chelsea,A,2,2,D,1,2,L,13,15,6,8,0,-1,André Villas-Boas
-1213,2013-05-12,Stoke,A,2,1,W,1,1,D,23,6,15,3,1,0,André Villas-Boas
-1213,2013-05-19,Sunderland,H,1,0,W,0,0,D,23,6,19,4,1,0,André Villas-Boas
-1314,2013-08-18,Crystal Palace,A,1,0,W,0,0,D,17,5,2,3,1,0,André Villas-Boas
-1314,2013-08-25,Swansea,H,1,0,W,0,0,D,19,7,5,5,1,0,André Villas-Boas
-1314,2013-09-01,Arsenal,A,0,1,L,0,1,L,14,12,4,5,-1,-1,André Villas-Boas
-1314,2013-09-14,Norwich,H,2,0,W,1,0,W,23,4,7,1,2,1,André Villas-Boas
-1314,2013-09-22,Cardiff,A,1,0,W,0,0,D,29,6,12,0,1,0,André Villas-Boas
-1314,2013-09-28,Chelsea,H,1,1,D,1,0,W,12,11,4,5,0,1,André Villas-Boas
-1314,2013-10-06,West Ham,H,0,3,L,0,0,D,14,16,4,5,-3,0,André Villas-Boas
-1314,2013-10-20,Aston Villa,A,2,0,W,1,0,W,13,15,6,2,2,1,André Villas-Boas
-1314,2013-10-27,Hull,H,1,0,W,0,0,D,15,10,6,4,1,0,André Villas-Boas
-1314,2013-11-03,Everton,A,0,0,D,0,0,D,16,8,6,1,0,0,André Villas-Boas
-1314,2013-11-10,Newcastle,H,0,1,L,0,1,L,31,8,14,4,-1,-1,André Villas-Boas
-1314,2013-11-24,Man City,A,0,6,L,0,3,L,13,15,5,10,-6,-3,André Villas-Boas
-1314,2013-12-01,Man United,H,2,2,D,1,1,D,10,8,4,3,0,0,André Villas-Boas
-1314,2013-12-04,Fulham,A,2,1,W,0,0,D,18,16,5,6,1,0,André Villas-Boas
-1314,2013-12-07,Sunderland,A,2,1,W,1,1,D,22,11,5,4,1,0,André Villas-Boas
-1314,2013-12-15,Liverpool,H,0,5,L,0,2,L,9,21,0,10,-5,-2,André Villas-Boas
-1314,2013-12-22,Southampton,A,3,2,W,1,1,D,13,12,3,5,1,0,Tim Sherwood
-1314,2013-12-26,West Brom,H,1,1,D,1,1,D,20,7,3,4,0,0,Tim Sherwood
-1314,2013-12-29,Stoke,H,3,0,W,1,0,W,20,2,7,1,3,1,Tim Sherwood
-1314,2014-01-01,Man United,A,2,1,W,1,0,W,9,16,4,6,1,1,Tim Sherwood
-1314,2014-01-11,Crystal Palace,H,2,0,W,0,0,D,10,14,4,2,2,0,Tim Sherwood
-1314,2014-01-19,Swansea,A,3,1,W,1,0,W,11,13,5,3,2,1,Tim Sherwood
-1314,2014-01-29,Man City,H,1,5,L,0,1,L,4,24,2,10,-4,-1,Tim Sherwood
-1314,2014-02-01,Hull,A,1,1,D,0,1,L,19,9,3,4,0,-1,Tim Sherwood
-1314,2014-02-09,Everton,H,1,0,W,0,0,D,8,11,2,3,1,0,Tim Sherwood
-1314,2014-02-12,Newcastle,A,4,0,W,1,0,W,15,13,8,5,4,1,Tim Sherwood
-1314,2014-02-23,Norwich,A,0,1,L,0,0,D,9,13,2,3,-1,0,Tim Sherwood
-1314,2014-03-02,Cardiff,H,1,0,W,1,0,W,15,8,6,2,1,1,Tim Sherwood
-1314,2014-03-08,Chelsea,A,0,4,L,0,0,D,6,12,2,4,-4,0,Tim Sherwood
-1314,2014-03-16,Arsenal,H,0,1,L,0,1,L,17,7,2,3,-1,-1,Tim Sherwood
-1314,2014-03-23,Southampton,H,3,2,W,1,2,L,15,12,6,4,1,-1,Tim Sherwood
-1314,2014-03-30,Liverpool,A,0,4,L,0,2,L,15,11,4,5,-4,-2,Tim Sherwood
-1314,2014-04-07,Sunderland,H,5,1,W,1,1,D,29,8,11,4,4,0,Tim Sherwood
-1314,2014-04-12,West Brom,A,3,3,D,1,3,L,20,6,8,5,0,-2,Tim Sherwood
-1314,2014-04-19,Fulham,H,3,1,W,1,1,D,14,11,5,4,2,0,Tim Sherwood
-1314,2014-04-26,Stoke,A,1,0,W,1,0,W,16,17,4,3,1,1,Tim Sherwood
-1314,2014-05-03,West Ham,A,0,2,L,0,2,L,12,20,3,8,-2,-2,Tim Sherwood
-1314,2014-05-11,Aston Villa,H,3,0,W,3,0,W,12,4,6,1,3,3,Tim Sherwood
-1415,2014-08-16,West Ham,A,1,0,W,0,0,D,10,18,4,4,1,0,Mauricio Pochettino
-1415,2014-08-24,QPR,H,4,0,W,3,0,W,18,9,5,1,4,3,Mauricio Pochettino
-1415,2014-08-31,Liverpool,H,0,3,L,0,1,L,7,17,1,8,-3,-1,Mauricio Pochettino
-1415,2014-09-13,Sunderland,A,2,2,D,1,1,D,15,6,6,1,0,0,Mauricio Pochettino
-1415,2014-09-21,West Brom,H,0,1,L,0,0,D,7,10,1,4,-1,0,Mauricio Pochettino
-1415,2014-09-27,Arsenal,A,1,1,D,0,0,D,6,16,4,6,0,0,Mauricio Pochettino
-1415,2014-10-05,Southampton,H,1,0,W,1,0,W,9,7,4,3,1,1,Mauricio Pochettino
-1415,2014-10-18,Man City,A,1,4,L,1,2,L,19,20,7,12,-3,-1,Mauricio Pochettino
-1415,2014-10-26,Newcastle,H,1,2,L,1,0,W,17,8,2,2,-1,1,Mauricio Pochettino
-1415,2014-11-02,Aston Villa,A,2,1,W,0,1,L,18,12,7,1,1,-1,Mauricio Pochettino
-1415,2014-11-09,Stoke,H,1,2,L,0,2,L,14,11,4,4,-1,-2,Mauricio Pochettino
-1415,2014-11-23,Hull,A,2,1,W,0,1,L,23,10,6,2,1,-1,Mauricio Pochettino
-1415,2014-11-30,Everton,H,2,1,W,2,1,W,13,10,6,5,1,1,Mauricio Pochettino
-1415,2014-12-03,Chelsea,A,0,3,L,0,2,L,10,12,2,8,-3,-2,Mauricio Pochettino
-1415,2014-12-06,Crystal Palace,H,0,0,D,0,0,D,14,16,3,4,0,0,Mauricio Pochettino
-1415,2014-12-14,Swansea,A,2,1,W,1,0,W,10,15,4,3,1,1,Mauricio Pochettino
-1415,2014-12-20,Burnley,H,2,1,W,2,1,W,23,9,6,5,1,1,Mauricio Pochettino
-1415,2014-12-26,Leicester,A,2,1,W,1,0,W,8,22,3,6,1,1,Mauricio Pochettino
-1415,2014-12-28,Man United,H,0,0,D,0,0,D,9,9,4,5,0,0,Mauricio Pochettino
-1415,2015-01-01,Chelsea,H,5,3,W,3,1,W,11,19,8,7,2,2,Mauricio Pochettino
-1415,2015-01-10,Crystal Palace,A,1,2,L,0,0,D,9,21,5,7,-1,0,Mauricio Pochettino
-1415,2015-01-17,Sunderland,H,2,1,W,1,1,D,25,8,8,4,1,0,Mauricio Pochettino
-1415,2015-01-31,West Brom,A,3,0,W,2,0,W,14,13,4,4,3,2,Mauricio Pochettino
-1415,2015-02-07,Arsenal,H,2,1,W,0,1,L,23,7,8,3,1,-1,Mauricio Pochettino
-1415,2015-02-10,Liverpool,A,2,3,L,1,1,D,14,16,5,7,-1,0,Mauricio Pochettino
-1415,2015-02-22,West Ham,H,2,2,D,0,1,L,27,12,8,5,0,-1,Mauricio Pochettino
-1415,2015-03-04,Swansea,H,3,2,W,1,1,D,20,10,7,5,1,0,Mauricio Pochettino
-1415,2015-03-07,QPR,A,2,1,W,1,0,W,13,17,6,6,1,1,Mauricio Pochettino
-1415,2015-03-15,Man United,A,0,3,L,0,3,L,5,11,1,3,-3,-3,Mauricio Pochettino
-1415,2015-03-21,Leicester,H,4,3,W,2,1,W,10,14,4,5,1,1,Mauricio Pochettino
-1415,2015-04-05,Burnley,A,0,0,D,0,0,D,12,15,2,4,0,0,Mauricio Pochettino
-1415,2015-04-11,Aston Villa,H,0,1,L,0,1,L,14,10,3,3,-1,-1,Mauricio Pochettino
-1415,2015-04-19,Newcastle,A,3,1,W,1,0,W,14,11,8,5,2,1,Mauricio Pochettino
-1415,2015-04-25,Southampton,A,2,2,D,1,1,D,7,13,2,4,0,0,Mauricio Pochettino
-1415,2015-05-03,Man City,H,0,1,L,0,1,L,21,15,5,4,-1,-1,Mauricio Pochettino
-1415,2015-05-09,Stoke,A,0,3,L,0,2,L,9,17,3,9,-3,-2,Mauricio Pochettino
-1415,2015-05-16,Hull,H,2,0,W,0,0,D,10,14,3,2,2,0,Mauricio Pochettino
-1415,2015-05-24,Everton,A,1,0,W,1,0,W,16,9,3,1,1,1,Mauricio Pochettino
-1516,2015-08-08,Man United,A,0,1,L,0,1,L,9,9,4,1,-1,-1,Mauricio Pochettino
-1516,2015-08-15,Stoke,H,2,2,D,2,0,W,13,16,7,7,0,2,Mauricio Pochettino
-1516,2015-08-22,Leicester,A,1,1,D,0,0,D,19,13,6,2,0,0,Mauricio Pochettino
-1516,2015-08-29,Everton,H,0,0,D,0,0,D,20,8,6,3,0,0,Mauricio Pochettino
-1516,2015-09-13,Sunderland,A,1,0,W,0,0,D,15,12,4,2,1,0,Mauricio Pochettino
-1516,2015-09-20,Crystal Palace,H,1,0,W,0,0,D,22,12,6,4,1,0,Mauricio Pochettino
-1516,2015-09-26,Man City,H,4,1,W,1,1,D,15,22,8,8,3,0,Mauricio Pochettino
-1516,2015-10-04,Swansea,A,2,2,D,1,2,L,19,11,11,2,0,-1,Mauricio Pochettino
-1516,2015-10-17,Liverpool,H,0,0,D,0,0,D,13,12,4,3,0,0,Mauricio Pochettino
-1516,2015-10-25,Bournemouth,A,5,1,W,3,1,W,14,11,9,3,4,2,Mauricio Pochettino
-1516,2015-11-02,Aston Villa,H,3,1,W,2,0,W,17,13,6,2,2,2,Mauricio Pochettino
-1516,2015-11-08,Arsenal,A,1,1,D,1,0,W,14,10,4,4,0,1,Mauricio Pochettino
-1516,2015-11-22,West Ham,H,4,1,W,2,0,W,22,10,12,4,3,2,Mauricio Pochettino
-1516,2015-11-29,Chelsea,H,0,0,D,0,0,D,9,5,4,1,0,0,Mauricio Pochettino
-1516,2015-12-05,West Brom,A,1,1,D,1,1,D,9,11,3,4,0,0,Mauricio Pochettino
-1516,2015-12-13,Newcastle,H,1,2,L,1,0,W,20,8,8,4,-1,1,Mauricio Pochettino
-1516,2015-12-19,Southampton,A,2,0,W,2,0,W,13,11,6,4,2,2,Mauricio Pochettino
-1516,2015-12-26,Norwich,H,3,0,W,2,0,W,15,11,10,3,3,2,Mauricio Pochettino
-1516,2015-12-28,Watford,A,2,1,W,1,1,D,10,9,3,1,1,0,Mauricio Pochettino
-1516,2016-01-03,Everton,A,1,1,D,1,1,D,19,12,4,3,0,0,Mauricio Pochettino
-1516,2016-01-13,Leicester,H,0,1,L,0,0,D,21,10,5,2,-1,0,Mauricio Pochettino
-1516,2016-01-16,Sunderland,H,4,1,W,1,1,D,26,5,11,2,3,0,Mauricio Pochettino
-1516,2016-01-23,Crystal Palace,A,3,1,W,0,1,L,24,11,11,3,2,-1,Mauricio Pochettino
-1516,2016-02-02,Norwich,A,3,0,W,2,0,W,17,10,6,2,3,2,Mauricio Pochettino
-1516,2016-02-06,Watford,H,1,0,W,0,0,D,26,3,9,0,1,0,Mauricio Pochettino
-1516,2016-02-14,Man City,A,2,1,W,0,0,D,6,19,3,4,1,0,Mauricio Pochettino
-1516,2016-02-28,Swansea,H,2,1,W,0,1,L,34,10,14,4,1,-1,Mauricio Pochettino
-1516,2016-03-02,West Ham,A,0,1,L,0,1,L,9,14,2,3,-1,-1,Mauricio Pochettino
-1516,2016-03-05,Arsenal,H,2,2,D,0,1,L,26,10,11,4,0,-1,Mauricio Pochettino
-1516,2016-03-13,Aston Villa,A,2,0,W,1,0,W,19,11,8,2,2,1,Mauricio Pochettino
-1516,2016-03-20,Bournemouth,H,3,0,W,2,0,W,17,2,8,0,3,2,Mauricio Pochettino
-1516,2016-04-02,Liverpool,A,1,1,D,0,0,D,18,15,5,7,0,0,Mauricio Pochettino
-1516,2016-04-10,Man United,H,3,0,W,0,0,D,16,5,8,1,3,0,Mauricio Pochettino
-1516,2016-04-18,Stoke,A,4,0,W,1,0,W,23,12,6,2,4,1,Mauricio Pochettino
-1516,2016-04-25,West Brom,H,1,1,D,1,0,W,19,16,2,3,0,1,Mauricio Pochettino
-1516,2016-05-02,Chelsea,A,2,2,D,2,0,W,16,13,5,5,0,2,Mauricio Pochettino
-1516,2016-05-08,Southampton,H,1,2,L,1,1,D,20,10,6,2,-1,0,Mauricio Pochettino
-1516,2016-05-15,Newcastle,A,1,5,L,0,2,L,17,19,5,10,-4,-2,Mauricio Pochettino
-1617,2016-08-13,Everton,A,1,1,D,0,1,L,13,12,4,6,0,-1,Mauricio Pochettino
-1617,2016-08-20,Crystal Palace,H,1,0,W,0,0,D,20,10,5,2,1,0,Mauricio Pochettino
-1617,2016-08-27,Liverpool,H,1,1,D,0,1,L,11,13,4,3,0,-1,Mauricio Pochettino
-1617,2016-09-10,Stoke,A,4,0,W,1,0,W,20,15,8,2,4,1,Mauricio Pochettino
-1617,2016-09-18,Sunderland,H,1,0,W,0,0,D,31,6,9,2,1,0,Mauricio Pochettino
-1617,2016-09-24,Middlesbrough,A,2,1,W,2,0,W,19,6,5,2,1,2,Mauricio Pochettino
-1617,2016-10-02,Man City,H,2,0,W,2,0,W,13,12,7,6,2,2,Mauricio Pochettino
-1617,2016-10-15,West Brom,A,1,1,D,0,0,D,20,8,8,4,0,0,Mauricio Pochettino
-1617,2016-10-22,Bournemouth,A,0,0,D,0,0,D,16,8,4,1,0,0,Mauricio Pochettino
-1617,2016-10-29,Leicester,H,1,1,D,1,0,W,22,6,5,1,0,1,Mauricio Pochettino
-1617,2016-11-06,Arsenal,A,1,1,D,0,1,L,10,15,3,2,0,-1,Mauricio Pochettino
-1617,2016-11-19,West Ham,H,3,2,W,0,1,L,14,11,6,3,1,-1,Mauricio Pochettino
-1617,2016-11-26,Chelsea,A,1,2,L,1,1,D,12,9,6,5,-1,0,Mauricio Pochettino
-1617,2016-12-03,Swansea,H,5,0,W,2,0,W,28,1,15,0,5,2,Mauricio Pochettino
-1617,2016-12-11,Man United,A,0,1,L,0,1,L,12,15,4,5,-1,-1,Mauricio Pochettino
-1617,2016-12-14,Hull,H,3,0,W,1,0,W,27,10,9,5,3,1,Mauricio Pochettino
-1617,2016-12-18,Burnley,H,2,1,W,1,1,D,30,5,9,2,1,0,Mauricio Pochettino
-1617,2016-12-28,Southampton,A,4,1,W,1,1,D,17,9,5,2,3,0,Mauricio Pochettino
-1617,2017-01-01,Watford,A,4,1,W,3,0,W,19,6,6,2,3,3,Mauricio Pochettino
-1617,2017-01-04,Chelsea,H,2,0,W,1,0,W,9,11,2,2,2,1,Mauricio Pochettino
-1617,2017-01-14,West Brom,H,4,0,W,2,0,W,21,3,11,0,4,2,Mauricio Pochettino
-1617,2017-01-21,Man City,A,2,2,D,0,0,D,6,17,2,7,0,0,Mauricio Pochettino
-1617,2017-01-31,Sunderland,A,0,0,D,0,0,D,14,3,3,1,0,0,Mauricio Pochettino
-1617,2017-02-04,Middlesbrough,H,1,0,W,0,0,D,17,8,5,0,1,0,Mauricio Pochettino
-1617,2017-02-11,Liverpool,A,0,2,L,0,2,L,7,17,2,9,-2,-2,Mauricio Pochettino
-1617,2017-02-26,Stoke,H,4,0,W,4,0,W,21,5,9,3,4,4,Mauricio Pochettino
-1617,2017-03-05,Everton,H,3,2,W,1,0,W,20,8,7,4,1,1,Mauricio Pochettino
-1617,2017-03-19,Southampton,H,2,1,W,2,0,W,12,8,6,3,1,2,Mauricio Pochettino
-1617,2017-04-01,Burnley,A,2,0,W,0,0,D,19,13,7,2,2,0,Mauricio Pochettino
-1617,2017-04-05,Swansea,A,3,1,W,0,1,L,18,4,8,1,2,-1,Mauricio Pochettino
-1617,2017-04-08,Watford,H,4,0,W,3,0,W,19,8,6,2,4,3,Mauricio Pochettino
-1617,2017-04-15,Bournemouth,H,4,0,W,2,0,W,24,5,14,1,4,2,Mauricio Pochettino
-1617,2017-04-26,Crystal Palace,A,1,0,W,0,0,D,18,6,4,1,1,0,Mauricio Pochettino
-1617,2017-04-30,Arsenal,H,2,0,W,0,0,D,20,12,11,4,2,0,Mauricio Pochettino
-1617,2017-05-05,West Ham,A,0,1,L,0,0,D,11,13,5,5,-1,0,Mauricio Pochettino
-1617,2017-05-14,Man United,H,2,1,W,1,0,W,14,8,7,2,1,1,Mauricio Pochettino
-1617,2017-05-18,Leicester,A,6,1,W,2,0,W,26,12,12,5,5,2,Mauricio Pochettino
-1617,2017-05-21,Hull,A,7,1,W,3,0,W,19,10,14,4,6,3,Mauricio Pochettino
-1718,2017-08-13,Newcastle,A,2,0,W,0,0,D,18,6,6,3,2,0,Mauricio Pochettino
-1718,2017-08-20,Chelsea,H,1,2,L,0,1,L,18,9,6,2,-1,-1,Mauricio Pochettino
-1718,2017-08-27,Burnley,H,1,1,D,0,0,D,28,13,5,3,0,0,Mauricio Pochettino
-1718,2017-09-09,Everton,A,3,0,W,2,0,W,15,12,6,1,3,2,Mauricio Pochettino
-1718,2017-09-16,Swansea,H,0,0,D,0,0,D,26,4,8,0,0,0,Mauricio Pochettino
-1718,2017-09-23,West Ham,A,3,2,W,2,0,W,15,10,5,4,1,2,Mauricio Pochettino
-1718,2017-09-30,Huddersfield,A,4,0,W,3,0,W,14,6,7,1,4,3,Mauricio Pochettino
-1718,2017-10-14,Bournemouth,H,1,0,W,0,0,D,18,5,6,1,1,0,Mauricio Pochettino
-1718,2017-10-22,Liverpool,H,4,1,W,3,1,W,14,12,6,7,3,2,Mauricio Pochettino
-1718,2017-10-28,Man United,A,0,1,L,0,0,D,13,11,4,3,-1,0,Mauricio Pochettino
-1718,2017-11-05,Crystal Palace,H,1,0,W,0,0,D,12,11,2,3,1,0,Mauricio Pochettino
-1718,2017-11-18,Arsenal,A,0,2,L,0,2,L,14,14,4,5,-2,-2,Mauricio Pochettino
-1718,2017-11-25,West Brom,H,1,1,D,0,1,L,24,5,5,2,0,-1,Mauricio Pochettino
-1718,2017-11-28,Leicester,A,1,2,L,0,2,L,18,7,6,4,-1,-2,Mauricio Pochettino
-1718,2017-12-02,Watford,A,1,1,D,1,1,D,8,6,2,2,0,0,Mauricio Pochettino
-1718,2017-12-09,Stoke,H,5,1,W,1,0,W,20,4,11,3,4,1,Mauricio Pochettino
-1718,2017-12-13,Brighton,H,2,0,W,1,0,W,25,7,8,4,2,1,Mauricio Pochettino
-1718,2017-12-16,Man City,A,1,4,L,0,1,L,7,20,2,11,-3,-1,Mauricio Pochettino
-1718,2017-12-23,Burnley,A,3,0,W,1,0,W,18,5,8,2,3,1,Mauricio Pochettino
-1718,2017-12-26,Southampton,H,5,2,W,2,0,W,16,16,7,6,3,2,Mauricio Pochettino
-1718,2018-01-02,Swansea,A,2,0,W,1,0,W,12,8,5,1,2,1,Mauricio Pochettino
-1718,2018-01-04,West Ham,H,1,1,D,0,0,D,31,3,8,1,0,0,Mauricio Pochettino
-1718,2018-01-13,Everton,H,4,0,W,1,0,W,20,7,10,0,4,1,Mauricio Pochettino
-1718,2018-01-21,Southampton,A,1,1,D,1,1,D,17,10,2,4,0,0,Mauricio Pochettino
-1718,2018-01-31,Man United,H,2,0,W,2,0,W,22,6,6,3,2,2,Mauricio Pochettino
-1718,2018-02-04,Liverpool,A,2,2,D,0,1,L,13,9,6,3,0,-1,Mauricio Pochettino
-1718,2018-02-10,Arsenal,H,1,0,W,0,0,D,18,6,6,1,1,0,Mauricio Pochettino
-1718,2018-02-25,Crystal Palace,A,1,0,W,0,0,D,14,5,4,3,1,0,Mauricio Pochettino
-1718,2018-03-03,Huddersfield,H,2,0,W,1,0,W,15,3,7,3,2,1,Mauricio Pochettino
-1718,2018-03-11,Bournemouth,A,4,1,W,1,1,D,12,14,8,3,3,0,Mauricio Pochettino
-1718,2018-04-01,Chelsea,A,3,1,W,1,1,D,12,14,7,4,2,0,Mauricio Pochettino
-1718,2018-04-07,Stoke,A,2,1,W,0,0,D,15,10,4,4,1,0,Mauricio Pochettino
-1718,2018-04-14,Man City,H,1,3,L,1,2,L,8,17,3,6,-2,-1,Mauricio Pochettino
-1718,2018-04-17,Brighton,A,1,1,D,0,0,D,16,8,6,5,0,0,Mauricio Pochettino
-1718,2018-04-30,Watford,H,2,0,W,1,0,W,13,13,3,5,2,1,Mauricio Pochettino
-1718,2018-05-05,West Brom,A,0,1,L,0,0,D,18,9,5,1,-1,0,Mauricio Pochettino
-1718,2018-05-09,Newcastle,H,1,0,W,0,0,D,11,14,7,3,1,0,Mauricio Pochettino
-1718,2018-05-13,Leicester,H,5,4,W,1,2,L,14,16,6,9,1,-1,Mauricio Pochettino
-1819,2018-08-11,Newcastle,A,2,1,W,2,1,W,15,15,5,2,1,1,Mauricio Pochettino
-1819,2018-08-18,Fulham,H,3,1,W,1,0,W,25,10,11,3,2,1,Mauricio Pochettino
-1819,2018-08-27,Man United,A,3,0,W,0,0,D,9,23,5,5,3,0,Mauricio Pochettino
-1819,2018-09-02,Watford,A,1,2,L,0,0,D,11,7,2,3,-1,0,Mauricio Pochettino
-1819,2018-09-15,Liverpool,H,1,2,L,0,1,L,11,17,3,10,-1,-1,Mauricio Pochettino
-1819,2018-09-22,Brighton,A,2,1,W,1,0,W,16,8,7,4,1,1,Mauricio Pochettino
-1819,2018-09-29,Huddersfield,A,2,0,W,2,0,W,10,9,6,5,2,2,Mauricio Pochettino
-1819,2018-10-06,Cardiff,H,1,0,W,1,0,W,19,8,7,6,1,1,Mauricio Pochettino
-1819,2018-10-20,West Ham,A,1,0,W,1,0,W,10,13,2,4,1,1,Mauricio Pochettino
-1819,2018-10-29,Man City,H,0,1,L,0,1,L,4,13,1,6,-1,-1,Mauricio Pochettino
-1819,2018-11-03,Wolves,A,3,2,W,2,0,W,10,16,8,7,1,2,Mauricio Pochettino
-1819,2018-11-10,Crystal Palace,A,1,0,W,0,0,D,11,11,2,4,1,0,Mauricio Pochettino
-1819,2018-11-24,Chelsea,H,3,1,W,2,0,W,18,13,9,2,2,2,Mauricio Pochettino
-1819,2018-12-02,Arsenal,A,2,4,L,2,1,W,11,22,6,7,-2,1,Mauricio Pochettino
-1819,2018-12-05,Southampton,H,3,1,W,1,0,W,13,18,8,5,2,1,Mauricio Pochettino
-1819,2018-12-08,Leicester,A,2,0,W,1,0,W,7,11,2,3,2,1,Mauricio Pochettino
-1819,2018-12-15,Burnley,H,1,0,W,0,0,D,15,4,3,0,1,0,Mauricio Pochettino
-1819,2018-12-23,Everton,A,6,2,W,3,1,W,17,10,8,3,4,2,Mauricio Pochettino
-1819,2018-12-26,Bournemouth,H,5,0,W,3,0,W,10,14,7,4,5,3,Mauricio Pochettino
-1819,2018-12-29,Wolves,H,1,3,L,1,0,W,10,11,3,4,-2,1,Mauricio Pochettino
-1819,2019-01-01,Cardiff,A,3,0,W,3,0,W,13,6,4,3,3,3,Mauricio Pochettino
-1819,2019-01-13,Man United,H,0,1,L,0,1,L,21,13,11,8,-1,-1,Mauricio Pochettino
-1819,2019-01-20,Fulham,A,2,1,W,0,1,L,14,12,5,4,1,-1,Mauricio Pochettino
-1819,2019-01-30,Watford,H,2,1,W,0,1,L,17,9,3,1,1,-1,Mauricio Pochettino
-1819,2019-02-02,Newcastle,H,1,0,W,0,0,D,21,8,4,2,1,0,Mauricio Pochettino
-1819,2019-02-10,Leicester,H,3,1,W,1,0,W,12,20,5,9,2,1,Mauricio Pochettino
-1819,2019-02-23,Burnley,A,1,2,L,0,0,D,17,10,6,4,-1,0,Mauricio Pochettino
-1819,2019-02-27,Chelsea,A,0,2,L,0,0,D,9,11,0,1,-2,0,Mauricio Pochettino
-1819,2019-03-02,Arsenal,H,1,1,D,0,1,L,10,9,3,4,0,-1,Mauricio Pochettino
-1819,2019-03-09,Southampton,A,1,2,L,1,0,W,16,12,5,4,-1,1,Mauricio Pochettino
-1819,2019-03-31,Liverpool,A,1,2,L,0,1,L,11,14,2,3,-1,-1,Mauricio Pochettino
-1819,2019-04-03,Crystal Palace,H,2,0,W,0,0,D,26,5,10,1,2,0,Mauricio Pochettino
-1819,2019-04-13,Huddersfield,H,4,0,W,2,0,W,22,7,5,1,4,2,Mauricio Pochettino
-1819,2019-04-20,Man City,A,0,1,L,0,1,L,10,15,4,4,-1,-1,Mauricio Pochettino
-1819,2019-04-23,Brighton,H,1,0,W,0,0,D,29,6,5,1,1,0,Mauricio Pochettino
-1819,2019-04-27,West Ham,H,0,1,L,0,0,D,14,16,4,7,-1,0,Mauricio Pochettino
-1819,2019-05-04,Bournemouth,A,0,1,L,0,0,D,11,20,5,6,-1,0,Mauricio Pochettino
-1819,2019-05-12,Everton,H,2,2,D,1,0,W,11,17,3,9,0,1,Mauricio Pochettino
-1920,2019-08-10,Aston Villa,H,3,1,W,0,1,L,31,7,7,4,2,-1,Mauricio Pochettino
-1920,2019-08-17,Man City,A,2,2,D,1,2,L,3,30,2,10,0,-1,Mauricio Pochettino
-1920,2019-08-25,Newcastle,H,0,1,L,0,1,L,17,8,2,3,-1,-1,Mauricio Pochettino
-1920,2019-09-01,Arsenal,A,2,2,D,2,1,W,13,26,9,8,0,1,Mauricio Pochettino
-1920,2019-09-14,Crystal Palace,H,4,0,W,4,0,W,13,11,5,6,4,4,Mauricio Pochettino
-1920,2019-09-21,Leicester,A,1,2,L,1,0,W,11,16,4,7,-1,1,Mauricio Pochettino
-1920,2019-09-28,Southampton,H,2,1,W,2,1,W,9,14,4,6,1,1,Mauricio Pochettino
-1920,2019-10-05,Brighton,A,0,3,L,0,2,L,8,17,3,6,-3,-2,Mauricio Pochettino
-1920,2019-10-19,Watford,H,1,1,D,0,1,L,12,7,2,2,0,-1,Mauricio Pochettino
-1920,2019-10-27,Liverpool,A,1,2,L,1,0,W,11,21,4,13,-1,1,Mauricio Pochettino
-1920,2019-11-03,Everton,A,1,1,D,0,0,D,4,7,2,3,0,0,Mauricio Pochettino
-1920,2019-11-09,Sheffield United,H,1,1,D,0,0,D,17,14,5,4,0,0,Mauricio Pochettino
-1920,2019-11-23,West Ham,A,3,2,W,2,0,W,15,11,6,4,1,2,José Mourinho
-1920,2019-11-30,Bournemouth,H,3,2,W,1,0,W,15,20,5,6,1,1,José Mourinho
-1920,2019-12-04,Man United,A,1,2,L,1,1,D,8,12,5,7,-1,0,José Mourinho
-1920,2019-12-07,Burnley,H,5,0,W,3,0,W,13,7,7,1,5,3,José Mourinho
-1920,2019-12-15,Wolves,A,2,1,W,1,0,W,9,18,5,5,1,1,José Mourinho
-1920,2019-12-22,Chelsea,H,0,2,L,0,2,L,5,13,1,3,-2,-2,José Mourinho
-1920,2019-12-26,Brighton,H,2,1,W,0,1,L,11,11,5,5,1,-1,José Mourinho
-1920,2019-12-28,Norwich,A,2,2,D,0,1,L,15,5,7,2,0,-1,José Mourinho
-1920,2020-01-01,Southampton,A,0,1,L,0,1,L,11,12,5,3,-1,-1,José Mourinho
-1920,2020-01-11,Liverpool,H,0,1,L,0,1,L,14,13,4,7,-1,-1,José Mourinho
-1920,2020-01-18,Watford,A,0,0,D,0,0,D,17,15,5,2,0,0,José Mourinho
-1920,2020-01-22,Norwich,H,2,1,W,1,0,W,14,12,3,2,1,1,José Mourinho
-1920,2020-02-02,Man City,H,2,0,W,0,0,D,3,18,3,5,2,0,José Mourinho
-1920,2020-02-16,Aston Villa,A,3,2,W,2,1,W,23,18,10,4,1,1,José Mourinho
-1920,2020-02-22,Chelsea,A,1,2,L,0,1,L,5,17,3,7,-1,-1,José Mourinho
-1920,2020-03-01,Wolves,H,2,3,L,2,1,W,13,14,5,4,-1,1,José Mourinho
-1920,2020-03-07,Burnley,A,1,1,D,0,1,L,13,21,2,8,0,-1,José Mourinho
-1920,2020-06-19,Man United,H,1,1,D,1,0,W,10,12,3,6,0,1,José Mourinho
-1920,2020-06-23,West Ham,H,2,0,W,0,0,D,15,10,4,2,2,0,José Mourinho
-1920,2020-07-02,Sheffield United,A,1,3,L,0,1,L,9,7,2,5,-2,-1,José Mourinho
-1920,2020-07-06,Everton,H,1,0,W,1,0,W,12,11,2,3,1,1,José Mourinho
-1920,2020-07-09,Bournemouth,A,0,0,D,0,0,D,9,9,0,2,0,0,José Mourinho
-1920,2020-07-12,Arsenal,H,2,1,W,1,1,D,15,13,9,4,1,0,José Mourinho
-1920,2020-07-15,Newcastle,A,3,1,W,1,0,W,8,22,5,6,2,1,José Mourinho
-1920,2020-07-19,Leicester,H,3,0,W,3,0,W,7,24,3,6,3,3,José Mourinho
-1920,2020-07-26,Crystal Palace,A,1,1,D,1,0,W,7,13,2,2,0,1,José Mourinho
-2021,2020-09-13,Everton,H,0,1,L,0,0,D,9,15,5,4,-1,0,José Mourinho
-2021,2020-09-20,Southampton,A,5,2,W,1,1,D,9,14,6,7,3,0,José Mourinho
-2021,2020-09-27,Newcastle,H,1,1,D,1,0,W,23,6,12,1,0,1,José Mourinho
-2021,2020-10-04,Man United,A,6,1,W,4,1,W,22,5,8,2,5,3,José Mourinho
-2021,2020-10-18,West Ham,H,3,3,D,3,0,W,11,13,6,4,0,3,José Mourinho
-2021,2020-10-26,Burnley,A,1,0,W,0,0,D,9,13,3,4,1,0,José Mourinho
-2021,2020-11-01,Brighton,H,2,1,W,1,0,W,9,6,3,2,1,1,José Mourinho
-2021,2020-11-08,West Brom,A,1,0,W,0,0,D,19,12,5,2,1,0,José Mourinho
-2021,2020-11-21,Man City,H,2,0,W,1,0,W,4,22,2,5,2,1,José Mourinho
-2021,2020-11-29,Chelsea,A,0,0,D,0,0,D,5,13,1,3,0,0,José Mourinho
-2021,2020-12-06,Arsenal,H,2,0,W,2,0,W,6,11,3,2,2,2,José Mourinho
-2021,2020-12-13,Crystal Palace,A,1,1,D,1,0,W,14,16,6,5,0,1,José Mourinho
-2021,2020-12-16,Liverpool,A,1,2,L,1,1,D,8,17,2,11,-1,0,José Mourinho
-2021,2020-12-20,Leicester,H,0,2,L,0,1,L,8,17,3,4,-2,-1,José Mourinho
-2021,2020-12-27,Wolves,A,1,1,D,1,0,W,6,11,3,6,0,1,José Mourinho
-2021,2021-01-02,Leeds,H,3,0,W,2,0,W,20,18,7,5,3,2,José Mourinho
-2021,2021-01-13,Fulham,H,1,1,D,1,0,W,15,15,6,4,0,1,José Mourinho
-2021,2021-01-17,Sheffield United,A,3,1,W,2,0,W,14,15,5,5,2,2,José Mourinho
-2021,2021-01-28,Liverpool,H,1,3,L,0,1,L,3,14,2,7,-2,-1,José Mourinho
-2021,2021-01-31,Brighton,A,0,1,L,0,1,L,8,16,4,5,-1,-1,José Mourinho
-2021,2021-02-04,Chelsea,H,0,1,L,0,1,L,7,18,2,2,-1,-1,José Mourinho
-2021,2021-02-07,West Brom,H,2,0,W,0,0,D,13,4,6,1,2,0,José Mourinho
-2021,2021-02-13,Man City,A,0,3,L,0,1,L,7,15,3,6,-3,-1,José Mourinho
-2021,2021-02-21,West Ham,A,1,2,L,0,1,L,20,4,4,4,-1,-1,José Mourinho
-2021,2021-02-28,Burnley,H,4,0,W,3,0,W,16,10,7,3,4,3,José Mourinho
-2021,2021-03-04,Fulham,A,1,0,W,1,0,W,9,11,2,3,1,1,José Mourinho
-2021,2021-03-07,Crystal Palace,H,4,1,W,1,1,D,12,5,5,1,3,0,José Mourinho
-2021,2021-03-14,Arsenal,A,1,2,L,1,1,D,6,13,3,3,-1,0,José Mourinho
-2021,2021-03-21,Aston Villa,A,2,0,W,1,0,W,9,8,3,1,2,1,José Mourinho
-2021,2021-04-04,Newcastle,A,2,2,D,2,1,W,11,22,5,6,0,1,José Mourinho
-2021,2021-04-11,Man United,H,1,3,L,1,0,W,12,12,3,7,-2,1,José Mourinho
-2021,2021-04-16,Everton,A,2,2,D,1,1,D,12,18,3,7,0,0,José Mourinho
-2021,2021-04-21,Southampton,H,2,1,W,0,1,L,12,10,3,5,1,-1,Interim Manager
-2021,2021-05-02,Sheffield United,H,4,0,W,1,0,W,20,8,11,1,4,1,Interim Manager
-2021,2021-05-08,Leeds,A,1,3,L,1,2,L,11,16,3,7,-2,-1,Interim Manager
-2021,2021-05-16,Wolves,H,2,0,W,1,0,W,24,15,13,3,2,1,Interim Manager
-2021,2021-05-19,Aston Villa,H,1,2,L,1,2,L,10,20,4,4,-1,-1,Interim Manager
-2021,2021-05-23,Leicester,A,4,2,W,1,1,D,11,10,4,6,2,0,Interim Manager
-2122,2021-08-15,Man City,H,1,0,W,0,0,D,13,18,3,4,1,0,Nuno Espírito Santo
-2122,2021-08-22,Wolves,A,1,0,W,1,0,W,8,25,6,6,1,1,Nuno Espírito Santo
-2122,2021-08-29,Watford,H,1,0,W,1,0,W,15,9,8,2,1,1,Nuno Espírito Santo
-2122,2021-09-11,Crystal Palace,A,0,3,L,0,0,D,2,18,1,4,-3,0,Nuno Espírito Santo
-2122,2021-09-19,Chelsea,H,0,3,L,0,0,D,8,20,2,10,-3,0,Nuno Espírito Santo
-2122,2021-09-26,Arsenal,A,1,3,L,0,3,L,10,12,4,7,-2,-3,Nuno Espírito Santo
-2122,2021-10-03,Aston Villa,H,2,1,W,1,0,W,17,14,8,3,1,1,Nuno Espírito Santo
-2122,2021-10-17,Newcastle,A,3,2,W,3,1,W,14,7,4,1,1,2,Nuno Espírito Santo
-2122,2021-10-24,West Ham,A,0,1,L,0,0,D,7,13,4,4,-1,0,Nuno Espírito Santo
-2122,2021-10-30,Man United,H,0,3,L,0,1,L,9,10,0,4,-3,-1,Nuno Espírito Santo
-2122,2021-11-07,Everton,A,0,0,D,0,0,D,8,12,0,2,0,0,Antonio Conte
-2122,2021-11-21,Leeds,H,2,1,W,0,1,L,13,18,4,7,1,-1,Antonio Conte
-2122,2021-12-02,Brentford,H,2,0,W,1,0,W,11,6,6,2,2,1,Antonio Conte
-2122,2021-12-05,Norwich,H,3,0,W,1,0,W,17,10,7,1,3,1,Antonio Conte
-2122,2021-12-19,Liverpool,H,2,2,D,1,1,D,10,18,5,6,0,0,Antonio Conte
-2122,2021-12-26,Crystal Palace,H,3,0,W,2,0,W,17,4,6,0,3,2,Antonio Conte
-2122,2021-12-28,Southampton,A,1,1,D,1,1,D,21,9,11,2,0,0,Antonio Conte
-2122,2022-01-01,Watford,A,1,0,W,0,0,D,21,6,9,4,1,0,Antonio Conte
-2122,2022-01-19,Leicester,A,3,2,W,1,1,D,27,14,10,4,1,0,Antonio Conte
-2122,2022-01-23,Chelsea,A,0,2,L,0,0,D,6,15,3,7,-2,0,Antonio Conte
-2122,2022-02-09,Southampton,H,2,3,L,1,1,D,8,23,3,10,-1,0,Antonio Conte
-2122,2022-02-13,Wolves,H,0,2,L,0,2,L,17,11,7,7,-2,-2,Antonio Conte
-2122,2022-02-19,Man City,A,3,2,W,1,1,D,6,21,5,4,1,0,Antonio Conte
-2122,2022-02-23,Burnley,A,0,1,L,0,0,D,12,15,2,4,-1,0,Antonio Conte
-2122,2022-02-26,Leeds,A,4,0,W,3,0,W,15,19,11,3,4,3,Antonio Conte
-2122,2022-03-07,Everton,H,5,0,W,3,0,W,14,6,7,0,5,3,Antonio Conte
-2122,2022-03-12,Man United,A,2,3,L,1,2,L,10,10,3,6,-1,-1,Antonio Conte
-2122,2022-03-16,Brighton,A,2,0,W,1,0,W,17,15,7,0,2,1,Antonio Conte
-2122,2022-03-20,West Ham,H,3,1,W,2,1,W,17,6,4,1,2,1,Antonio Conte
-2122,2022-04-03,Newcastle,H,5,1,W,1,1,D,19,8,6,1,4,0,Antonio Conte
-2122,2022-04-09,Aston Villa,A,4,0,W,1,0,W,11,9,5,8,4,1,Antonio Conte
-2122,2022-04-16,Brighton,H,0,1,L,0,0,D,5,12,0,5,-1,0,Antonio Conte
-2122,2022-04-23,Brentford,A,0,0,D,0,0,D,9,15,0,2,0,0,Antonio Conte
-2122,2022-05-01,Leicester,H,3,1,W,1,0,W,13,6,7,2,2,1,Antonio Conte
-2122,2022-05-07,Liverpool,A,1,1,D,0,0,D,8,22,3,3,0,0,Antonio Conte
-2122,2022-05-12,Arsenal,H,3,0,W,2,0,W,16,8,6,4,3,2,Antonio Conte
-2122,2022-05-15,Burnley,H,1,0,W,1,0,W,21,8,8,1,1,1,Antonio Conte
-2122,2022-05-22,Norwich,A,5,0,W,2,0,W,19,9,13,0,5,2,Antonio Conte
-2223,2022-08-06,Southampton,H,4,1,W,2,1,W,18,10,8,2,3,1,Antonio Conte
-2223,2022-08-14,Chelsea,A,2,2,D,0,1,L,10,16,5,3,0,-1,Antonio Conte
-2223,2022-08-20,Wolves,H,1,0,W,0,0,D,11,20,4,3,1,0,Antonio Conte
-2223,2022-08-28,Nott'm Forest,A,2,0,W,1,0,W,18,17,7,1,2,1,Antonio Conte
-2223,2022-08-31,West Ham,A,1,1,D,1,0,W,13,14,4,4,0,1,Antonio Conte
-2223,2022-09-03,Fulham,H,2,1,W,1,0,W,23,9,10,3,1,1,Antonio Conte
-2223,2022-09-17,Leicester,H,6,2,W,2,2,D,16,19,11,7,4,0,Antonio Conte
-2223,2022-10-01,Arsenal,A,1,3,L,1,1,D,7,22,3,9,-2,0,Antonio Conte
-2223,2022-10-08,Brighton,A,1,0,W,1,0,W,8,14,3,4,1,1,Antonio Conte
-2223,2022-10-15,Everton,H,2,0,W,0,0,D,21,4,7,0,2,0,Antonio Conte
-2223,2022-10-19,Man United,A,0,2,L,0,0,D,9,28,2,10,-2,0,Antonio Conte
-2223,2022-10-23,Newcastle,H,1,2,L,0,2,L,17,13,5,5,-1,-2,Antonio Conte
-2223,2022-10-29,Bournemouth,A,3,2,W,0,1,L,23,6,7,4,1,-1,Antonio Conte
-2223,2022-11-06,Liverpool,H,1,2,L,0,2,L,14,13,5,6,-1,-2,Antonio Conte
-2223,2022-11-12,Leeds,H,4,3,W,1,2,L,14,12,8,5,1,-1,Antonio Conte
-2223,2022-12-26,Brentford,A,2,2,D,0,1,L,16,9,8,5,0,-1,Antonio Conte
-2223,2023-01-01,Aston Villa,H,0,2,L,0,0,D,6,13,2,4,-2,0,Antonio Conte
-2223,2023-01-04,Crystal Palace,A,4,0,W,0,0,D,14,19,6,4,4,0,Antonio Conte
-2223,2023-01-15,Arsenal,H,0,2,L,0,2,L,17,14,7,5,-2,-2,Antonio Conte
-2223,2023-01-19,Man City,A,2,4,L,2,0,W,9,16,3,6,-2,2,Antonio Conte
-2223,2023-01-23,Fulham,A,1,0,W,1,0,W,10,10,3,5,1,1,Antonio Conte
-2223,2023-02-05,Man City,H,1,0,W,1,0,W,12,15,3,5,1,1,Antonio Conte
-2223,2023-02-11,Leicester,A,1,4,L,1,3,L,11,15,4,7,-3,-2,Antonio Conte
-2223,2023-02-19,West Ham,H,2,0,W,0,0,D,16,6,6,1,2,0,Antonio Conte
-2223,2023-02-26,Chelsea,H,2,0,W,0,0,D,8,10,3,2,2,0,Antonio Conte
-2223,2023-03-04,Wolves,A,0,1,L,0,0,D,21,8,6,5,-1,0,Antonio Conte
-2223,2023-03-11,Nott'm Forest,H,3,1,W,2,0,W,15,9,7,5,2,2,Antonio Conte
-2223,2023-03-18,Southampton,A,3,3,D,1,0,W,17,19,3,7,0,1,Antonio Conte
-2223,2023-04-03,Everton,A,1,1,D,0,0,D,8,15,2,6,0,0,Interim Manager
-2223,2023-04-08,Brighton,H,2,1,W,1,1,D,9,17,3,4,1,0,Interim Manager
-2223,2023-04-15,Bournemouth,H,2,3,L,1,1,D,24,6,8,6,-1,0,Interim Manager
-2223,2023-04-23,Newcastle,A,1,6,L,0,5,L,11,25,3,8,-5,-5,Interim Manager
-2223,2023-04-27,Man United,H,2,2,D,0,2,L,18,17,7,8,0,-2,Interim Manager
-2223,2023-04-30,Liverpool,A,3,4,L,1,3,L,10,12,7,4,-1,-2,Interim Manager
-2223,2023-05-06,Crystal Palace,H,1,0,W,1,0,W,8,7,3,2,1,1,Interim Manager
-2223,2023-05-13,Aston Villa,A,1,2,L,0,1,L,5,8,2,4,-1,-1,Interim Manager
-2223,2023-05-20,Brentford,H,1,3,L,1,0,W,22,11,8,4,-2,1,Interim Manager
-2223,2023-05-28,Leeds,A,4,1,W,1,0,W,11,19,7,2,3,1,Interim Manager
-2324,2023-08-13,Brentford,A,2,2,D,2,2,D,18,11,6,6,0,0,Ange Postecoglou
-2324,2023-08-19,Man United,H,2,0,W,0,0,D,17,22,6,6,2,0,Ange Postecoglou
-2324,2023-08-26,Bournemouth,A,2,0,W,1,0,W,17,11,6,3,2,1,Ange Postecoglou
-2324,2023-09-02,Burnley,A,5,2,W,2,1,W,20,16,10,4,3,1,Ange Postecoglou
-2324,2023-09-16,Sheffield United,H,2,1,W,0,0,D,28,7,10,5,1,0,Ange Postecoglou
-2324,2023-09-24,Arsenal,A,2,2,D,1,1,D,13,13,5,6,0,0,Ange Postecoglou
-2324,2023-09-30,Liverpool,H,2,1,W,1,1,D,24,12,8,4,1,0,Ange Postecoglou
-2324,2023-10-07,Luton,A,1,0,W,0,0,D,15,12,4,2,1,0,Ange Postecoglou
-2324,2023-10-23,Fulham,H,2,0,W,1,0,W,15,10,5,3,2,1,Ange Postecoglou
-2324,2023-10-27,Crystal Palace,A,2,1,W,0,0,D,10,13,1,3,1,0,Ange Postecoglou
-2324,2023-11-06,Chelsea,H,1,4,L,1,1,D,8,17,5,8,-3,0,Ange Postecoglou
-2324,2023-11-11,Wolves,A,1,2,L,1,0,W,6,17,2,4,-1,1,Ange Postecoglou
-2324,2023-11-26,Aston Villa,H,1,2,L,1,1,D,18,15,8,5,-1,0,Ange Postecoglou
-2324,2023-12-03,Man City,A,3,3,D,1,2,L,8,18,4,4,0,-1,Ange Postecoglou
-2324,2023-12-07,West Ham,H,1,2,L,1,0,W,23,11,7,5,-1,1,Ange Postecoglou
-2324,2023-12-10,Newcastle,H,4,1,W,2,0,W,23,9,12,3,3,2,Ange Postecoglou
-2324,2023-12-15,Nott'm Forest,A,2,0,W,1,0,W,12,15,6,1,2,1,Ange Postecoglou
-2324,2023-12-23,Everton,H,2,1,W,2,0,W,13,18,6,8,1,2,Ange Postecoglou
-2324,2023-12-28,Brighton,A,2,4,L,0,2,L,19,15,3,9,-2,-2,Ange Postecoglou
-2324,2023-12-31,Bournemouth,H,3,1,W,1,0,W,12,24,6,4,2,1,Ange Postecoglou
-2324,2024-01-14,Man United,A,2,2,D,1,2,L,16,9,6,2,0,-1,Ange Postecoglou
-2324,2024-01-31,Brentford,H,3,2,W,0,1,L,19,9,5,5,1,-1,Ange Postecoglou
-2324,2024-02-03,Everton,A,2,2,D,2,1,W,9,14,6,5,0,1,Ange Postecoglou
-2324,2024-02-10,Brighton,H,2,1,W,0,1,L,16,6,6,3,1,-1,Ange Postecoglou
-2324,2024-02-17,Wolves,H,1,2,L,0,1,L,15,12,4,7,-1,-1,Ange Postecoglou
-2324,2024-03-02,Crystal Palace,H,3,1,W,0,0,D,14,4,6,1,2,0,Ange Postecoglou
-2324,2024-03-10,Aston Villa,A,4,0,W,0,0,D,9,10,5,1,4,0,Ange Postecoglou
-2324,2024-03-16,Fulham,A,0,3,L,0,1,L,14,16,5,7,-3,-1,Ange Postecoglou
-2324,2024-03-30,Luton,H,2,1,W,0,1,L,17,7,4,3,1,-1,Ange Postecoglou
-2324,2024-04-02,West Ham,A,1,1,D,1,1,D,13,11,4,4,0,0,Ange Postecoglou
-2324,2024-04-07,Nott'm Forest,H,3,1,W,1,1,D,17,13,7,6,2,0,Ange Postecoglou
-2324,2024-04-13,Newcastle,A,0,4,L,0,2,L,11,18,2,5,-4,-2,Ange Postecoglou
-2324,2024-04-28,Arsenal,H,2,3,L,0,3,L,14,9,2,3,-1,-3,Ange Postecoglou
-2324,2024-05-02,Chelsea,A,0,2,L,0,1,L,19,16,3,5,-2,-1,Ange Postecoglou
-2324,2024-05-05,Liverpool,A,2,4,L,0,2,L,11,25,6,13,-2,-2,Ange Postecoglou
-2324,2024-05-11,Burnley,H,2,1,W,1,1,D,21,7,9,3,1,0,Ange Postecoglou
-2324,2024-05-14,Man City,H,0,2,L,0,0,D,10,8,5,5,-2,0,Ange Postecoglou
-2324,2024-05-19,Sheffield United,A,3,0,W,1,0,W,18,6,9,1,3,1,Ange Postecoglou
-2425,2024-08-19,Leicester,A,1,1,D,1,0,W,15,7,7,3,0,1,Ange Postecoglou
-2425,2024-08-24,Everton,H,4,0,W,2,0,W,13,10,7,1,4,2,Ange Postecoglou
-2425,2024-09-01,Newcastle,A,1,2,L,0,1,L,20,9,6,3,-1,-1,Ange Postecoglou
-2425,2024-09-15,Arsenal,H,0,1,L,0,0,D,15,7,5,4,-1,0,Ange Postecoglou
-2425,2024-09-21,Brentford,H,3,1,W,2,1,W,23,6,10,6,2,1,Ange Postecoglou
-2425,2024-09-29,Man United,A,3,0,W,1,0,W,24,11,10,2,3,1,Ange Postecoglou
-2425,2024-10-06,Brighton,A,2,3,L,2,0,W,13,11,3,4,-1,2,Ange Postecoglou
-2425,2024-10-19,West Ham,H,4,1,W,1,1,D,22,11,7,4,3,0,Ange Postecoglou
-2425,2024-10-27,Crystal Palace,A,0,1,L,0,1,L,11,14,3,6,-1,-1,Ange Postecoglou
-2425,2024-11-03,Aston Villa,H,4,1,W,0,1,L,16,12,6,1,3,-1,Ange Postecoglou
-2425,2024-11-10,Ipswich,H,1,2,L,0,2,L,17,8,5,3,-1,-2,Ange Postecoglou
-2425,2024-11-23,Man City,A,4,0,W,2,0,W,9,23,7,5,4,2,Ange Postecoglou
-2425,2024-12-01,Fulham,H,1,1,D,0,0,D,8,14,3,6,0,0,Ange Postecoglou
-2425,2024-12-05,Bournemouth,A,0,1,L,0,1,L,12,21,4,8,-1,-1,Ange Postecoglou
-2425,2024-12-08,Chelsea,H,3,4,L,2,1,W,13,17,5,8,-1,1,Ange Postecoglou
-2425,2024-12-15,Southampton,A,5,0,W,5,0,W,18,9,9,3,5,5,Ange Postecoglou
-2425,2024-12-22,Liverpool,H,3,6,L,1,3,L,9,24,5,12,-3,-2,Ange Postecoglou
-2425,2024-12-26,Nott'm Forest,A,0,1,L,0,1,L,13,10,4,3,-1,-1,Ange Postecoglou
-2425,2024-12-29,Wolves,H,2,2,D,2,1,W,13,11,3,3,0,1,Ange Postecoglou
-2425,2025-01-04,Newcastle,H,1,2,L,1,2,L,13,14,4,4,-1,-1,Ange Postecoglou
-2425,2025-01-15,Arsenal,A,1,2,L,1,2,L,10,14,2,4,-1,-1,Ange Postecoglou
-2425,2025-01-19,Everton,A,2,3,L,0,3,L,11,12,6,6,-1,-3,Ange Postecoglou
-2425,2025-01-26,Leicester,H,1,2,L,1,0,W,15,12,6,3,-1,1,Ange Postecoglou
-2425,2025-02-02,Brentford,A,2,0,W,1,0,W,13,20,2,4,2,1,Ange Postecoglou
-2425,2025-02-16,Man United,H,1,0,W,1,0,W,22,16,7,6,1,1,Ange Postecoglou
-2425,2025-02-22,Ipswich,A,4,1,W,2,1,W,10,17,6,5,3,1,Ange Postecoglou
-2425,2025-02-26,Man City,H,0,1,L,0,1,L,11,12,6,5,-1,-1,Ange Postecoglou
-2425,2025-03-09,Bournemouth,H,2,2,D,0,1,L,12,17,4,8,0,-1,Ange Postecoglou
-2425,2025-03-16,Fulham,A,0,2,L,0,0,D,12,13,4,4,-2,0,Ange Postecoglou
-2425,2025-04-03,Chelsea,A,0,1,L,0,0,D,8,11,2,5,-1,0,Ange Postecoglou
-2425,2025-04-06,Southampton,H,3,1,W,2,0,W,13,12,8,4,2,2,Ange Postecoglou
-2425,2025-04-13,Wolves,A,2,4,L,0,2,L,11,13,4,5,-2,-2,Ange Postecoglou
-2425,2025-04-21,Nott'm Forest,H,1,2,L,0,2,L,22,4,6,3,-1,-2,Ange Postecoglou
-2425,2025-04-27,Liverpool,A,1,5,L,1,3,L,8,25,3,8,-4,-2,Ange Postecoglou
-2425,2025-05-04,West Ham,A,1,1,D,1,1,D,7,11,2,2,0,0,Ange Postecoglou
-2425,2025-05-11,Crystal Palace,H,0,2,L,0,1,L,8,23,1,10,-2,-1,Ange Postecoglou
-2425,2025-05-16,Aston Villa,A,0,2,L,0,0,D,3,18,1,7,-2,0,Ange Postecoglou
-2425,2025-05-25,Brighton,H,1,4,L,1,0,W,4,23,2,8,-3,1,Ange Postecoglou
-2526,2025-08-16,Burnley,H,3,0,W,1,0,W,16,14,6,4,3,1,Thomas Frank
-2526,2025-08-23,Man City,A,2,0,W,2,0,W,12,10,5,4,2,2,Thomas Frank
-2526,2025-08-30,Bournemouth,H,0,1,L,0,1,L,5,20,1,6,-1,-1,Thomas Frank
-2526,2025-09-13,West Ham,A,3,0,W,0,0,D,14,7,5,4,3,0,Thomas Frank
-2526,2025-09-20,Brighton,A,2,2,D,1,2,L,11,12,3,4,0,-1,Thomas Frank
-2526,2025-09-27,Wolves,H,1,1,D,0,0,D,10,9,3,3,0,0,Thomas Frank
-2526,2025-10-04,Leeds,A,2,1,W,1,1,D,9,16,3,4,1,0,Thomas Frank
-2526,2025-10-19,Aston Villa,H,1,2,L,1,1,D,9,8,3,2,-1,0,Thomas Frank
-2526,2025-10-26,Everton,A,3,0,W,2,0,W,7,12,4,2,3,2,Thomas Frank
-2526,2025-11-01,Chelsea,H,0,1,L,0,1,L,3,15,1,9,-1,-1,Thomas Frank
-2526,2025-11-08,Man United,H,2,2,D,0,1,L,10,5,4,2,0,-1,Thomas Frank
-2526,2025-11-23,Arsenal,A,1,4,L,0,2,L,3,17,2,8,-3,-2,Thomas Frank
-2526,2025-11-29,Fulham,H,1,2,L,0,2,L,14,7,2,3,-1,-2,Thomas Frank
-2526,2025-12-02,Newcastle,A,2,2,D,0,0,D,8,19,2,7,0,0,Thomas Frank
-2526,2025-12-06,Brentford,H,2,0,W,2,0,W,15,4,7,1,2,2,Thomas Frank
-2526,2025-12-14,Nott'm Forest,A,0,3,L,0,1,L,6,15,1,6,-3,-1,Thomas Frank
-2526,2025-12-20,Liverpool,H,1,2,L,0,0,D,15,8,4,4,-1,0,Thomas Frank
-2526,2025-12-28,Crystal Palace,A,1,0,W,1,0,W,8,15,4,2,1,1,Thomas Frank
-2526,2026-01-01,Brentford,A,0,0,D,0,0,D,9,7,3,2,0,0,Thomas Frank
-2526,2026-01-04,Sunderland,H,1,1,D,1,0,W,13,10,5,3,0,1,Thomas Frank
-2526,2026-01-07,Bournemouth,A,2,3,L,1,2,L,16,11,4,3,-1,-1,Thomas Frank
-2526,2026-01-17,West Ham,H,1,2,L,0,1,L,21,17,6,4,-1,-1,Thomas Frank
-2526,2026-01-24,Burnley,A,2,2,D,1,1,D,18,9,11,4,0,0,Thomas Frank
-2526,2026-02-01,Man City,H,2,2,D,0,2,L,12,15,6,3,0,-2,Thomas Frank
-2526,2026-02-07,Man United,A,0,2,L,0,1,L,7,23,1,10,-2,-1,Thomas Frank
-2526,2026-02-10,Newcastle,H,1,2,L,0,1,L,16,21,2,5,-1,-1,Thomas Frank
+﻿Season,Date,OT,TL,TFTG,OTFTG,FTR,THTG,OTHTG,HTR,TS,OTS,TST,OTST,FTGD,HTGD,coach,FTGDRA,HTGDRA,TFTGRA,OTFTGRA,TSTRA,OTSTRA
+0001,2000-08-19,Ipswich,H,3,1,W,2,1,W,20,15,6,5,2,1,George Graham,,,,,,
+0001,2000-08-22,Middlesbrough,A,1,1,D,1,0,W,11,12,4,6,0,1,George Graham,,,,,,
+0001,2000-08-26,Newcastle,A,0,2,L,0,1,L,10,15,2,6,-2,-1,George Graham,,,,,,
+0001,2000-09-05,Everton,H,3,2,W,1,2,L,11,11,7,6,1,-1,George Graham,,,,,,
+0001,2000-09-11,West Ham,H,1,0,W,0,0,D,15,11,7,5,1,0,George Graham,0.4,0.0,1.6,1.2,5.2,5.6
+0001,2000-09-16,Charlton,A,0,1,L,0,1,L,10,9,5,5,-1,-1,George Graham,-0.2,-0.4,1.0,1.2,5.0,5.6
+0001,2000-09-23,Man City,H,0,0,D,0,0,D,18,7,5,2,0,0,George Graham,-0.2,-0.6,0.8,1.0,5.2,4.8
+0001,2000-09-30,Leeds,A,3,4,L,1,0,W,10,14,5,7,-1,1,George Graham,0.0,-0.2,1.4,1.4,5.8,5.0
+0001,2000-10-14,Coventry,A,1,2,L,0,2,L,4,0,5,5,-1,-2,George Graham,-0.4,-0.4,1.0,1.4,5.4,4.8
+0001,2000-10-21,Derby,H,3,1,W,2,1,W,18,8,8,7,2,1,George Graham,-0.2,-0.2,1.4,1.6,5.6,5.2
+0001,2000-10-28,Chelsea,A,0,3,L,0,2,L,6,9,3,7,-3,-2,George Graham,-0.6,-0.4,1.4,2.0,5.2,5.6
+0001,2000-11-04,Sunderland,H,2,1,W,1,0,W,11,12,6,3,1,1,George Graham,-0.4,-0.2,1.8,2.2,5.4,5.8
+0001,2000-11-11,Aston Villa,A,0,2,L,0,1,L,3,11,2,6,-2,-1,George Graham,-0.6,-0.6,1.2,1.8,4.8,5.6
+0001,2000-11-19,Liverpool,H,2,1,W,2,1,W,6,9,4,4,1,1,George Graham,-0.2,0.0,1.4,1.6,4.6,5.4
+0001,2000-11-25,Leicester,H,3,0,W,2,0,W,15,11,7,5,3,2,George Graham,0.0,0.2,1.4,1.4,4.4,5.0
+0001,2000-12-02,Man United,A,0,2,L,0,1,L,5,16,3,8,-2,-1,George Graham,0.2,0.4,1.4,1.2,4.4,5.2
+0001,2000-12-09,Bradford,A,3,3,D,2,1,W,6,13,4,6,0,1,George Graham,0.0,0.4,1.6,1.6,4.0,5.8
+0001,2000-12-18,Arsenal,H,1,1,D,1,0,W,8,17,4,10,0,1,George Graham,0.4,0.8,1.8,1.4,4.4,6.6
+0001,2000-12-23,Middlesbrough,H,0,0,D,0,0,D,16,5,8,0,0,0,George Graham,0.2,0.6,1.4,1.2,5.2,5.8
+0001,2000-12-27,Southampton,A,0,2,L,0,2,L,7,17,2,6,-2,-2,George Graham,-0.8,-0.2,0.8,1.6,4.2,6.0
+0001,2000-12-30,Ipswich,A,0,3,L,0,1,L,6,18,3,9,-3,-1,George Graham,-1.0,-0.2,0.8,1.8,4.2,6.2
+0001,2001-01-02,Newcastle,H,4,2,W,3,1,W,16,9,10,4,2,2,George Graham,-0.6,0.0,1.0,1.6,5.4,5.8
+0001,2001-01-13,Everton,A,0,0,D,0,0,D,4,17,1,8,0,0,George Graham,-0.6,-0.2,0.8,1.4,4.8,5.4
+0001,2001-01-20,Southampton,H,0,0,D,0,0,D,9,9,4,6,0,0,George Graham,-0.6,-0.2,0.8,1.4,4.0,6.6
+0001,2001-01-31,West Ham,A,0,0,D,0,0,D,14,17,6,6,0,0,George Graham,-0.2,0.2,0.8,1.0,4.8,6.6
+0001,2001-02-03,Charlton,H,0,0,D,0,0,D,9,7,3,2,0,0,George Graham,0.4,0.4,0.8,0.4,4.8,5.2
+0001,2001-02-10,Man City,A,1,0,W,0,0,D,11,11,4,4,1,0,George Graham,0.2,0.0,0.2,0.0,3.6,5.2
+0001,2001-02-24,Leeds,H,1,2,L,1,1,D,13,15,4,9,-1,0,George Graham,0.0,0.0,0.4,0.4,4.2,5.4
+0001,2001-03-03,Derby,A,1,2,L,0,2,L,13,8,7,4,-1,-2,George Graham,-0.2,-0.4,0.6,0.8,4.8,5.0
+0001,2001-03-17,Coventry,H,3,0,W,2,0,W,12,11,4,5,3,2,Interim Manager,0.4,0.0,1.2,0.8,4.4,4.8
+0001,2001-03-31,Arsenal,A,0,2,L,0,0,D,4,25,3,19,-2,0,Interim Manager,0.0,0.0,1.2,1.2,4.4,8.2
+0001,2001-04-10,Bradford,H,2,1,W,1,1,D,17,10,13,5,1,0,Glen Hoddle,0.0,0.0,1.4,1.4,6.2,8.4
+0001,2001-04-14,Sunderland,A,3,2,W,0,2,L,8,13,6,4,1,-2,Glen Hoddle,0.4,-0.4,1.8,1.4,6.6,7.4
+0001,2001-04-17,Chelsea,H,0,3,L,0,1,L,5,16,1,10,-3,-1,Glen Hoddle,0.0,-0.2,1.6,1.6,5.4,8.6
+0001,2001-04-22,Liverpool,A,1,3,L,1,1,D,7,14,5,8,-2,0,Glen Hoddle,-1.0,-0.6,1.2,2.2,5.6,9.2
+0001,2001-04-28,Aston Villa,H,0,0,D,0,0,D,7,7,3,4,0,0,Glen Hoddle,-0.6,-0.6,1.2,1.8,5.6,6.2
+0001,2001-05-05,Leicester,A,2,4,L,0,1,L,9,19,4,9,-2,-1,Glen Hoddle,-1.2,-0.8,1.2,2.4,3.8,7.0
+0001,2001-05-19,Man United,H,3,1,W,1,1,D,9,15,3,6,2,0,Glen Hoddle,-1.0,-0.4,1.2,2.2,3.2,7.4
+0102,2001-08-18,Aston Villa,H,0,0,D,0,0,D,8,11,2,2,0,0,Glen Hoddle,-0.4,-0.2,1.2,1.6,3.4,5.8
+0102,2001-08-20,Everton,A,1,1,D,1,0,W,7,18,2,11,0,1,Glen Hoddle,0.0,0.0,1.2,1.2,2.8,6.4
+0102,2001-08-25,Blackburn,A,1,2,L,0,1,L,12,12,5,7,-1,-1,Glen Hoddle,-0.2,-0.2,1.4,1.6,3.2,7.0
+0102,2001-09-09,Southampton,H,2,0,W,0,0,D,18,15,6,6,2,0,Glen Hoddle,0.6,0.0,1.4,0.8,3.6,6.4
+0102,2001-09-16,Chelsea,H,2,3,L,0,1,L,11,6,4,4,-1,-1,Glen Hoddle,0.0,-0.2,1.2,1.2,3.8,6.0
+0102,2001-09-19,Sunderland,A,2,1,W,1,0,W,13,14,6,8,1,1,Glen Hoddle,0.2,0.0,1.6,1.4,4.6,7.2
+0102,2001-09-22,Liverpool,A,0,1,L,0,0,D,11,14,5,6,-1,0,Glen Hoddle,0.0,-0.2,1.4,1.4,5.2,6.2
+0102,2001-09-29,Man United,H,3,5,L,3,0,W,7,18,3,9,-2,3,Glen Hoddle,-0.2,0.6,1.8,2.0,4.8,6.6
+0102,2001-10-15,Derby,H,3,1,W,2,1,W,24,8,12,6,2,1,Glen Hoddle,-0.2,0.8,2.0,2.2,6.0,6.6
+0102,2001-10-21,Newcastle,A,2,0,W,2,0,W,9,8,3,3,2,2,Glen Hoddle,0.4,1.4,2.0,1.6,5.8,6.4
+0102,2001-10-27,Middlesbrough,H,2,1,W,0,1,L,10,8,4,3,1,-1,Glen Hoddle,0.4,1.0,2.0,1.6,5.4,5.4
+0102,2001-11-04,Leeds,A,1,2,L,0,0,D,11,20,4,9,-1,0,Glen Hoddle,0.4,1.0,2.2,1.8,5.2,6.0
+0102,2001-11-17,Arsenal,H,1,1,D,0,0,D,9,5,4,5,0,0,Glen Hoddle,0.8,0.4,1.8,1.0,5.4,5.2
+0102,2001-11-24,West Ham,A,1,0,W,0,0,D,10,10,3,6,1,0,Glen Hoddle,0.6,0.2,1.4,0.8,3.6,5.2
+0102,2001-12-03,Bolton,H,3,2,W,0,1,L,14,9,6,6,1,-1,Glen Hoddle,0.4,-0.4,1.6,1.2,4.2,5.8
+0102,2001-12-08,Charlton,A,1,3,L,0,2,L,14,11,5,6,-2,-2,Glen Hoddle,-0.2,-0.6,1.4,1.6,4.4,6.4
+0102,2001-12-15,Fulham,H,4,0,W,2,0,W,10,12,6,1,4,2,Glen Hoddle,0.8,-0.2,2.0,1.2,4.8,4.8
+0102,2001-12-22,Ipswich,H,1,2,L,1,1,D,12,12,6,4,-1,0,Glen Hoddle,0.6,-0.2,2.0,1.4,5.2,4.6
+0102,2001-12-26,Southampton,A,0,1,L,0,0,D,10,6,6,5,-1,0,Glen Hoddle,0.2,-0.2,1.8,1.6,5.8,4.4
+0102,2001-12-29,Aston Villa,A,1,1,D,1,0,W,7,12,4,7,0,1,Glen Hoddle,0.0,0.2,1.4,1.4,5.4,4.6
+0102,2002-01-01,Blackburn,H,1,0,W,1,0,W,12,11,7,7,1,1,Glen Hoddle,0.6,0.8,1.4,0.8,5.8,4.8
+0102,2002-01-12,Ipswich,A,1,2,L,0,1,L,11,8,6,5,-1,-1,Glen Hoddle,-0.4,0.2,0.8,1.2,5.8,5.6
+0102,2002-01-19,Everton,H,1,1,D,1,1,D,12,4,4,2,0,0,Glen Hoddle,-0.2,0.2,0.8,1.0,5.4,5.2
+0102,2002-01-30,Newcastle,H,1,3,L,1,0,W,8,10,6,4,-2,1,Glen Hoddle,-0.4,0.4,1.0,1.4,5.4,5.0
+0102,2002-02-02,Derby,A,0,1,L,0,1,L,7,12,3,7,-1,-1,Glen Hoddle,-0.6,0.0,0.8,1.4,5.2,5.0
+0102,2002-02-09,Leicester,H,2,1,W,1,0,W,12,7,4,6,1,1,Glen Hoddle,-0.6,0.0,1.0,1.6,4.6,4.8
+0102,2002-03-02,Sunderland,H,2,1,W,1,1,D,17,7,7,2,1,0,Glen Hoddle,-0.2,0.2,1.2,1.4,4.8,4.2
+0102,2002-03-06,Man United,A,0,4,L,0,2,L,7,25,2,14,-4,-2,Glen Hoddle,-1.0,-0.2,1.0,2.0,4.4,6.6
+0102,2002-03-13,Chelsea,A,0,4,L,0,1,L,5,24,0,13,-4,-1,Glen Hoddle,-1.4,-0.6,0.8,2.2,3.2,8.4
+0102,2002-03-18,Charlton,H,0,1,L,0,0,D,13,10,5,4,-1,0,Glen Hoddle,-1.4,-0.4,0.8,2.2,3.6,7.8
+0102,2002-03-24,Fulham,A,2,0,W,2,0,W,11,9,4,3,2,2,Glen Hoddle,-1.2,-0.2,0.8,2.0,3.6,7.2
+0102,2002-03-30,Middlesbrough,A,1,1,D,1,0,W,10,8,6,3,0,1,Glen Hoddle,-1.4,0.0,0.6,2.0,3.4,7.4
+0102,2002-04-01,Leeds,H,2,1,W,2,0,W,8,17,5,8,1,2,Glen Hoddle,-0.4,0.8,1.0,1.4,4.0,6.2
+0102,2002-04-06,Arsenal,A,1,2,L,0,1,L,2,13,2,5,-1,-1,Glen Hoddle,0.2,0.8,1.2,1.0,4.4,4.6
+0102,2002-04-13,West Ham,H,1,1,D,0,0,D,16,12,6,5,0,0,Glen Hoddle,0.4,0.8,1.4,1.0,4.6,4.8
+0102,2002-04-20,Bolton,A,1,1,D,1,0,W,10,13,4,6,0,1,Glen Hoddle,0.0,0.6,1.2,1.2,4.6,5.4
+0102,2002-04-27,Liverpool,H,1,0,W,1,0,W,11,11,5,7,1,1,Glen Hoddle,0.2,0.6,1.2,1.0,4.4,6.2
+0102,2002-05-11,Leicester,A,1,2,L,0,0,D,13,10,6,6,-1,0,Glen Hoddle,-0.2,0.2,1.0,1.2,4.6,5.8
+0203,2002-08-17,Everton,A,2,2,D,0,1,L,10,13,5,9,0,-1,Glen Hoddle,0.0,0.2,1.2,1.2,5.2,6.6
+0203,2002-08-24,Aston Villa,H,1,0,W,1,0,W,8,18,3,8,1,1,Glen Hoddle,0.2,0.4,1.2,1.0,4.6,7.2
+0203,2002-08-27,Charlton,A,1,0,W,1,0,W,7,10,1,5,1,1,Glen Hoddle,0.4,0.4,1.2,0.8,4.0,7.0
+0203,2002-08-31,Southampton,H,2,1,W,1,1,D,18,15,8,8,1,0,Glen Hoddle,0.4,0.2,1.4,1.0,4.6,7.2
+0203,2002-09-11,Fulham,A,2,3,L,2,0,W,7,13,4,8,-1,2,Glen Hoddle,0.4,0.6,1.6,1.2,4.2,7.6
+0203,2002-09-15,West Ham,H,3,2,W,0,0,D,12,11,3,1,1,0,Glen Hoddle,0.6,0.8,1.8,1.2,3.8,6.0
+0203,2002-09-21,Man United,A,0,1,L,0,0,D,10,16,5,9,-1,0,Glen Hoddle,0.2,0.6,1.6,1.4,4.2,6.2
+0203,2002-09-28,Middlesbrough,H,0,3,L,0,1,L,12,18,4,12,-3,-1,Glen Hoddle,-0.6,0.2,1.4,2.0,4.8,7.6
+0203,2002-10-06,Blackburn,A,2,1,W,1,0,W,9,12,6,7,1,1,Glen Hoddle,-0.6,0.4,1.4,2.0,4.4,7.4
+0203,2002-10-20,Bolton,H,3,1,W,0,0,D,6,5,3,1,2,0,Glen Hoddle,0.0,0.0,1.6,1.6,4.2,6.0
+0203,2002-10-26,Liverpool,A,1,2,L,0,0,D,10,9,8,5,-1,0,Glen Hoddle,-0.4,0.0,1.2,1.6,5.2,6.8
+0203,2002-11-03,Chelsea,H,0,0,D,0,0,D,15,14,7,4,0,0,Glen Hoddle,-0.2,0.0,1.2,1.4,5.6,5.8
+0203,2002-11-10,Sunderland,A,0,2,L,0,0,D,9,13,3,5,-2,0,Glen Hoddle,0.0,0.2,1.2,1.2,5.4,4.4
+0203,2002-11-16,Arsenal,A,0,3,L,0,1,L,6,17,5,12,-3,-1,Glen Hoddle,-0.8,-0.2,0.8,1.6,5.2,5.4
+0203,2002-11-24,Leeds,H,2,0,W,2,0,W,11,8,6,4,2,2,Glen Hoddle,-0.8,0.2,0.6,1.4,5.8,6.0
+0203,2002-11-30,Birmingham,A,1,1,D,0,0,D,7,13,3,6,0,0,Glen Hoddle,-0.6,0.2,0.6,1.2,4.8,6.2
+0203,2002-12-08,West Brom,H,3,1,W,2,0,W,10,13,6,7,2,2,Glen Hoddle,-0.2,0.6,1.2,1.4,4.6,6.8
+0203,2002-12-15,Arsenal,H,1,1,D,1,1,D,14,6,10,4,0,0,Glen Hoddle,0.2,0.6,1.4,1.2,6.0,6.6
+0203,2002-12-23,Man City,A,3,2,W,1,1,D,9,19,9,18,1,0,Glen Hoddle,1.0,0.8,2.0,1.0,6.8,7.8
+0203,2002-12-26,Charlton,H,2,2,D,0,1,L,20,10,12,7,0,-1,Glen Hoddle,0.6,0.2,2.0,1.4,8.0,8.4
+0203,2002-12-29,Newcastle,A,1,2,L,0,1,L,9,14,6,10,-1,-1,Glen Hoddle,0.4,0.0,2.0,1.6,8.6,9.2
+0203,2003-01-01,Southampton,A,0,1,L,0,0,D,11,12,7,6,-1,0,Glen Hoddle,-0.2,-0.4,1.4,1.6,8.8,9.0
+0203,2003-01-12,Everton,H,4,3,W,1,1,D,18,13,12,10,1,0,Glen Hoddle,0.0,-0.4,2.0,2.0,9.2,10.2
+0203,2003-01-18,Aston Villa,A,1,0,W,0,0,D,10,11,6,5,1,0,Glen Hoddle,0.0,-0.4,1.6,1.6,8.6,7.6
+0203,2003-01-29,Newcastle,H,0,1,L,0,0,D,13,15,7,8,-1,0,Glen Hoddle,-0.2,-0.2,1.2,1.4,7.6,7.8
+0203,2003-02-01,Chelsea,A,1,1,D,1,1,D,8,16,5,8,0,0,Glen Hoddle,0.0,0.0,1.2,1.2,7.4,7.4
+0203,2003-02-08,Sunderland,H,4,1,W,2,1,W,16,8,7,6,3,1,Glen Hoddle,0.8,0.2,2.0,1.2,7.4,7.4
+0203,2003-02-24,Fulham,H,1,1,D,1,1,D,15,8,10,7,0,0,Glen Hoddle,0.6,0.2,1.4,0.8,7.0,6.8
+0203,2003-03-01,West Ham,A,0,2,L,0,1,L,9,10,3,8,-2,-1,Glen Hoddle,0.0,0.0,1.2,1.2,6.4,7.4
+0203,2003-03-16,Liverpool,H,2,3,L,0,0,D,12,9,5,6,-1,0,Glen Hoddle,0.0,0.0,1.6,1.6,6.0,7.0
+0203,2003-03-24,Bolton,A,0,1,L,0,0,D,7,15,2,8,-1,0,Glen Hoddle,-0.2,0.0,1.4,1.6,5.4,7.0
+0203,2003-04-05,Birmingham,H,2,1,W,1,0,W,12,10,6,4,1,1,Glen Hoddle,-0.6,0.0,1.0,1.6,5.2,6.6
+0203,2003-04-12,Leeds,A,2,2,D,2,1,W,6,11,2,4,0,1,Glen Hoddle,-0.6,0.2,1.2,1.8,3.6,6.0
+0203,2003-04-18,Man City,H,0,2,L,0,2,L,9,11,6,6,-2,-2,Glen Hoddle,-0.6,0.0,1.2,1.8,4.2,5.6
+0203,2003-04-21,West Brom,A,3,2,W,1,1,D,8,8,5,8,1,0,Glen Hoddle,-0.2,0.0,1.4,1.6,4.2,6.0
+0203,2003-04-27,Man United,H,0,2,L,0,0,D,6,20,3,15,-2,0,Glen Hoddle,-0.4,0.0,1.4,1.8,4.4,7.4
+0203,2003-05-03,Middlesbrough,A,1,5,L,0,3,L,6,26,4,16,-4,-3,Glen Hoddle,-1.4,-0.8,1.2,2.6,4.0,9.8
+0203,2003-05-11,Blackburn,H,0,4,L,0,2,L,11,13,7,9,-4,-2,Glen Hoddle,-2.2,-1.4,0.8,3.0,5.0,10.8
+0304,2003-08-16,Birmingham,A,0,1,L,0,1,L,15,10,7,5,-1,-1,Glen Hoddle,-2.0,-1.2,0.8,2.8,5.2,10.6
+0304,2003-08-23,Leeds,H,2,1,W,1,1,D,20,5,4,2,1,0,Glen Hoddle,-2.0,-1.2,0.6,2.6,5.0,9.4
+0304,2003-08-27,Liverpool,A,0,0,D,0,0,D,9,22,4,10,0,0,Glen Hoddle,-1.6,-1.2,0.6,2.2,5.2,8.4
+0304,2003-08-30,Fulham,H,0,3,L,0,1,L,18,9,6,5,-3,-1,Glen Hoddle,-1.4,-0.8,0.4,1.8,5.6,6.2
+0304,2003-09-13,Chelsea,A,2,4,L,1,2,L,9,12,3,6,-2,-1,Glen Hoddle,-1.0,-0.6,0.8,1.8,4.8,5.6
+0304,2003-09-20,Southampton,H,1,3,L,0,2,L,13,12,6,10,-2,-2,Glen Hoddle,-1.2,-0.8,1.0,2.2,4.6,6.6
+0304,2003-09-28,Man City,A,0,0,D,0,0,D,4,21,2,10,0,0,Interim Manager,-1.4,-0.8,0.6,2.0,4.2,8.2
+0304,2003-10-04,Everton,H,3,0,W,1,0,W,13,12,7,4,3,1,Interim Manager,-0.8,-0.6,1.2,2.0,4.8,7.0
+0304,2003-10-19,Leicester,A,2,1,W,0,1,L,7,22,4,15,1,-1,Interim Manager,0.0,-0.6,1.6,1.6,4.4,9.0
+0304,2003-10-26,Middlesbrough,H,0,0,D,0,0,D,12,16,8,10,0,0,Interim Manager,0.4,-0.4,1.2,0.8,5.4,9.8
+0304,2003-11-01,Bolton,H,0,1,L,0,0,D,10,25,6,15,-1,0,Interim Manager,0.6,0.0,1.0,0.4,5.4,10.8
+0304,2003-11-08,Arsenal,A,1,2,L,1,0,W,5,9,2,3,-1,1,Interim Manager,0.4,0.2,1.2,0.8,5.4,9.4
+0304,2003-11-23,Aston Villa,H,2,1,W,0,0,D,10,13,5,6,1,0,Interim Manager,0.0,0.0,1.0,1.0,5.0,9.8
+0304,2003-11-29,Blackburn,A,0,1,L,0,0,D,9,18,3,12,-1,0,Interim Manager,-0.4,0.2,0.6,1.0,4.8,9.2
+0304,2003-12-06,Wolves,H,5,2,W,1,1,D,12,16,10,8,3,0,Interim Manager,0.2,0.2,1.6,1.4,5.2,8.8
+0304,2003-12-13,Newcastle,A,0,4,L,0,1,L,4,19,4,11,-4,-1,Interim Manager,-0.4,0.0,1.6,2.0,4.8,8.0
+0304,2003-12-21,Man United,H,1,2,L,0,2,L,14,12,8,7,-1,-2,Interim Manager,-0.4,-0.6,1.6,2.0,6.0,8.8
+0304,2003-12-26,Portsmouth,A,0,2,L,0,0,D,5,10,3,8,-2,0,Interim Manager,-1.0,-0.6,1.2,2.2,5.6,9.2
+0304,2003-12-28,Charlton,H,0,1,L,0,0,D,18,10,9,8,-1,0,Interim Manager,-1.0,-0.6,1.2,2.2,6.8,8.4
+0304,2004-01-07,Birmingham,H,4,1,W,3,0,W,11,9,7,3,3,3,Interim Manager,-1.0,0.0,1.0,2.0,6.2,7.4
+0304,2004-01-10,Leeds,A,1,0,W,0,0,D,15,7,8,1,1,0,Interim Manager,0.0,0.2,1.2,1.2,7.0,5.4
+0304,2004-01-17,Liverpool,H,2,1,W,1,0,W,7,10,3,4,1,1,Interim Manager,0.4,0.8,1.4,1.0,6.0,4.8
+0304,2004-01-31,Fulham,A,1,2,L,1,1,D,4,16,4,10,-1,0,Interim Manager,0.6,0.8,1.6,1.0,6.2,5.2
+0304,2004-02-07,Portsmouth,H,4,3,W,2,1,W,15,16,13,9,1,1,Interim Manager,1.0,1.0,2.4,1.4,7.0,5.4
+0304,2004-02-11,Charlton,A,4,2,W,2,0,W,12,18,10,14,2,2,Interim Manager,0.8,0.8,2.4,1.6,7.6,7.6
+0304,2004-02-22,Leicester,H,4,4,D,3,1,W,10,14,9,7,0,2,Interim Manager,0.6,1.2,3.0,2.4,7.8,8.8
+0304,2004-03-09,Middlesbrough,A,0,1,L,0,0,D,10,10,2,6,-1,0,Interim Manager,0.2,1.0,2.6,2.4,7.6,9.2
+0304,2004-03-14,Newcastle,H,1,0,W,0,0,D,11,6,4,4,1,0,Interim Manager,0.6,1.0,2.6,2.0,7.6,8.0
+0304,2004-03-20,Man United,A,0,3,L,0,1,L,8,11,3,6,-3,-1,Interim Manager,-0.2,0.6,1.8,2.0,5.6,7.4
+0304,2004-03-27,Southampton,A,0,1,L,0,0,D,15,18,9,11,-1,0,Interim Manager,-0.8,0.2,1.0,1.8,5.4,6.8
+0304,2004-04-03,Chelsea,H,0,1,L,0,1,L,12,10,7,7,-1,-1,Interim Manager,-1.0,-0.4,0.2,1.2,5.0,6.8
+0304,2004-04-09,Everton,A,1,3,L,0,3,L,12,13,7,10,-2,-3,Interim Manager,-1.2,-1.0,0.4,1.6,6.0,7.6
+0304,2004-04-12,Man City,H,1,1,D,0,1,L,15,9,10,8,0,-1,Interim Manager,-1.4,-1.2,0.4,1.8,7.2,8.4
+0304,2004-04-17,Bolton,A,0,2,L,0,1,L,4,15,0,10,-2,-1,Interim Manager,-1.2,-1.2,0.4,1.6,6.6,9.2
+0304,2004-04-25,Arsenal,H,2,2,D,0,2,L,13,9,7,7,0,-2,Interim Manager,-1.0,-1.6,0.8,1.8,6.2,8.4
+0304,2004-05-02,Aston Villa,A,0,1,L,0,1,L,10,11,5,6,-1,-1,Interim Manager,-1.0,-1.6,0.8,1.8,5.8,8.2
+0304,2004-05-08,Blackburn,H,1,0,W,1,0,W,16,14,13,2,1,1,Interim Manager,-0.4,-0.8,0.8,1.2,7.0,6.6
+0304,2004-05-15,Wolves,A,2,0,W,1,0,W,14,18,12,10,2,1,Interim Manager,0.0,-0.4,1.0,1.0,7.4,7.0
+0405,2004-08-14,Liverpool,H,1,1,D,0,1,L,14,16,7,8,0,-1,Jacques Santini,0.4,-0.4,1.2,0.8,8.8,6.6
+0405,2004-08-21,Newcastle,A,1,0,W,0,0,D,15,13,8,6,1,0,Jacques Santini,0.6,0.0,1.0,0.4,9.0,6.4
+0405,2004-08-25,West Brom,A,1,1,D,1,1,D,12,4,6,2,0,0,Jacques Santini,0.8,0.2,1.2,0.4,9.2,5.6
+0405,2004-08-28,Birmingham,H,1,0,W,1,0,W,6,10,3,2,1,1,Jacques Santini,0.8,0.2,1.2,0.4,7.2,5.6
+0405,2004-09-12,Norwich,H,0,0,D,0,0,D,15,7,7,2,0,0,Jacques Santini,0.4,0.0,0.8,0.4,6.2,4.0
+0405,2004-09-19,Chelsea,A,0,0,D,0,0,D,6,20,3,8,0,0,Jacques Santini,0.4,0.2,0.6,0.2,5.4,4.0
+0405,2004-09-25,Man United,H,0,1,L,0,1,L,11,6,5,4,-1,-1,Jacques Santini,0.0,0.0,0.4,0.4,4.8,3.6
+0405,2004-10-02,Everton,A,1,0,W,0,0,D,8,10,2,4,1,0,Jacques Santini,0.2,0.0,0.4,0.2,4.0,4.0
+0405,2004-10-18,Portsmouth,A,0,1,L,0,0,D,16,11,7,6,-1,0,Jacques Santini,-0.2,-0.2,0.2,0.4,4.8,4.8
+0405,2004-10-23,Bolton,H,1,2,L,1,1,D,8,6,5,4,-1,0,Jacques Santini,-0.4,-0.2,0.4,0.8,4.4,5.2
+0405,2004-10-30,Fulham,A,0,2,L,0,1,L,5,8,1,4,-2,-1,Jacques Santini,-0.8,-0.4,0.4,1.2,4.0,4.4
+0405,2004-11-06,Charlton,H,2,3,L,0,2,L,19,3,11,3,-1,-2,Martin Jol,-0.8,-0.6,0.8,1.6,5.2,4.2
+0405,2004-11-13,Arsenal,H,4,5,L,1,1,D,10,10,7,6,-1,0,Martin Jol,-1.2,-0.6,1.4,2.6,6.2,4.6
+0405,2004-11-22,Aston Villa,A,0,1,L,0,0,D,11,9,6,5,-1,0,Martin Jol,-1.2,-0.6,1.4,2.6,6.0,4.4
+0405,2004-11-28,Middlesbrough,H,2,0,W,0,0,D,14,8,9,3,2,0,Martin Jol,-0.6,-0.6,1.6,2.2,6.8,4.2
+0405,2004-12-04,Blackburn,A,1,0,W,0,0,D,10,12,8,7,1,0,Martin Jol,0.0,-0.4,1.8,1.8,8.2,4.8
+0405,2004-12-11,Man City,A,1,0,W,0,0,D,5,8,2,3,1,0,Martin Jol,0.4,0.0,1.6,1.2,6.4,4.8
+0405,2004-12-18,Southampton,H,5,1,W,3,0,W,18,7,12,4,4,3,Martin Jol,1.4,0.6,1.8,0.4,7.4,4.4
+0405,2004-12-26,Norwich,A,2,0,W,0,0,D,16,13,9,8,2,0,Martin Jol,2.0,0.6,2.2,0.2,8.0,5.0
+0405,2004-12-28,Crystal Palace,H,1,1,D,0,0,D,17,11,14,7,0,0,Martin Jol,1.6,0.6,2.0,0.4,9.0,5.8
+0405,2005-01-01,Everton,H,5,2,W,2,1,W,14,6,12,3,3,1,Martin Jol,2.0,0.8,2.8,0.8,9.8,5.0
+0405,2005-01-04,Man United,A,0,0,D,0,0,D,7,23,5,16,0,0,Martin Jol,1.8,0.8,2.6,0.8,10.4,7.6
+0405,2005-01-15,Chelsea,H,0,2,L,0,1,L,12,12,4,5,-2,-1,Martin Jol,0.6,0.0,1.6,1.0,8.8,7.8
+0405,2005-01-22,Crystal Palace,A,0,3,L,0,0,D,12,8,6,7,-3,0,Martin Jol,-0.4,0.0,1.2,1.6,8.2,7.6
+0405,2005-02-01,Bolton,A,1,3,L,0,0,D,11,15,5,9,-2,0,Martin Jol,-0.8,0.0,1.2,2.0,6.4,8.0
+0405,2005-02-05,Portsmouth,H,3,1,W,1,1,D,18,6,10,3,2,0,Martin Jol,-1.0,-0.2,0.8,1.8,6.0,8.0
+0405,2005-02-26,Fulham,H,2,0,W,0,0,D,18,8,8,5,2,0,Martin Jol,-0.6,-0.2,1.2,1.8,6.6,5.8
+0405,2005-03-05,Southampton,A,0,1,L,0,0,D,13,9,8,4,-1,0,Martin Jol,-0.4,0.0,1.2,1.6,7.4,5.6
+0405,2005-03-16,Charlton,A,0,2,L,0,1,L,7,5,4,2,-2,-1,Martin Jol,-0.2,-0.2,1.2,1.4,7.0,4.6
+0405,2005-03-19,Man City,H,2,1,W,1,1,D,12,11,9,7,1,0,Martin Jol,0.4,-0.2,1.4,1.0,7.8,4.2
+0405,2005-04-02,Birmingham,A,1,1,D,0,0,D,9,14,5,7,0,0,Martin Jol,0.0,-0.2,1.0,1.0,6.8,5.0
+0405,2005-04-10,Newcastle,H,1,0,W,1,0,W,19,6,6,3,1,1,Martin Jol,-0.2,0.0,0.8,1.0,6.4,4.6
+0405,2005-04-16,Liverpool,A,2,2,D,1,1,D,9,18,6,7,0,0,Martin Jol,0.0,0.0,1.2,1.2,6.0,5.2
+0405,2005-04-20,West Brom,H,1,1,D,0,1,L,15,10,5,4,0,-1,Martin Jol,0.4,0.0,1.4,1.0,6.2,5.6
+0405,2005-04-25,Arsenal,A,0,1,L,0,1,L,7,12,1,3,-1,-1,Martin Jol,0.0,-0.2,1.0,1.0,4.6,4.8
+0405,2005-05-01,Aston Villa,H,5,1,W,3,1,W,20,4,14,3,4,2,Martin Jol,0.8,0.2,1.8,1.0,6.4,4.0
+0405,2005-05-07,Middlesbrough,A,0,1,L,0,1,L,5,16,2,8,-1,-1,Martin Jol,0.4,-0.2,1.6,1.2,5.6,5.0
+0405,2005-05-15,Blackburn,H,0,0,D,0,0,D,11,12,7,8,0,0,Martin Jol,0.4,-0.2,1.2,0.8,5.8,5.2
+0506,2005-08-13,Portsmouth,A,2,0,W,1,0,W,11,11,6,7,2,1,Martin Jol,0.8,0.2,1.4,0.6,6.0,5.8
+0506,2005-08-20,Middlesbrough,H,2,0,W,0,0,D,18,12,8,3,2,0,Martin Jol,1.4,0.4,1.8,0.4,7.4,5.8
+0506,2005-08-24,Blackburn,A,0,0,D,0,0,D,1,11,1,7,0,0,Martin Jol,0.6,0.0,0.8,0.2,4.8,6.6
+0506,2005-08-27,Chelsea,H,0,2,L,0,1,L,11,13,6,7,-2,-1,Martin Jol,0.4,0.0,0.8,0.4,5.6,6.4
+0506,2005-09-10,Liverpool,H,0,0,D,0,0,D,10,11,7,6,0,0,Martin Jol,0.4,0.0,0.8,0.4,5.6,6.0
+0506,2005-09-17,Aston Villa,A,1,1,D,0,1,L,13,13,7,6,0,-1,Martin Jol,0.0,-0.4,0.6,0.6,5.8,5.8
+0506,2005-09-26,Fulham,H,1,0,W,1,0,W,9,8,4,5,1,1,Martin Jol,-0.2,-0.2,0.4,0.6,5.0,6.2
+0506,2005-10-01,Charlton,A,3,2,W,0,1,L,13,9,7,4,1,-1,Martin Jol,0.0,-0.4,1.0,1.0,6.2,5.6
+0506,2005-10-15,Everton,H,2,0,W,0,0,D,7,8,5,4,2,0,Martin Jol,0.8,-0.2,1.4,0.6,6.0,5.0
+0506,2005-10-22,Man United,A,1,1,D,0,1,L,9,13,7,9,0,-1,Martin Jol,0.8,-0.4,1.6,0.8,6.0,5.6
+0506,2005-10-29,Arsenal,H,1,1,D,1,0,W,11,10,3,7,0,1,Martin Jol,0.8,0.0,1.6,0.8,5.2,5.8
+0506,2005-11-07,Bolton,A,0,1,L,0,1,L,9,9,7,8,-1,-1,Martin Jol,0.4,-0.4,1.4,1.0,5.8,6.4
+0506,2005-11-20,West Ham,H,1,1,D,1,0,W,15,8,8,4,0,1,Martin Jol,0.2,0.0,1.0,0.8,6.0,6.4
+0506,2005-11-26,Wigan,A,2,1,W,1,0,W,7,11,5,3,1,1,Martin Jol,0.0,0.2,1.0,1.0,6.0,6.2
+0506,2005-12-03,Sunderland,H,3,2,W,1,1,D,14,5,8,2,1,0,Martin Jol,0.2,0.4,1.4,1.2,6.2,4.8
+0506,2005-12-12,Portsmouth,H,3,1,W,0,1,L,16,8,9,5,2,-1,Martin Jol,0.6,0.0,1.8,1.2,7.4,4.4
+0506,2005-12-18,Middlesbrough,A,3,3,D,1,2,L,8,11,5,8,0,-1,Martin Jol,0.8,0.0,2.4,1.6,7.0,4.4
+0506,2005-12-26,Birmingham,H,2,0,W,0,0,D,9,7,4,4,2,0,Martin Jol,1.2,-0.2,2.6,1.4,6.2,4.4
+0506,2005-12-28,West Brom,A,0,2,L,0,1,L,7,6,7,5,-2,-1,Martin Jol,0.6,-0.6,2.2,1.6,6.6,4.8
+0506,2005-12-31,Newcastle,H,2,0,W,1,0,W,13,9,3,4,2,1,Martin Jol,0.8,-0.4,2.0,1.2,5.6,5.2
+0506,2006-01-04,Man City,A,2,0,W,1,0,W,8,13,2,3,2,1,Martin Jol,0.8,0.0,1.8,1.0,4.2,4.8
+0506,2006-01-14,Liverpool,A,0,1,L,0,0,D,6,16,2,12,-1,0,Martin Jol,0.6,0.2,1.2,0.6,3.6,5.6
+0506,2006-01-21,Aston Villa,H,0,0,D,0,0,D,21,4,13,1,0,0,Martin Jol,0.2,0.2,0.8,0.6,5.4,5.0
+0506,2006-01-31,Fulham,A,0,1,L,0,0,D,7,12,3,8,-1,0,Martin Jol,0.4,0.4,0.8,0.4,4.6,5.6
+0506,2006-02-05,Charlton,H,3,1,W,2,0,W,14,7,10,5,2,2,Martin Jol,0.4,0.6,1.0,0.6,6.0,5.8
+0506,2006-02-12,Sunderland,A,1,1,D,1,0,W,10,9,7,5,0,1,Martin Jol,0.0,0.6,0.8,0.8,7.0,6.2
+0506,2006-02-19,Wigan,H,2,2,D,1,1,D,10,8,4,5,0,0,Martin Jol,0.2,0.6,1.2,1.0,7.4,4.8
+0506,2006-03-05,Blackburn,H,3,2,W,2,1,W,10,6,5,4,1,1,Martin Jol,0.4,0.8,1.8,1.4,5.8,5.4
+0506,2006-03-11,Chelsea,A,1,2,L,1,1,D,4,13,3,10,-1,0,Martin Jol,0.4,0.8,2.0,1.6,5.8,5.8
+0506,2006-03-18,Birmingham,A,2,0,W,0,0,D,9,6,6,4,2,0,Martin Jol,0.4,0.4,1.8,1.4,5.0,5.6
+0506,2006-03-27,West Brom,H,2,1,W,0,1,L,11,13,8,8,1,-1,Martin Jol,0.6,0.0,2.0,1.4,5.2,6.2
+0506,2006-04-01,Newcastle,A,1,3,L,1,3,L,10,14,5,11,-2,-2,Martin Jol,0.2,-0.4,1.8,1.6,5.4,7.4
+0506,2006-04-08,Man City,H,2,1,W,1,0,W,23,14,19,6,1,1,Martin Jol,0.2,-0.4,1.6,1.4,8.2,7.8
+0506,2006-04-15,Everton,A,1,0,W,1,0,W,10,8,6,4,1,1,Martin Jol,0.6,-0.2,1.6,1.0,8.8,6.6
+0506,2006-04-17,Man United,H,1,2,L,0,2,L,15,11,8,5,-1,-2,Martin Jol,0.0,-0.6,1.4,1.4,9.2,6.8
+0506,2006-04-22,Arsenal,A,1,1,D,0,0,D,9,9,6,6,0,0,Martin Jol,-0.2,-0.4,1.2,1.4,8.8,6.4
+0506,2006-04-30,Bolton,H,1,0,W,0,0,D,9,14,4,6,1,0,Martin Jol,0.4,0.0,1.2,0.8,8.6,5.4
+0506,2006-05-07,West Ham,A,1,2,L,1,1,D,14,12,6,7,-1,0,Martin Jol,0.0,-0.2,1.0,1.0,6.0,5.6
+0607,2006-08-19,Bolton,A,0,2,L,0,2,L,9,8,6,6,-2,-2,Martin Jol,-0.6,-0.8,0.8,1.4,6.0,6.0
+0607,2006-08-22,Sheffield United,H,2,0,W,2,0,W,18,6,13,3,2,2,Martin Jol,0.0,0.0,1.0,1.0,7.0,5.6
+0607,2006-08-26,Everton,H,0,2,L,0,0,D,15,6,6,2,-2,0,Martin Jol,-0.4,0.0,0.8,1.2,7.0,4.8
+0607,2006-09-09,Man United,A,0,1,L,0,1,L,9,10,4,5,-1,-1,Martin Jol,-0.8,-0.2,0.6,1.4,7.0,4.6
+0607,2006-09-17,Fulham,H,0,0,D,0,0,D,18,8,8,3,0,0,Martin Jol,-0.6,-0.2,0.4,1.0,7.4,3.8
+0607,2006-09-23,Liverpool,A,0,3,L,0,0,D,5,14,1,6,-3,0,Martin Jol,-0.8,0.2,0.4,1.2,6.4,3.8
+0607,2006-10-01,Portsmouth,H,2,1,W,2,1,W,8,9,6,6,1,1,Martin Jol,-1.0,0.0,0.4,1.4,5.0,4.4
+0607,2006-10-14,Aston Villa,A,1,1,D,0,0,D,10,12,5,6,0,0,Martin Jol,-0.6,0.0,0.6,1.2,4.8,5.2
+0607,2006-10-22,West Ham,H,1,0,W,1,0,W,13,5,5,2,1,1,Martin Jol,-0.2,0.4,0.8,1.0,5.0,4.6
+0607,2006-10-28,Watford,A,0,0,D,0,0,D,11,9,8,2,0,0,Martin Jol,-0.2,0.4,0.8,1.0,5.0,4.4
+0607,2006-11-05,Chelsea,H,2,1,W,1,1,D,8,17,3,10,1,0,Martin Jol,0.6,0.4,1.2,0.6,5.4,5.2
+0607,2006-11-12,Reading,A,1,3,L,1,2,L,9,8,3,4,-2,-1,Martin Jol,0.0,0.0,1.0,1.0,4.8,4.8
+0607,2006-11-19,Blackburn,A,1,1,D,0,1,L,13,6,5,3,0,-1,Martin Jol,0.0,-0.2,1.0,1.0,4.8,4.2
+0607,2006-11-26,Wigan,H,3,1,W,2,1,W,11,10,6,5,2,1,Martin Jol,0.2,-0.2,1.4,1.2,5.0,4.8
+0607,2006-12-02,Arsenal,A,0,3,L,0,2,L,7,6,4,5,-3,-2,Martin Jol,-0.4,-0.6,1.4,1.8,4.2,5.4
+0607,2006-12-05,Middlesbrough,H,2,1,W,0,0,D,22,6,11,3,1,0,Martin Jol,-0.4,-0.6,1.4,1.8,5.8,4.0
+0607,2006-12-09,Charlton,H,5,1,W,2,1,W,13,12,9,3,4,1,Martin Jol,0.8,-0.2,2.2,1.4,7.0,3.8
+0607,2006-12-17,Man City,A,2,1,W,2,0,W,11,10,7,4,1,2,Martin Jol,1.0,0.4,2.4,1.4,7.4,4.0
+0607,2006-12-23,Newcastle,A,1,3,L,1,3,L,17,12,6,9,-2,-2,Martin Jol,0.2,-0.2,2.0,1.8,7.4,4.8
+0607,2006-12-26,Aston Villa,H,2,1,W,0,0,D,12,9,10,7,1,0,Martin Jol,1.0,0.2,2.4,1.4,8.6,5.2
+0607,2006-12-30,Liverpool,H,0,1,L,0,1,L,9,10,3,5,-1,-1,Martin Jol,0.6,0.0,2.0,1.4,7.0,5.6
+0607,2007-01-01,Portsmouth,A,1,1,D,0,1,L,9,15,7,9,0,-1,Martin Jol,-0.2,-0.4,1.2,1.4,6.6,6.8
+0607,2007-01-14,Newcastle,H,2,3,L,1,1,D,25,12,17,7,-1,0,Martin Jol,-0.6,-0.8,1.2,1.8,8.6,7.4
+0607,2007-01-20,Fulham,A,1,1,D,0,0,D,9,9,4,3,0,0,Martin Jol,-0.2,-0.4,1.2,1.4,8.2,6.2
+0607,2007-02-04,Man United,H,0,4,L,0,1,L,10,12,5,7,-4,-1,Martin Jol,-1.2,-0.6,0.8,2.0,7.2,6.2
+0607,2007-02-10,Sheffield United,A,1,2,L,1,1,D,6,16,1,5,-1,0,Martin Jol,-1.2,-0.4,1.0,2.2,6.8,6.2
+0607,2007-02-21,Everton,A,2,1,W,1,1,D,8,10,4,3,1,0,Martin Jol,-1.0,-0.2,1.2,2.2,6.2,5.0
+0607,2007-02-25,Bolton,H,4,1,W,3,1,W,14,10,10,6,3,2,Martin Jol,-0.2,0.2,1.6,1.8,4.8,4.8
+0607,2007-03-04,West Ham,A,4,3,W,0,2,L,12,12,7,6,1,-2,Martin Jol,0.0,-0.2,2.2,2.2,5.4,5.4
+0607,2007-03-17,Watford,H,3,1,W,1,0,W,17,2,11,2,2,1,Martin Jol,1.2,0.2,2.8,1.6,6.6,4.4
+0607,2007-04-01,Reading,H,1,0,W,1,0,W,18,6,7,3,1,1,Martin Jol,1.6,0.4,2.8,1.2,7.8,4.0
+0607,2007-04-07,Chelsea,A,0,1,L,0,0,D,6,11,5,8,-1,0,Martin Jol,1.2,0.4,2.4,1.2,8.0,5.0
+0607,2007-04-15,Wigan,A,3,3,D,2,2,D,10,21,6,11,0,0,Martin Jol,0.6,0.0,2.2,1.6,7.2,6.0
+0607,2007-04-21,Arsenal,H,2,2,D,1,0,W,7,17,3,5,0,1,Martin Jol,0.4,0.6,1.8,1.4,6.4,5.8
+0607,2007-04-28,Middlesbrough,A,3,2,W,1,0,W,11,16,5,8,1,1,Martin Jol,0.2,0.6,1.8,1.6,5.2,7.0
+0607,2007-05-07,Charlton,A,2,0,W,1,0,W,9,7,6,4,2,1,Martin Jol,0.4,0.6,2.0,1.6,5.0,7.2
+0607,2007-05-10,Blackburn,H,1,1,D,0,1,L,15,10,7,4,0,-1,Martin Jol,0.6,0.4,2.2,1.6,5.4,6.4
+0607,2007-05-13,Man City,H,2,1,W,2,1,W,8,10,3,5,1,1,Martin Jol,0.8,0.6,2.0,1.2,4.8,5.2
+0708,2007-08-11,Sunderland,A,0,1,L,0,0,D,6,9,3,4,-1,0,Martin Jol,0.6,0.4,1.6,1.0,4.8,5.0
+0708,2007-08-14,Everton,H,1,3,L,1,3,L,14,16,8,10,-2,-2,Martin Jol,0.0,-0.2,1.2,1.2,5.4,5.4
+0708,2007-08-18,Derby,H,4,0,W,3,0,W,25,4,14,2,4,3,Martin Jol,0.4,0.2,1.6,1.2,7.0,5.0
+0708,2007-08-26,Man United,A,0,1,L,0,0,D,10,14,3,5,-1,0,Martin Jol,0.2,0.4,1.4,1.2,6.2,5.2
+0708,2007-09-01,Fulham,A,3,3,D,2,1,W,13,13,8,7,0,1,Martin Jol,0.0,0.4,1.6,1.6,7.2,5.6
+0708,2007-09-15,Arsenal,H,1,3,L,1,0,W,14,16,5,10,-2,1,Martin Jol,-0.2,0.6,1.8,2.0,7.6,6.8
+0708,2007-09-23,Bolton,A,1,1,D,1,1,D,10,5,7,4,0,0,Martin Jol,0.2,1.0,1.8,1.6,7.4,5.6
+0708,2007-10-01,Aston Villa,H,4,4,D,1,3,L,19,7,12,7,0,-2,Martin Jol,-0.6,0.0,1.8,2.4,7.0,6.6
+0708,2007-10-07,Liverpool,A,2,2,D,1,1,D,11,21,6,9,0,0,Martin Jol,-0.4,0.0,2.2,2.6,7.6,7.4
+0708,2007-10-22,Newcastle,A,1,3,L,0,1,L,11,15,4,7,-2,-1,Martin Jol,-0.8,-0.4,1.8,2.6,6.8,7.4
+0708,2007-10-28,Blackburn,H,1,2,L,0,0,D,9,9,6,4,-1,0,Interim Manager,-0.6,-0.6,1.8,2.4,7.0,6.2
+0708,2007-11-03,Middlesbrough,A,1,1,D,1,0,W,9,5,4,3,0,1,Juande Ramos,-0.6,-0.4,1.8,2.4,6.4,6.0
+0708,2007-11-11,Wigan,H,4,0,W,3,0,W,19,6,8,2,4,3,Juande Ramos,0.2,0.6,1.8,1.6,5.6,5.0
+0708,2007-11-25,West Ham,A,1,1,D,0,1,L,9,14,5,9,0,-1,Juande Ramos,0.2,0.4,1.6,1.4,5.4,5.0
+0708,2007-12-02,Birmingham,H,2,3,L,0,1,L,17,7,9,3,-1,-1,Juande Ramos,0.4,0.4,1.8,1.4,6.4,4.2
+0708,2007-12-09,Man City,H,2,1,W,1,0,W,12,7,8,3,1,1,Juande Ramos,0.8,0.6,2.0,1.2,6.8,4.0
+0708,2007-12-15,Portsmouth,A,1,0,W,0,0,D,12,9,5,5,1,0,Juande Ramos,1.0,0.4,2.0,1.0,7.0,4.4
+0708,2007-12-22,Arsenal,A,1,2,L,0,0,D,10,9,5,5,-1,0,Juande Ramos,0.0,-0.2,1.4,1.4,6.4,5.0
+0708,2007-12-26,Fulham,H,5,1,W,2,0,W,12,9,8,4,4,2,Juande Ramos,0.8,0.4,2.2,1.4,7.0,4.0
+0708,2007-12-29,Reading,H,6,4,W,1,1,D,14,11,12,8,2,0,Juande Ramos,1.4,0.6,3.0,1.6,7.6,5.0
+0708,2008-01-01,Aston Villa,A,1,2,L,0,1,L,9,14,6,4,-1,-1,Juande Ramos,1.0,0.2,2.8,1.8,7.2,5.2
+0708,2008-01-12,Chelsea,A,0,2,L,0,1,L,6,8,2,6,-2,-1,Juande Ramos,0.4,0.0,2.6,2.2,6.6,5.4
+0708,2008-01-19,Sunderland,H,2,0,W,1,0,W,17,14,13,8,2,1,Juande Ramos,1.0,0.2,2.8,1.8,8.2,6.0
+0708,2008-01-30,Everton,A,0,0,D,0,0,D,5,11,4,6,0,0,Juande Ramos,0.2,-0.2,1.8,1.6,7.4,6.4
+0708,2008-02-02,Man United,H,1,1,D,1,0,W,10,16,8,10,0,1,Juande Ramos,-0.2,0.0,0.8,1.0,6.6,6.8
+0708,2008-02-09,Derby,A,3,0,W,0,0,D,13,10,8,6,3,0,Juande Ramos,0.6,0.2,1.2,0.6,7.0,7.2
+0708,2008-03-01,Birmingham,A,1,4,L,0,1,L,19,13,10,10,-3,-1,Juande Ramos,0.4,0.2,1.4,1.0,8.6,8.0
+0708,2008-03-09,West Ham,H,4,0,W,2,0,W,18,8,11,4,4,2,Juande Ramos,0.8,0.4,1.8,1.0,8.2,7.2
+0708,2008-03-16,Man City,A,1,2,L,1,0,W,12,13,7,8,-1,1,Juande Ramos,0.6,0.6,2.0,1.4,8.8,7.6
+0708,2008-03-19,Chelsea,H,4,4,D,1,2,L,10,10,9,8,0,-1,Juande Ramos,0.6,0.2,2.6,2.0,9.0,7.2
+0708,2008-03-22,Portsmouth,H,2,0,W,0,0,D,17,4,8,4,2,0,Juande Ramos,0.4,0.2,2.4,2.0,9.0,6.8
+0708,2008-03-30,Newcastle,H,1,4,L,1,1,D,18,17,10,9,-3,0,Juande Ramos,0.4,0.4,2.4,2.0,9.0,6.6
+0708,2008-04-05,Blackburn,A,1,1,D,1,1,D,11,12,8,7,0,0,Juande Ramos,-0.4,0.0,1.8,2.2,8.4,7.2
+0708,2008-04-12,Middlesbrough,H,1,1,D,1,0,W,12,13,9,7,0,1,Juande Ramos,-0.2,0.0,1.8,2.0,8.8,7.0
+0708,2008-04-19,Wigan,A,1,1,D,1,1,D,15,13,12,7,0,0,Juande Ramos,-0.2,0.2,1.2,1.4,9.4,6.8
+0708,2008-04-26,Bolton,H,1,1,D,0,0,D,26,7,13,4,0,0,Juande Ramos,-0.6,0.2,1.0,1.6,10.4,6.8
+0708,2008-05-03,Reading,A,1,0,W,1,0,W,13,13,7,6,1,1,Juande Ramos,0.2,0.4,1.0,0.8,9.8,6.2
+0708,2008-05-11,Liverpool,H,0,2,L,0,0,D,6,18,3,12,-2,0,Juande Ramos,-0.2,0.4,0.8,1.0,8.8,7.2
+0809,2008-08-16,Middlesbrough,A,1,2,L,0,0,D,8,14,5,10,-1,0,Juande Ramos,-0.4,0.2,0.8,1.2,8.0,7.8
+0809,2008-08-23,Sunderland,H,1,2,L,0,0,D,18,12,11,7,-1,0,Juande Ramos,-0.6,0.2,0.8,1.4,7.8,7.8
+0809,2008-08-31,Chelsea,A,1,1,D,1,1,D,6,12,6,3,0,0,Juande Ramos,-0.6,0.2,0.8,1.4,6.4,7.6
+0809,2008-09-15,Aston Villa,H,1,2,L,0,1,L,17,17,10,13,-1,-1,Juande Ramos,-1.0,-0.2,0.8,1.8,7.0,9.0
+0809,2008-09-21,Wigan,H,0,0,D,0,0,D,11,14,4,6,0,0,Juande Ramos,-0.6,-0.2,0.8,1.4,7.2,7.8
+0809,2008-09-28,Portsmouth,A,0,2,L,0,1,L,15,8,8,6,-2,-1,Juande Ramos,-0.8,-0.4,0.6,1.4,7.8,7.0
+0809,2008-10-05,Hull,H,0,1,L,0,1,L,27,10,16,6,-1,-1,Juande Ramos,-0.8,-0.6,0.4,1.2,8.8,6.8
+0809,2008-10-19,Stoke,A,1,2,L,1,1,D,11,7,6,3,-1,0,Juande Ramos,-1.0,-0.6,0.4,1.4,8.8,6.8
+0809,2008-10-26,Bolton,H,2,0,W,1,0,W,19,10,9,3,2,1,Harry Redknapp,-0.4,-0.2,0.6,1.0,8.6,4.8
+0809,2008-10-29,Arsenal,A,4,4,D,1,1,D,9,20,6,12,0,0,Harry Redknapp,-0.4,-0.2,1.4,1.8,9.0,6.0
+0809,2008-11-01,Liverpool,H,2,1,W,0,1,L,8,14,4,6,1,-1,Harry Redknapp,0.2,-0.2,1.8,1.6,8.2,6.0
+0809,2008-11-09,Man City,A,2,1,W,1,1,D,14,9,9,7,1,0,Harry Redknapp,0.6,0.0,2.2,1.6,6.8,6.2
+0809,2008-11-15,Fulham,A,1,2,L,0,1,L,7,16,3,14,-1,-1,Harry Redknapp,0.6,-0.2,2.2,1.6,6.2,8.4
+0809,2008-11-23,Blackburn,H,1,0,W,1,0,W,16,9,7,6,1,1,Harry Redknapp,0.4,-0.2,2.0,1.6,5.8,9.0
+0809,2008-11-30,Everton,H,0,1,L,0,0,D,14,8,6,6,-1,0,Harry Redknapp,0.2,-0.2,1.2,1.0,5.8,7.8
+0809,2008-12-08,West Ham,A,2,0,W,0,0,D,17,11,12,4,2,0,Harry Redknapp,0.4,0.0,1.2,0.8,7.4,7.4
+0809,2008-12-13,Man United,H,0,0,D,0,0,D,11,15,6,12,0,0,Harry Redknapp,0.2,0.0,0.8,0.6,6.8,8.4
+0809,2008-12-21,Newcastle,A,1,2,L,1,1,D,11,7,6,4,-1,0,Harry Redknapp,0.2,0.2,0.8,0.6,7.4,6.4
+0809,2008-12-26,Fulham,H,0,0,D,0,0,D,14,10,7,7,0,0,Harry Redknapp,0.0,0.0,0.6,0.6,7.4,6.6
+0809,2008-12-28,West Brom,A,0,2,L,0,0,D,4,17,3,11,-2,0,Harry Redknapp,-0.2,0.0,0.6,0.8,6.8,7.6
+0809,2009-01-11,Wigan,A,0,1,L,0,0,D,6,13,3,5,-1,0,Harry Redknapp,-0.8,0.0,0.2,1.0,5.0,7.8
+0809,2009-01-18,Portsmouth,H,1,1,D,0,0,D,26,11,15,4,0,0,Harry Redknapp,-0.8,0.0,0.4,1.2,6.8,6.2
+0809,2009-01-27,Stoke,H,3,1,W,3,0,W,22,6,14,3,2,3,Harry Redknapp,-0.2,0.6,0.8,1.0,8.4,6.0
+0809,2009-01-31,Bolton,A,2,3,L,0,1,L,13,13,10,7,-1,-1,Harry Redknapp,-0.4,0.4,1.2,1.6,9.0,6.0
+0809,2009-02-08,Arsenal,H,0,0,D,0,0,D,16,4,6,1,0,0,Harry Redknapp,0.0,0.4,1.2,1.2,9.6,4.0
+0809,2009-02-23,Hull,A,2,1,W,1,1,D,9,12,6,4,1,0,Harry Redknapp,0.4,0.4,1.6,1.2,10.2,3.8
+0809,2009-03-04,Middlesbrough,H,4,0,W,3,0,W,12,15,7,6,4,3,Harry Redknapp,1.2,1.0,2.2,1.0,8.6,4.2
+0809,2009-03-07,Sunderland,A,1,1,D,0,1,L,13,8,8,3,0,-1,Harry Redknapp,0.8,0.2,1.8,1.0,7.4,4.2
+0809,2009-03-15,Aston Villa,A,2,1,W,1,0,W,10,11,9,5,1,1,Harry Redknapp,1.2,0.6,1.8,0.6,7.2,3.8
+0809,2009-03-21,Chelsea,H,1,0,W,0,0,D,8,15,4,9,1,0,Harry Redknapp,1.4,0.6,2.0,0.6,6.8,5.4
+0809,2009-04-04,Blackburn,A,1,2,L,1,0,W,9,11,3,6,-1,1,Harry Redknapp,1.0,0.8,1.8,0.8,6.2,5.8
+0809,2009-04-11,West Ham,H,1,0,W,0,0,D,14,8,9,6,1,0,Harry Redknapp,0.4,0.2,1.2,0.8,6.6,5.8
+0809,2009-04-19,Newcastle,H,1,0,W,1,0,W,22,8,18,3,1,1,Harry Redknapp,0.6,0.6,1.2,0.6,8.6,5.8
+0809,2009-04-25,Man United,A,2,5,L,2,0,W,6,21,4,14,-3,2,Harry Redknapp,-0.2,0.8,1.2,1.4,7.6,7.6
+0809,2009-05-02,West Brom,H,1,0,W,1,0,W,16,10,9,7,1,1,Harry Redknapp,-0.2,1.0,1.2,1.4,8.6,7.2
+0809,2009-05-09,Everton,A,0,0,D,0,0,D,4,13,2,5,0,0,Harry Redknapp,0.0,0.8,1.0,1.0,8.4,7.0
+0809,2009-05-16,Man City,H,2,1,W,1,0,W,11,9,4,3,1,1,Harry Redknapp,0.0,1.0,1.2,1.2,7.4,6.4
+0809,2009-05-24,Liverpool,A,1,3,L,0,1,L,8,20,4,9,-2,-1,Harry Redknapp,-0.6,0.6,1.2,1.8,4.6,7.6
+0910,2009-08-16,Liverpool,H,2,1,W,1,0,W,17,6,11,3,1,1,Harry Redknapp,0.2,0.4,1.2,1.0,6.0,5.4
+0910,2009-08-19,Hull,A,5,1,W,3,1,W,18,9,12,7,4,2,Harry Redknapp,0.8,0.6,2.0,1.2,6.6,5.4
+0910,2009-08-23,West Ham,A,2,1,W,0,0,D,17,17,10,8,1,0,Harry Redknapp,1.0,0.6,2.4,1.4,8.2,6.0
+0910,2009-08-29,Birmingham,H,2,1,W,0,0,D,20,11,14,6,1,0,Harry Redknapp,1.0,0.4,2.4,1.4,10.2,6.6
+0910,2009-09-12,Man United,H,1,3,L,1,2,L,11,17,7,13,-2,-1,Harry Redknapp,1.0,0.4,2.4,1.4,10.8,7.4
+0910,2009-09-20,Chelsea,A,0,3,L,0,1,L,9,25,4,15,-3,-1,Harry Redknapp,0.2,0.0,2.0,1.8,9.4,9.8
+0910,2009-09-26,Burnley,H,5,0,W,2,0,W,18,10,12,7,5,2,Harry Redknapp,0.4,0.0,2.0,1.6,9.4,9.8
+0910,2009-10-03,Bolton,A,2,2,D,1,1,D,17,12,9,9,0,0,Harry Redknapp,0.2,0.0,2.0,1.8,9.2,10.0
+0910,2009-10-17,Portsmouth,A,2,1,W,2,0,W,9,23,4,13,1,2,Harry Redknapp,0.2,0.4,2.0,1.8,7.2,11.4
+0910,2009-10-24,Stoke,H,0,1,L,0,0,D,22,8,12,2,-1,0,Harry Redknapp,0.4,0.6,1.8,1.4,8.2,9.2
+0910,2009-10-31,Arsenal,A,0,3,L,0,2,L,7,18,5,12,-3,-2,Harry Redknapp,0.4,0.4,1.8,1.4,8.4,8.6
+0910,2009-11-07,Sunderland,H,2,0,W,1,0,W,10,14,8,6,2,1,Harry Redknapp,-0.2,0.2,1.2,1.4,7.6,8.4
+0910,2009-11-22,Wigan,H,9,1,W,1,0,W,28,11,16,5,8,1,Harry Redknapp,1.4,0.4,2.6,1.2,9.0,7.6
+0910,2009-11-28,Aston Villa,A,1,1,D,0,1,L,23,12,17,4,0,-1,Harry Redknapp,1.2,-0.2,2.4,1.2,11.6,5.8
+0910,2009-12-06,Everton,A,2,2,D,0,0,D,19,15,11,6,0,0,Harry Redknapp,1.4,-0.2,2.8,1.4,11.4,6.6
+0910,2009-12-12,Wolves,H,0,1,L,0,1,L,18,3,10,3,-1,-1,Harry Redknapp,1.8,0.0,2.8,1.0,12.4,4.8
+0910,2009-12-16,Man City,H,3,0,W,1,0,W,19,9,7,5,3,1,Harry Redknapp,2.0,0.0,3.0,1.0,12.2,4.6
+0910,2009-12-19,Blackburn,A,2,0,W,1,0,W,7,13,2,9,2,1,Harry Redknapp,0.8,0.0,1.6,0.8,9.4,5.4
+0910,2009-12-26,Fulham,A,0,0,D,0,0,D,6,15,1,6,0,0,Harry Redknapp,0.8,0.2,1.4,0.6,6.2,5.8
+0910,2009-12-28,West Ham,H,2,0,W,1,0,W,21,3,9,2,2,1,Harry Redknapp,1.2,0.4,1.4,0.2,5.8,5.0
+0910,2010-01-16,Hull,H,0,0,D,0,0,D,25,8,18,2,0,0,Harry Redknapp,1.4,0.6,1.4,0.0,7.4,4.8
+0910,2010-01-20,Liverpool,A,0,2,L,0,1,L,7,13,5,5,-2,-1,Harry Redknapp,0.4,0.2,0.8,0.4,7.0,4.8
+0910,2010-01-26,Fulham,H,2,0,W,1,0,W,13,9,7,6,2,1,Harry Redknapp,0.4,0.2,0.8,0.4,8.0,4.2
+0910,2010-01-30,Birmingham,A,1,1,D,0,0,D,21,12,12,6,0,0,Harry Redknapp,0.4,0.2,1.0,0.6,10.2,4.2
+0910,2010-02-06,Aston Villa,H,0,0,D,0,0,D,28,10,15,5,0,0,Harry Redknapp,0.0,0.0,0.6,0.6,11.4,4.8
+0910,2010-02-10,Wolves,A,0,1,L,0,1,L,10,8,4,4,-1,-1,Harry Redknapp,-0.2,-0.2,0.6,0.8,8.6,5.2
+0910,2010-02-21,Wigan,A,3,0,W,1,0,W,13,8,12,7,3,1,Harry Redknapp,0.8,0.2,1.2,0.4,10.0,5.6
+0910,2010-02-28,Everton,H,2,1,W,2,0,W,13,14,9,10,1,2,Harry Redknapp,0.6,0.4,1.2,0.6,10.4,6.4
+0910,2010-03-13,Blackburn,H,3,1,W,1,0,W,14,10,7,7,2,1,Harry Redknapp,1.0,0.6,1.6,0.6,9.4,6.6
+0910,2010-03-20,Stoke,A,2,1,W,0,0,D,16,8,9,4,1,0,Harry Redknapp,1.2,0.6,2.0,0.8,8.2,6.4
+0910,2010-03-27,Portsmouth,H,2,0,W,2,0,W,16,8,8,3,2,2,Harry Redknapp,1.8,1.2,2.4,0.6,9.0,6.2
+0910,2010-04-03,Sunderland,A,1,3,L,0,2,L,12,11,9,10,-2,-2,Harry Redknapp,0.8,0.6,2.0,1.2,8.4,6.8
+0910,2010-04-14,Arsenal,H,2,1,W,1,0,W,13,19,10,11,1,1,Harry Redknapp,0.8,0.4,2.0,1.2,8.6,7.0
+0910,2010-04-17,Chelsea,H,2,1,W,2,0,W,20,9,10,6,1,2,Harry Redknapp,0.6,0.6,1.8,1.2,9.2,6.8
+0910,2010-04-24,Man United,A,1,3,L,0,0,D,9,15,3,8,-2,0,Harry Redknapp,0.0,0.6,1.6,1.6,8.0,7.6
+0910,2010-05-01,Bolton,H,1,0,W,1,0,W,25,11,12,7,1,1,Harry Redknapp,-0.2,0.4,1.4,1.6,8.8,8.4
+0910,2010-05-05,Man City,A,1,0,W,0,0,D,10,10,6,5,1,0,Harry Redknapp,0.4,0.8,1.4,1.0,8.2,7.4
+0910,2010-05-09,Burnley,A,2,4,L,2,1,W,16,16,11,12,-2,1,Harry Redknapp,-0.2,0.8,1.4,1.6,8.4,7.6
+1011,2010-08-14,Man City,H,0,0,D,0,0,D,22,11,18,7,0,0,Harry Redknapp,-0.4,0.4,1.0,1.4,10.0,7.8
+1011,2010-08-21,Stoke,A,2,1,W,2,1,W,7,15,6,10,1,1,Harry Redknapp,0.2,0.6,1.2,1.0,10.6,8.2
+1011,2010-08-28,Wigan,H,0,1,L,0,0,D,12,13,7,5,-1,0,Harry Redknapp,-0.2,0.4,1.0,1.2,9.6,7.8
+1011,2010-09-11,West Brom,A,1,1,D,1,1,D,16,15,9,8,0,0,Harry Redknapp,-0.4,0.4,1.0,1.4,10.2,8.4
+1011,2010-09-18,Wolves,H,3,1,W,0,1,L,20,5,11,2,2,-1,Harry Redknapp,0.4,0.0,1.2,0.8,10.2,6.4
+1011,2010-09-25,West Ham,A,0,1,L,0,1,L,17,22,11,15,-1,-1,Harry Redknapp,0.2,-0.2,1.2,1.0,8.8,8.0
+1011,2010-10-02,Aston Villa,H,2,1,W,1,1,D,19,13,10,4,1,0,Harry Redknapp,0.2,-0.4,1.2,1.0,9.6,6.8
+1011,2010-10-16,Fulham,A,2,1,W,1,1,D,14,11,6,5,1,0,Harry Redknapp,0.6,-0.4,1.6,1.0,9.4,6.8
+1011,2010-10-23,Everton,H,1,1,D,1,1,D,13,7,8,3,0,0,Harry Redknapp,0.6,-0.4,1.6,1.0,9.2,5.8
+1011,2010-10-30,Man United,A,0,2,L,0,1,L,11,18,5,10,-2,-1,Harry Redknapp,-0.2,-0.4,1.0,1.2,8.0,7.4
+1011,2010-11-06,Bolton,A,2,4,L,0,1,L,11,18,6,8,-2,-1,Harry Redknapp,-0.4,-0.4,1.4,1.8,7.0,6.0
+1011,2010-11-09,Sunderland,H,1,1,D,0,0,D,20,8,12,4,0,0,Harry Redknapp,-0.6,-0.4,1.2,1.8,7.4,6.0
+1011,2010-11-13,Blackburn,H,4,2,W,2,0,W,20,12,12,8,2,2,Harry Redknapp,-0.4,0.0,1.6,2.0,8.6,6.6
+1011,2010-11-20,Arsenal,A,3,2,W,0,2,L,10,12,6,7,1,-2,Harry Redknapp,-0.2,-0.4,2.0,2.2,8.2,7.4
+1011,2010-11-28,Liverpool,H,2,1,W,0,1,L,20,12,13,8,1,-1,Harry Redknapp,0.4,-0.4,2.4,2.0,9.8,7.0
+1011,2010-12-04,Birmingham,A,1,1,D,1,0,W,10,13,5,5,0,1,Harry Redknapp,0.8,0.0,2.2,1.4,9.6,6.4
+1011,2010-12-12,Chelsea,H,1,1,D,1,0,W,10,13,3,7,0,1,Harry Redknapp,0.8,0.2,2.2,1.4,7.8,7.0
+1011,2010-12-26,Aston Villa,A,2,1,W,1,0,W,13,26,8,15,1,1,Harry Redknapp,0.6,0.0,1.8,1.2,7.0,8.4
+1011,2010-12-28,Newcastle,H,2,0,W,0,0,D,13,12,8,8,2,0,Harry Redknapp,0.8,0.4,1.6,0.8,7.4,8.6
+1011,2011-01-01,Fulham,H,1,0,W,1,0,W,13,12,9,4,1,1,Harry Redknapp,0.8,0.8,1.4,0.6,6.6,7.8
+1011,2011-01-05,Everton,A,1,2,L,1,1,D,13,19,5,12,-1,0,Harry Redknapp,0.6,0.6,1.4,0.8,6.6,9.2
+1011,2011-01-16,Man United,H,0,0,D,0,0,D,16,7,6,4,0,0,Harry Redknapp,0.6,0.4,1.2,0.6,7.2,8.6
+1011,2011-01-22,Newcastle,A,1,1,D,0,0,D,14,13,9,6,0,0,Harry Redknapp,0.4,0.2,1.0,0.6,7.4,6.8
+1011,2011-02-02,Blackburn,A,1,0,W,1,0,W,6,17,5,9,1,1,Harry Redknapp,0.2,0.4,0.8,0.6,6.8,7.0
+1011,2011-02-05,Bolton,H,2,1,W,1,0,W,13,8,7,3,1,1,Harry Redknapp,0.2,0.4,1.0,0.8,6.4,6.8
+1011,2011-02-12,Sunderland,A,2,1,W,1,1,D,11,16,5,10,1,0,Harry Redknapp,0.6,0.4,1.2,0.6,6.4,6.4
+1011,2011-02-22,Blackpool,A,1,3,L,0,2,L,25,8,10,4,-2,-2,Harry Redknapp,0.2,0.0,1.4,1.2,7.2,6.4
+1011,2011-03-06,Wolves,A,3,3,D,2,2,D,15,13,10,4,0,0,Harry Redknapp,0.2,0.0,1.8,1.6,7.4,6.0
+1011,2011-03-19,West Ham,H,0,0,D,0,0,D,26,11,14,5,0,0,Harry Redknapp,0.0,-0.2,1.6,1.6,9.2,5.2
+1011,2011-04-02,Wigan,A,0,0,D,0,0,D,10,14,6,5,0,0,Harry Redknapp,-0.2,-0.4,1.2,1.4,9.0,5.6
+1011,2011-04-09,Stoke,H,3,2,W,3,2,W,9,10,8,5,1,1,Harry Redknapp,-0.2,-0.2,1.4,1.6,9.6,4.6
+1011,2011-04-20,Arsenal,H,3,3,D,2,3,L,16,13,9,9,0,-1,Harry Redknapp,0.2,0.0,1.8,1.6,9.4,5.6
+1011,2011-04-23,West Brom,H,2,2,D,1,1,D,19,10,9,4,0,0,Harry Redknapp,0.2,0.0,1.6,1.4,9.2,5.6
+1011,2011-04-30,Chelsea,A,1,2,L,1,1,D,12,16,7,10,-1,0,Harry Redknapp,0.0,0.0,1.8,1.8,7.8,6.6
+1011,2011-05-07,Blackpool,H,1,1,D,0,0,D,20,13,11,7,0,0,Harry Redknapp,0.0,0.0,2.0,2.0,8.8,7.0
+1011,2011-05-10,Man City,A,0,1,L,0,1,L,14,7,7,4,-1,-1,Harry Redknapp,-0.4,-0.4,1.4,1.8,8.6,6.8
+1011,2011-05-15,Liverpool,A,2,0,W,1,0,W,8,10,4,2,2,1,Harry Redknapp,0.0,0.0,1.2,1.2,7.6,5.4
+1011,2011-05-22,Birmingham,H,2,1,W,0,0,D,22,7,16,3,1,0,Harry Redknapp,0.2,0.0,1.2,1.0,9.0,5.2
+1112,2011-08-22,Man United,A,0,3,L,0,0,D,20,27,12,21,-3,0,Harry Redknapp,-0.2,0.0,1.0,1.2,10.0,7.4
+1112,2011-08-28,Man City,H,1,5,L,0,2,L,15,22,10,12,-4,-2,Harry Redknapp,-1.0,-0.4,1.0,2.0,9.8,8.4
+1112,2011-09-10,Wolves,A,2,0,W,0,0,D,17,10,11,6,2,0,Harry Redknapp,-0.4,-0.2,1.4,1.8,10.6,8.8
+1112,2011-09-18,Liverpool,H,4,0,W,1,0,W,24,5,16,2,4,1,Harry Redknapp,0.0,-0.2,1.8,1.8,13.0,8.8
+1112,2011-09-24,Wigan,A,2,1,W,2,0,W,14,5,7,4,1,2,Harry Redknapp,0.0,0.2,1.8,1.8,11.2,9.0
+1112,2011-10-02,Arsenal,H,2,1,W,1,0,W,16,13,8,7,1,1,Harry Redknapp,0.8,0.4,2.2,1.4,10.4,6.2
+1112,2011-10-16,Newcastle,A,2,2,D,1,0,W,11,12,8,7,0,1,Harry Redknapp,1.6,1.0,2.4,0.8,10.0,5.2
+1112,2011-10-23,Blackburn,A,2,1,W,1,1,D,9,19,7,8,1,0,Harry Redknapp,1.4,1.0,2.4,1.0,9.2,5.6
+1112,2011-10-30,QPR,H,3,1,W,2,0,W,22,12,13,8,2,2,Harry Redknapp,1.0,1.2,2.2,1.2,8.6,6.8
+1112,2011-11-06,Fulham,A,3,1,W,2,0,W,8,26,8,20,2,2,Harry Redknapp,1.2,1.2,2.4,1.2,8.8,10.0
+1112,2011-11-21,Aston Villa,H,2,0,W,2,0,W,20,5,9,1,2,2,Harry Redknapp,1.4,1.4,2.4,1.0,9.0,8.8
+1112,2011-11-26,West Brom,A,3,1,W,1,1,D,23,9,14,5,2,0,Harry Redknapp,1.8,1.2,2.6,0.8,10.2,8.4
+1112,2011-12-03,Bolton,H,3,0,W,1,0,W,25,13,16,9,3,1,Harry Redknapp,2.2,1.4,2.8,0.6,12.0,8.6
+1112,2011-12-11,Stoke,A,1,2,L,0,2,L,15,10,12,7,-1,-2,Harry Redknapp,1.6,0.6,2.4,0.8,11.8,8.4
+1112,2011-12-18,Sunderland,H,1,0,W,0,0,D,16,8,12,4,1,0,Harry Redknapp,1.4,0.2,2.0,0.6,12.6,5.2
+1112,2011-12-22,Chelsea,H,1,1,D,1,1,D,16,20,10,10,0,0,Harry Redknapp,1.0,-0.2,1.8,0.8,12.8,7.0
+1112,2011-12-27,Norwich,A,2,0,W,0,0,D,19,8,8,4,2,0,Harry Redknapp,1.0,-0.2,1.6,0.6,11.6,6.8
+1112,2011-12-31,Swansea,A,1,1,D,1,0,W,12,14,7,8,0,1,Harry Redknapp,0.4,-0.2,1.2,0.8,9.8,6.6
+1112,2012-01-03,West Brom,H,1,0,W,0,0,D,20,8,14,2,1,0,Harry Redknapp,0.8,0.2,1.2,0.4,10.2,5.6
+1112,2012-01-11,Everton,H,2,0,W,1,0,W,14,11,7,4,2,1,Harry Redknapp,1.0,0.4,1.4,0.4,9.2,5.6
+1112,2012-01-14,Wolves,H,1,1,D,0,1,L,22,5,10,3,0,-1,Harry Redknapp,1.0,0.2,1.4,0.4,9.2,4.2
+1112,2012-01-22,Man City,A,2,3,L,0,0,D,12,13,7,7,-1,0,Harry Redknapp,0.4,0.2,1.4,1.0,9.0,4.8
+1112,2012-01-31,Wigan,H,3,1,W,2,0,W,20,10,13,6,2,2,Harry Redknapp,0.8,0.4,1.8,1.0,10.2,4.4
+1112,2012-02-06,Liverpool,A,0,0,D,0,0,D,9,15,6,10,0,0,Harry Redknapp,0.6,0.4,1.6,1.0,8.6,6.0
+1112,2012-02-11,Newcastle,H,5,0,W,4,0,W,18,7,9,3,5,4,Harry Redknapp,1.2,1.0,2.2,1.0,9.0,5.8
+1112,2012-02-26,Arsenal,A,2,5,L,2,2,D,8,21,4,13,-3,0,Harry Redknapp,0.6,1.2,2.4,1.8,7.8,7.8
+1112,2012-03-04,Man United,H,1,3,L,0,1,L,18,6,9,5,-2,-1,Harry Redknapp,0.4,1.0,2.2,1.8,8.2,7.4
+1112,2012-03-10,Everton,A,0,1,L,0,1,L,21,9,9,5,-1,-1,Harry Redknapp,-0.2,0.4,1.6,1.8,7.4,7.2
+1112,2012-03-21,Stoke,H,1,1,D,0,0,D,24,8,18,2,0,0,Harry Redknapp,-0.2,0.4,1.8,2.0,9.8,5.6
+1112,2012-03-24,Chelsea,A,0,0,D,0,0,D,19,10,7,5,0,0,Harry Redknapp,-1.2,-0.4,0.8,2.0,9.4,6.0
+1112,2012-04-01,Swansea,H,3,1,W,1,0,W,15,11,10,7,2,1,Harry Redknapp,-0.2,-0.2,1.0,1.2,10.6,4.8
+1112,2012-04-07,Sunderland,A,0,0,D,0,0,D,15,12,8,9,0,0,Harry Redknapp,0.2,0.0,0.8,0.6,10.4,5.6
+1112,2012-04-09,Norwich,H,1,2,L,1,1,D,13,12,9,6,-1,0,Harry Redknapp,0.2,0.2,1.0,0.8,10.4,5.8
+1112,2012-04-21,QPR,A,0,1,L,0,1,L,17,12,8,5,-1,-1,Harry Redknapp,0.0,0.0,0.8,0.8,8.4,6.4
+1112,2012-04-29,Blackburn,H,2,0,W,1,0,W,19,0,8,0,2,1,Harry Redknapp,0.4,0.2,1.2,0.8,8.6,5.4
+1112,2012-05-02,Bolton,A,4,1,W,1,0,W,13,14,10,8,3,1,Harry Redknapp,0.6,0.2,1.4,0.8,8.6,5.6
+1112,2012-05-06,Aston Villa,A,1,1,D,0,1,L,21,4,10,2,0,-1,Harry Redknapp,0.6,0.0,1.6,1.0,9.0,4.2
+1112,2012-05-13,Fulham,H,2,0,W,1,0,W,15,10,9,7,2,1,Harry Redknapp,1.2,0.2,1.8,0.6,9.0,4.4
+1213,2012-08-18,Newcastle,A,1,2,L,0,0,D,12,6,6,4,-1,0,André Villas-Boas,1.2,0.4,2.0,0.8,8.6,4.2
+1213,2012-08-25,West Brom,H,1,1,D,0,0,D,18,10,10,5,0,0,André Villas-Boas,0.8,0.2,1.8,1.0,9.0,5.2
+1213,2012-09-01,Norwich,H,1,1,D,0,0,D,15,10,9,4,0,0,André Villas-Boas,0.2,0.0,1.2,1.0,8.8,4.4
+1213,2012-09-16,Reading,A,3,1,W,1,0,W,22,4,11,2,2,1,André Villas-Boas,0.6,0.4,1.6,1.0,9.0,4.4
+1213,2012-09-23,QPR,H,2,1,W,0,1,L,18,9,14,6,1,-1,André Villas-Boas,0.4,0.0,1.6,1.2,10.0,4.2
+1213,2012-09-29,Man United,A,3,2,W,2,0,W,10,15,6,8,1,2,André Villas-Boas,0.8,0.4,2.0,1.2,10.0,5.0
+1213,2012-10-07,Aston Villa,H,2,0,W,0,0,D,23,8,10,5,2,0,André Villas-Boas,1.2,0.4,2.2,1.0,10.0,5.0
+1213,2012-10-20,Chelsea,H,2,4,L,0,1,L,23,11,16,7,-2,-1,André Villas-Boas,0.8,0.2,2.4,1.6,11.4,5.6
+1213,2012-10-28,Southampton,A,2,1,W,2,0,W,11,11,4,6,1,2,André Villas-Boas,0.6,0.4,2.2,1.6,10.0,6.4
+1213,2012-11-03,Wigan,H,0,1,L,0,0,D,13,7,10,4,-1,0,André Villas-Boas,0.2,0.6,1.8,1.6,9.2,6.0
+1213,2012-11-11,Man City,A,1,2,L,1,0,W,6,16,2,8,-1,1,André Villas-Boas,-0.2,0.4,1.4,1.6,8.4,6.0
+1213,2012-11-17,Arsenal,A,2,5,L,1,3,L,6,13,4,10,-3,-2,André Villas-Boas,-1.2,0.0,1.4,2.6,7.2,7.0
+1213,2012-11-25,West Ham,H,3,1,W,1,0,W,25,10,13,6,2,1,André Villas-Boas,-0.4,0.4,1.6,2.0,6.6,6.8
+1213,2012-11-28,Liverpool,H,2,1,W,2,0,W,14,14,7,9,1,2,André Villas-Boas,-0.4,0.4,1.6,2.0,7.2,7.4
+1213,2012-12-01,Fulham,A,3,0,W,0,0,D,10,8,6,2,3,0,André Villas-Boas,0.4,0.4,2.2,1.8,6.4,7.0
+1213,2012-12-09,Everton,A,1,2,L,0,0,D,8,17,6,11,-1,0,André Villas-Boas,0.4,0.2,2.2,1.8,7.2,7.6
+1213,2012-12-16,Swansea,H,1,0,W,0,0,D,24,4,16,0,1,0,André Villas-Boas,1.2,0.6,2.0,0.8,9.6,5.6
+1213,2012-12-22,Stoke,H,0,0,D,0,0,D,21,4,14,2,0,0,André Villas-Boas,0.8,0.4,1.4,0.6,9.8,4.8
+1213,2012-12-26,Aston Villa,A,4,0,W,0,0,D,20,4,16,1,4,0,André Villas-Boas,1.4,0.0,1.8,0.4,11.6,3.2
+1213,2012-12-29,Sunderland,A,2,1,W,0,1,L,18,9,14,6,1,-1,André Villas-Boas,1.0,-0.2,1.6,0.6,13.2,4.0
+1213,2013-01-01,Reading,H,3,1,W,1,1,D,30,7,20,4,2,0,André Villas-Boas,1.6,-0.2,2.0,0.4,16.0,2.6
+1213,2013-01-12,QPR,A,0,0,D,0,0,D,16,4,8,1,0,0,André Villas-Boas,1.4,-0.2,1.8,0.4,14.4,2.8
+1213,2013-01-20,Man United,H,1,1,D,0,1,L,23,6,18,4,0,-1,André Villas-Boas,1.4,-0.4,2.0,0.6,15.2,3.2
+1213,2013-01-30,Norwich,A,1,1,D,0,1,L,12,8,7,4,0,-1,André Villas-Boas,0.6,-0.6,1.4,0.8,13.4,3.8
+1213,2013-02-03,West Brom,A,1,0,W,0,0,D,21,4,13,3,1,0,André Villas-Boas,0.6,-0.4,1.2,0.6,13.2,3.2
+1213,2013-02-09,Newcastle,H,2,1,W,1,1,D,16,9,9,7,1,0,André Villas-Boas,0.4,-0.4,1.0,0.6,11.0,3.8
+1213,2013-02-25,West Ham,A,3,2,W,1,1,D,25,8,16,6,1,0,André Villas-Boas,0.6,-0.4,1.6,1.0,12.6,4.8
+1213,2013-03-03,Arsenal,H,2,1,W,2,0,W,11,10,5,6,1,2,André Villas-Boas,0.8,0.2,1.8,1.0,10.0,5.2
+1213,2013-03-10,Liverpool,A,2,3,L,1,1,D,15,10,9,4,-1,0,André Villas-Boas,0.6,0.4,2.0,1.4,10.4,5.2
+1213,2013-03-17,Fulham,H,0,1,L,0,0,D,12,6,6,2,-1,0,André Villas-Boas,0.2,0.4,1.8,1.6,9.0,5.0
+1213,2013-03-30,Swansea,A,2,1,W,2,0,W,9,11,7,3,1,2,André Villas-Boas,0.2,0.8,1.8,1.6,8.6,4.2
+1213,2013-04-07,Everton,H,2,2,D,1,1,D,19,9,10,5,0,0,André Villas-Boas,0.0,0.8,1.6,1.6,7.4,4.0
+1213,2013-04-21,Man City,H,3,1,W,0,1,L,11,11,8,7,2,-1,André Villas-Boas,0.2,0.2,1.8,1.6,8.0,4.2
+1213,2013-04-27,Wigan,A,2,2,D,1,1,D,14,6,7,4,0,0,André Villas-Boas,0.4,0.2,1.8,1.4,7.6,4.2
+1213,2013-05-04,Southampton,H,1,0,W,0,0,D,7,10,4,6,1,0,André Villas-Boas,0.8,0.2,2.0,1.2,7.2,5.0
+1213,2013-05-08,Chelsea,A,2,2,D,1,2,L,13,15,6,8,0,-1,André Villas-Boas,0.6,-0.4,2.0,1.4,7.0,6.0
+1213,2013-05-12,Stoke,A,2,1,W,1,1,D,23,6,15,3,1,0,André Villas-Boas,0.8,-0.4,2.0,1.2,8.0,5.6
+1213,2013-05-19,Sunderland,H,1,0,W,0,0,D,23,6,19,4,1,0,André Villas-Boas,0.6,-0.2,1.6,1.0,10.2,5.0
+1314,2013-08-18,Crystal Palace,A,1,0,W,0,0,D,17,5,2,3,1,0,André Villas-Boas,0.8,-0.2,1.4,0.6,9.2,4.8
+1314,2013-08-25,Swansea,H,1,0,W,0,0,D,19,7,5,5,1,0,André Villas-Boas,0.8,-0.2,1.4,0.6,9.4,4.6
+1314,2013-09-01,Arsenal,A,0,1,L,0,1,L,14,12,4,5,-1,-1,André Villas-Boas,0.6,-0.2,1.0,0.4,9.0,4.0
+1314,2013-09-14,Norwich,H,2,0,W,1,0,W,23,4,7,1,2,1,André Villas-Boas,0.8,0.0,1.0,0.2,7.4,3.6
+1314,2013-09-22,Cardiff,A,1,0,W,0,0,D,29,6,12,0,1,0,André Villas-Boas,0.8,0.0,1.0,0.2,6.0,2.8
+1314,2013-09-28,Chelsea,H,1,1,D,1,0,W,12,11,4,5,0,1,André Villas-Boas,0.6,0.2,1.0,0.4,6.4,3.2
+1314,2013-10-06,West Ham,H,0,3,L,0,0,D,14,16,4,5,-3,0,André Villas-Boas,-0.2,0.2,0.8,1.0,6.2,3.2
+1314,2013-10-20,Aston Villa,A,2,0,W,1,0,W,13,15,6,2,2,1,André Villas-Boas,0.4,0.6,1.2,0.8,6.6,2.6
+1314,2013-10-27,Hull,H,1,0,W,0,0,D,15,10,6,4,1,0,André Villas-Boas,0.2,0.4,1.0,0.8,6.4,3.2
+1314,2013-11-03,Everton,A,0,0,D,0,0,D,16,8,6,1,0,0,André Villas-Boas,0.0,0.4,0.8,0.8,5.2,3.4
+1314,2013-11-10,Newcastle,H,0,1,L,0,1,L,31,8,14,4,-1,-1,André Villas-Boas,-0.2,0.0,0.6,0.8,7.2,3.2
+1314,2013-11-24,Man City,A,0,6,L,0,3,L,13,15,5,10,-6,-3,André Villas-Boas,-0.8,-0.6,0.6,1.4,7.4,4.2
+1314,2013-12-01,Man United,H,2,2,D,1,1,D,10,8,4,3,0,0,André Villas-Boas,-1.2,-0.8,0.6,1.8,7.0,4.4
+1314,2013-12-04,Fulham,A,2,1,W,0,0,D,18,16,5,6,1,0,André Villas-Boas,-1.2,-0.8,0.8,2.0,6.8,4.8
+1314,2013-12-07,Sunderland,A,2,1,W,1,1,D,22,11,5,4,1,0,André Villas-Boas,-1.0,-0.8,1.2,2.2,6.6,5.4
+1314,2013-12-15,Liverpool,H,0,5,L,0,2,L,9,21,0,10,-5,-2,André Villas-Boas,-1.8,-1.0,1.2,3.0,3.8,6.6
+1314,2013-12-22,Southampton,A,3,2,W,1,1,D,13,12,3,5,1,0,Tim Sherwood,-0.4,-0.4,1.8,2.2,3.4,5.6
+1314,2013-12-26,West Brom,H,1,1,D,1,1,D,20,7,3,4,0,0,Tim Sherwood,-0.4,-0.4,1.6,2.0,3.2,5.8
+1314,2013-12-29,Stoke,H,3,0,W,1,0,W,20,2,7,1,3,1,Tim Sherwood,0.0,-0.2,1.8,1.8,3.6,4.8
+1314,2014-01-01,Man United,A,2,1,W,1,0,W,9,16,4,6,1,1,Tim Sherwood,0.0,0.0,1.8,1.8,3.4,5.2
+1314,2014-01-11,Crystal Palace,H,2,0,W,0,0,D,10,14,4,2,2,0,Tim Sherwood,1.4,0.4,2.2,0.8,4.2,3.6
+1314,2014-01-19,Swansea,A,3,1,W,1,0,W,11,13,5,3,2,1,Tim Sherwood,1.6,0.6,2.2,0.6,4.6,3.2
+1314,2014-01-29,Man City,H,1,5,L,0,1,L,4,24,2,10,-4,-1,Tim Sherwood,0.8,0.4,2.2,1.4,4.4,4.4
+1314,2014-02-01,Hull,A,1,1,D,0,1,L,19,9,3,4,0,-1,Tim Sherwood,0.2,0.0,1.8,1.6,3.6,5.0
+1314,2014-02-09,Everton,H,1,0,W,0,0,D,8,11,2,3,1,0,Tim Sherwood,0.2,-0.2,1.6,1.4,3.2,4.4
+1314,2014-02-12,Newcastle,A,4,0,W,1,0,W,15,13,8,5,4,1,Tim Sherwood,0.6,0.0,2.0,1.4,4.0,5.0
+1314,2014-02-23,Norwich,A,0,1,L,0,0,D,9,13,2,3,-1,0,Tim Sherwood,0.0,-0.2,1.4,1.4,3.4,5.0
+1314,2014-03-02,Cardiff,H,1,0,W,1,0,W,15,8,6,2,1,1,Tim Sherwood,1.0,0.2,1.4,0.4,4.2,3.4
+1314,2014-03-08,Chelsea,A,0,4,L,0,0,D,6,12,2,4,-4,0,Tim Sherwood,0.2,0.4,1.2,1.0,4.0,3.4
+1314,2014-03-16,Arsenal,H,0,1,L,0,1,L,17,7,2,3,-1,-1,Tim Sherwood,-0.2,0.2,1.0,1.2,4.0,3.4
+1314,2014-03-23,Southampton,H,3,2,W,1,2,L,15,12,6,4,1,-1,Tim Sherwood,-0.8,-0.2,0.8,1.6,3.6,3.2
+1314,2014-03-30,Liverpool,A,0,4,L,0,2,L,15,11,4,5,-4,-2,Tim Sherwood,-1.4,-0.6,0.8,2.2,4.0,3.6
+1314,2014-04-07,Sunderland,H,5,1,W,1,1,D,29,8,11,4,4,0,Tim Sherwood,-0.8,-0.8,1.6,2.4,5.0,4.0
+1314,2014-04-12,West Brom,A,3,3,D,1,3,L,20,6,8,5,0,-2,Tim Sherwood,0.0,-1.2,2.2,2.2,6.2,4.2
+1314,2014-04-19,Fulham,H,3,1,W,1,1,D,14,11,5,4,2,0,Tim Sherwood,0.6,-1.0,2.8,2.2,6.8,4.4
+1314,2014-04-26,Stoke,A,1,0,W,1,0,W,16,17,4,3,1,1,Tim Sherwood,0.6,-0.6,2.4,1.8,6.4,4.2
+1314,2014-05-03,West Ham,A,0,2,L,0,2,L,12,20,3,8,-2,-2,Tim Sherwood,1.0,-0.6,2.4,1.4,6.2,4.8
+1314,2014-05-11,Aston Villa,H,3,0,W,3,0,W,12,4,6,1,3,3,Tim Sherwood,0.8,0.0,2.0,1.2,5.2,4.2
+1415,2014-08-16,West Ham,A,1,0,W,0,0,D,10,18,4,4,1,0,Mauricio Pochettino,1.0,0.4,1.6,0.6,4.4,4.0
+1415,2014-08-24,QPR,H,4,0,W,3,0,W,18,9,5,1,4,3,Mauricio Pochettino,1.4,1.0,1.8,0.4,4.4,3.4
+1415,2014-08-31,Liverpool,H,0,3,L,0,1,L,7,17,1,8,-3,-1,Mauricio Pochettino,0.6,0.6,1.6,1.0,3.8,4.4
+1415,2014-09-13,Sunderland,A,2,2,D,1,1,D,15,6,6,1,0,0,Mauricio Pochettino,1.0,1.0,2.0,1.0,4.4,3.0
+1415,2014-09-21,West Brom,H,0,1,L,0,0,D,7,10,1,4,-1,0,Mauricio Pochettino,0.2,0.4,1.4,1.2,3.4,3.6
+1415,2014-09-27,Arsenal,A,1,1,D,0,0,D,6,16,4,6,0,0,Mauricio Pochettino,0.0,0.4,1.4,1.4,3.4,4.0
+1415,2014-10-05,Southampton,H,1,0,W,1,0,W,9,7,4,3,1,1,Mauricio Pochettino,-0.6,0.0,0.8,1.4,3.2,4.4
+1415,2014-10-18,Man City,A,1,4,L,1,2,L,19,20,7,12,-3,-1,Mauricio Pochettino,-0.6,0.0,1.0,1.6,4.4,5.2
+1415,2014-10-26,Newcastle,H,1,2,L,1,0,W,17,8,2,2,-1,1,Mauricio Pochettino,-0.8,0.2,0.8,1.6,3.6,5.4
+1415,2014-11-02,Aston Villa,A,2,1,W,0,1,L,18,12,7,1,1,-1,Mauricio Pochettino,-0.4,0.0,1.2,1.6,4.8,4.8
+1415,2014-11-09,Stoke,H,1,2,L,0,2,L,14,11,4,4,-1,-2,Mauricio Pochettino,-0.6,-0.4,1.2,1.8,4.8,4.4
+1415,2014-11-23,Hull,A,2,1,W,0,1,L,23,10,6,2,1,-1,Mauricio Pochettino,-0.6,-0.8,1.4,2.0,5.2,4.2
+1415,2014-11-30,Everton,H,2,1,W,2,1,W,13,10,6,5,1,1,Mauricio Pochettino,0.2,-0.4,1.6,1.4,5.0,2.8
+1415,2014-12-03,Chelsea,A,0,3,L,0,2,L,10,12,2,8,-3,-2,Mauricio Pochettino,-0.2,-1.0,1.4,1.6,5.0,4.0
+1415,2014-12-06,Crystal Palace,H,0,0,D,0,0,D,14,16,3,4,0,0,Mauricio Pochettino,-0.4,-0.8,1.0,1.4,4.2,4.6
+1415,2014-12-14,Swansea,A,2,1,W,1,0,W,10,15,4,3,1,1,Mauricio Pochettino,0.0,-0.2,1.2,1.2,4.2,4.4
+1415,2014-12-20,Burnley,H,2,1,W,2,1,W,23,9,6,5,1,1,Mauricio Pochettino,0.0,0.2,1.2,1.2,4.2,5.0
+1415,2014-12-26,Leicester,A,2,1,W,1,0,W,8,22,3,6,1,1,Mauricio Pochettino,0.0,0.2,1.2,1.2,3.6,5.2
+1415,2014-12-28,Man United,H,0,0,D,0,0,D,9,9,4,5,0,0,Mauricio Pochettino,0.6,0.6,1.2,0.6,4.0,4.6
+1415,2015-01-01,Chelsea,H,5,3,W,3,1,W,11,19,8,7,2,2,Mauricio Pochettino,1.0,1.0,2.2,1.2,5.0,5.2
+1415,2015-01-10,Crystal Palace,A,1,2,L,0,0,D,9,21,5,7,-1,0,Mauricio Pochettino,0.6,0.8,2.0,1.4,5.2,6.0
+1415,2015-01-17,Sunderland,H,2,1,W,1,1,D,25,8,8,4,1,0,Mauricio Pochettino,0.6,0.6,2.0,1.4,5.6,5.8
+1415,2015-01-31,West Brom,A,3,0,W,2,0,W,14,13,4,4,3,2,Mauricio Pochettino,1.0,0.8,2.2,1.2,5.8,5.4
+1415,2015-02-07,Arsenal,H,2,1,W,0,1,L,23,7,8,3,1,-1,Mauricio Pochettino,1.2,0.6,2.6,1.4,6.6,5.0
+1415,2015-02-10,Liverpool,A,2,3,L,1,1,D,14,16,5,7,-1,0,Mauricio Pochettino,0.6,0.2,2.0,1.4,6.0,5.0
+1415,2015-02-22,West Ham,H,2,2,D,0,1,L,27,12,8,5,0,-1,Mauricio Pochettino,0.8,0.0,2.2,1.4,6.6,4.6
+1415,2015-03-04,Swansea,H,3,2,W,1,1,D,20,10,7,5,1,0,Mauricio Pochettino,0.8,0.0,2.4,1.6,6.4,4.8
+1415,2015-03-07,QPR,A,2,1,W,1,0,W,13,17,6,6,1,1,Mauricio Pochettino,0.4,-0.2,2.2,1.8,6.8,5.2
+1415,2015-03-15,Man United,A,0,3,L,0,3,L,5,11,1,3,-3,-3,Mauricio Pochettino,-0.4,-0.6,1.8,2.2,5.4,5.2
+1415,2015-03-21,Leicester,H,4,3,W,2,1,W,10,14,4,5,1,1,Mauricio Pochettino,0.0,-0.4,2.2,2.2,5.2,4.8
+1415,2015-04-05,Burnley,A,0,0,D,0,0,D,12,15,2,4,0,0,Mauricio Pochettino,0.0,-0.2,1.8,1.8,4.0,4.6
+1415,2015-04-11,Aston Villa,H,0,1,L,0,1,L,14,10,3,3,-1,-1,Mauricio Pochettino,-0.4,-0.4,1.2,1.6,3.2,4.2
+1415,2015-04-19,Newcastle,A,3,1,W,1,0,W,14,11,8,5,2,1,Mauricio Pochettino,-0.2,-0.4,1.4,1.6,3.6,4.0
+1415,2015-04-25,Southampton,A,2,2,D,1,1,D,7,13,2,4,0,0,Mauricio Pochettino,0.4,0.2,1.8,1.4,3.8,4.2
+1415,2015-05-03,Man City,H,0,1,L,0,1,L,21,15,5,4,-1,-1,Mauricio Pochettino,0.0,-0.2,1.0,1.0,4.0,4.0
+1415,2015-05-09,Stoke,A,0,3,L,0,2,L,9,17,3,9,-3,-2,Mauricio Pochettino,-0.6,-0.6,1.0,1.6,4.2,5.0
+1415,2015-05-16,Hull,H,2,0,W,0,0,D,10,14,3,2,2,0,Mauricio Pochettino,0.0,-0.4,1.4,1.4,4.2,4.8
+1415,2015-05-24,Everton,A,1,0,W,1,0,W,16,9,3,1,1,1,Mauricio Pochettino,-0.2,-0.4,1.0,1.2,3.2,4.0
+1516,2015-08-08,Man United,A,0,1,L,0,1,L,9,9,4,1,-1,-1,Mauricio Pochettino,-0.4,-0.6,0.6,1.0,3.6,3.4
+1516,2015-08-15,Stoke,H,2,2,D,2,0,W,13,16,7,7,0,2,Mauricio Pochettino,-0.2,0.0,1.0,1.2,4.0,4.0
+1516,2015-08-22,Leicester,A,1,1,D,0,0,D,19,13,6,2,0,0,Mauricio Pochettino,0.4,0.4,1.2,0.8,4.6,2.6
+1516,2015-08-29,Everton,H,0,0,D,0,0,D,20,8,6,3,0,0,Mauricio Pochettino,0.0,0.4,0.8,0.8,5.2,2.8
+1516,2015-09-13,Sunderland,A,1,0,W,0,0,D,15,12,4,2,1,0,Mauricio Pochettino,0.0,0.2,0.8,0.8,5.4,3.0
+1516,2015-09-20,Crystal Palace,H,1,0,W,0,0,D,22,12,6,4,1,0,Mauricio Pochettino,0.4,0.4,1.0,0.6,5.8,3.6
+1516,2015-09-26,Man City,H,4,1,W,1,1,D,15,22,8,8,3,0,Mauricio Pochettino,1.0,0.0,1.4,0.4,6.0,3.8
+1516,2015-10-04,Swansea,A,2,2,D,1,2,L,19,11,11,2,0,-1,Mauricio Pochettino,1.0,-0.2,1.6,0.6,7.0,3.8
+1516,2015-10-17,Liverpool,H,0,0,D,0,0,D,13,12,4,3,0,0,Mauricio Pochettino,1.0,-0.2,1.6,0.6,6.6,3.8
+1516,2015-10-25,Bournemouth,A,5,1,W,3,1,W,14,11,9,3,4,2,Mauricio Pochettino,1.6,0.2,2.4,0.8,7.6,4.0
+1516,2015-11-02,Aston Villa,H,3,1,W,2,0,W,17,13,6,2,2,2,Mauricio Pochettino,1.8,0.6,2.8,1.0,7.6,3.6
+1516,2015-11-08,Arsenal,A,1,1,D,1,0,W,14,10,4,4,0,1,Mauricio Pochettino,1.2,0.8,2.2,1.0,6.8,2.8
+1516,2015-11-22,West Ham,H,4,1,W,2,0,W,22,10,12,4,3,2,Mauricio Pochettino,1.8,1.4,2.6,0.8,7.0,3.2
+1516,2015-11-29,Chelsea,H,0,0,D,0,0,D,9,5,4,1,0,0,Mauricio Pochettino,1.8,1.4,2.6,0.8,7.0,2.8
+1516,2015-12-05,West Brom,A,1,1,D,1,1,D,9,11,3,4,0,0,Mauricio Pochettino,1.0,1.0,1.8,0.8,5.8,3.0
+1516,2015-12-13,Newcastle,H,1,2,L,1,0,W,20,8,8,4,-1,1,Mauricio Pochettino,0.4,0.8,1.4,1.0,6.2,3.4
+1516,2015-12-19,Southampton,A,2,0,W,2,0,W,13,11,6,4,2,2,Mauricio Pochettino,0.8,1.0,1.6,0.8,6.6,3.4
+1516,2015-12-26,Norwich,H,3,0,W,2,0,W,15,11,10,3,3,2,Mauricio Pochettino,0.8,1.0,1.4,0.6,6.2,3.2
+1516,2015-12-28,Watford,A,2,1,W,1,1,D,10,9,3,1,1,0,Mauricio Pochettino,1.0,1.0,1.8,0.8,6.0,3.2
+1516,2016-01-03,Everton,A,1,1,D,1,1,D,19,12,4,3,0,0,Mauricio Pochettino,1.0,1.0,1.8,0.8,6.2,3.0
+1516,2016-01-13,Leicester,H,0,1,L,0,0,D,21,10,5,2,-1,0,Mauricio Pochettino,1.0,0.8,1.6,0.6,5.6,2.6
+1516,2016-01-16,Sunderland,H,4,1,W,1,1,D,26,5,11,2,3,0,Mauricio Pochettino,1.2,0.4,2.0,0.8,6.6,2.2
+1516,2016-01-23,Crystal Palace,A,3,1,W,0,1,L,24,11,11,3,2,-1,Mauricio Pochettino,1.0,-0.2,2.0,1.0,6.8,2.2
+1516,2016-02-02,Norwich,A,3,0,W,2,0,W,17,10,6,2,3,2,Mauricio Pochettino,1.4,0.2,2.2,0.8,7.4,2.4
+1516,2016-02-06,Watford,H,1,0,W,0,0,D,26,3,9,0,1,0,Mauricio Pochettino,1.6,0.2,2.2,0.6,8.4,1.8
+1516,2016-02-14,Man City,A,2,1,W,0,0,D,6,19,3,4,1,0,Mauricio Pochettino,2.0,0.2,2.6,0.6,8.0,2.2
+1516,2016-02-28,Swansea,H,2,1,W,0,1,L,34,10,14,4,1,-1,Mauricio Pochettino,1.6,0.0,2.2,0.6,8.6,2.6
+1516,2016-03-02,West Ham,A,0,1,L,0,1,L,9,14,2,3,-1,-1,Mauricio Pochettino,1.0,0.0,1.6,0.6,6.8,2.6
+1516,2016-03-05,Arsenal,H,2,2,D,0,1,L,26,10,11,4,0,-1,Mauricio Pochettino,0.4,-0.6,1.4,1.0,7.8,3.0
+1516,2016-03-13,Aston Villa,A,2,0,W,1,0,W,19,11,8,2,2,1,Mauricio Pochettino,0.6,-0.4,1.6,1.0,7.6,3.4
+1516,2016-03-20,Bournemouth,H,3,0,W,2,0,W,17,2,8,0,3,2,Mauricio Pochettino,1.0,0.0,1.8,0.8,8.6,2.6
+1516,2016-04-02,Liverpool,A,1,1,D,0,0,D,18,15,5,7,0,0,Mauricio Pochettino,0.8,0.2,1.6,0.8,6.8,3.2
+1516,2016-04-10,Man United,H,3,0,W,0,0,D,16,5,8,1,3,0,Mauricio Pochettino,1.6,0.4,2.2,0.6,8.0,2.8
+1516,2016-04-18,Stoke,A,4,0,W,1,0,W,23,12,6,2,4,1,Mauricio Pochettino,2.4,0.8,2.6,0.2,7.0,2.4
+1516,2016-04-25,West Brom,H,1,1,D,1,0,W,19,16,2,3,0,1,Mauricio Pochettino,2.0,0.8,2.4,0.4,5.8,2.6
+1516,2016-05-02,Chelsea,A,2,2,D,2,0,W,16,13,5,5,0,2,Mauricio Pochettino,1.4,0.8,2.2,0.8,5.2,3.6
+1516,2016-05-08,Southampton,H,1,2,L,1,1,D,20,10,6,2,-1,0,Mauricio Pochettino,1.2,0.8,2.2,1.0,5.4,2.6
+1516,2016-05-15,Newcastle,A,1,5,L,0,2,L,17,19,5,10,-4,-2,Mauricio Pochettino,-0.2,0.4,1.8,2.0,4.8,4.4
+1617,2016-08-13,Everton,A,1,1,D,0,1,L,13,12,4,6,0,-1,Mauricio Pochettino,-1.0,0.0,1.2,2.2,4.4,5.2
+1617,2016-08-20,Crystal Palace,H,1,0,W,0,0,D,20,10,5,2,1,0,Mauricio Pochettino,-0.8,-0.2,1.2,2.0,5.0,5.0
+1617,2016-08-27,Liverpool,H,1,1,D,0,1,L,11,13,4,3,0,-1,Mauricio Pochettino,-0.8,-0.8,1.0,1.8,4.8,4.6
+1617,2016-09-10,Stoke,A,4,0,W,1,0,W,20,15,8,2,4,1,Mauricio Pochettino,0.2,-0.6,1.6,1.4,5.2,4.6
+1617,2016-09-18,Sunderland,H,1,0,W,0,0,D,31,6,9,2,1,0,Mauricio Pochettino,1.2,-0.2,1.6,0.4,6.0,3.0
+1617,2016-09-24,Middlesbrough,A,2,1,W,2,0,W,19,6,5,2,1,2,Mauricio Pochettino,1.4,0.4,1.8,0.4,6.2,2.2
+1617,2016-10-02,Man City,H,2,0,W,2,0,W,13,12,7,6,2,2,Mauricio Pochettino,1.6,0.8,2.0,0.4,6.6,3.0
+1617,2016-10-15,West Brom,A,1,1,D,0,0,D,20,8,8,4,0,0,Mauricio Pochettino,1.6,1.0,2.0,0.4,7.4,3.2
+1617,2016-10-22,Bournemouth,A,0,0,D,0,0,D,16,8,4,1,0,0,Mauricio Pochettino,0.8,0.8,1.2,0.4,6.6,3.0
+1617,2016-10-29,Leicester,H,1,1,D,1,0,W,22,6,5,1,0,1,Mauricio Pochettino,0.6,1.0,1.2,0.6,5.8,2.8
+1617,2016-11-06,Arsenal,A,1,1,D,0,1,L,10,15,3,2,0,-1,Mauricio Pochettino,0.4,0.4,1.0,0.6,5.4,2.8
+1617,2016-11-19,West Ham,H,3,2,W,0,1,L,14,11,6,3,1,-1,Mauricio Pochettino,0.2,-0.2,1.2,1.0,5.2,2.2
+1617,2016-11-26,Chelsea,A,1,2,L,1,1,D,12,9,6,5,-1,0,Mauricio Pochettino,0.0,-0.2,1.2,1.2,4.8,2.4
+1617,2016-12-03,Swansea,H,5,0,W,2,0,W,28,1,15,0,5,2,Mauricio Pochettino,1.0,0.2,2.2,1.2,7.0,2.2
+1617,2016-12-11,Man United,A,0,1,L,0,1,L,12,15,4,5,-1,-1,Mauricio Pochettino,0.8,-0.2,2.0,1.2,6.8,3.0
+1617,2016-12-14,Hull,H,3,0,W,1,0,W,27,10,9,5,3,1,Mauricio Pochettino,1.4,0.2,2.4,1.0,8.0,3.6
+1617,2016-12-18,Burnley,H,2,1,W,1,1,D,30,5,9,2,1,0,Mauricio Pochettino,1.4,0.4,2.2,0.8,8.6,3.4
+1617,2016-12-28,Southampton,A,4,1,W,1,1,D,17,9,5,2,3,0,Mauricio Pochettino,2.2,0.4,2.8,0.6,8.4,2.8
+1617,2017-01-01,Watford,A,4,1,W,3,0,W,19,6,6,2,3,3,Mauricio Pochettino,1.8,0.6,2.6,0.8,6.6,3.2
+1617,2017-01-04,Chelsea,H,2,0,W,1,0,W,9,11,2,2,2,1,Mauricio Pochettino,2.4,1.0,3.0,0.6,6.2,2.6
+1617,2017-01-14,West Brom,H,4,0,W,2,0,W,21,3,11,0,4,2,Mauricio Pochettino,2.6,1.2,3.2,0.6,6.6,1.6
+1617,2017-01-21,Man City,A,2,2,D,0,0,D,6,17,2,7,0,0,Mauricio Pochettino,2.4,1.2,3.2,0.8,5.2,2.6
+1617,2017-01-31,Sunderland,A,0,0,D,0,0,D,14,3,3,1,0,0,Mauricio Pochettino,1.8,1.2,2.4,0.6,4.8,2.4
+1617,2017-02-04,Middlesbrough,H,1,0,W,0,0,D,17,8,5,0,1,0,Mauricio Pochettino,1.4,0.6,1.8,0.4,4.6,2.0
+1617,2017-02-11,Liverpool,A,0,2,L,0,2,L,7,17,2,9,-2,-2,Mauricio Pochettino,0.6,0.0,1.4,0.8,4.6,3.4
+1617,2017-02-26,Stoke,H,4,0,W,4,0,W,21,5,9,3,4,4,Mauricio Pochettino,0.6,0.4,1.4,0.8,4.2,4.0
+1617,2017-03-05,Everton,H,3,2,W,1,0,W,20,8,7,4,1,1,Mauricio Pochettino,0.8,0.6,1.6,0.8,5.2,3.4
+1617,2017-03-19,Southampton,H,2,1,W,2,0,W,12,8,6,3,1,2,Mauricio Pochettino,1.0,1.0,2.0,1.0,5.8,3.8
+1617,2017-04-01,Burnley,A,2,0,W,0,0,D,19,13,7,2,2,0,Mauricio Pochettino,1.2,1.0,2.2,1.0,6.2,4.2
+1617,2017-04-05,Swansea,A,3,1,W,0,1,L,18,4,8,1,2,-1,Mauricio Pochettino,2.0,1.2,2.8,0.8,7.4,2.6
+1617,2017-04-08,Watford,H,4,0,W,3,0,W,19,8,6,2,4,3,Mauricio Pochettino,2.0,1.0,2.8,0.8,6.8,2.4
+1617,2017-04-15,Bournemouth,H,4,0,W,2,0,W,24,5,14,1,4,2,Mauricio Pochettino,2.6,1.2,3.0,0.4,8.2,1.8
+1617,2017-04-26,Crystal Palace,A,1,0,W,0,0,D,18,6,4,1,1,0,Mauricio Pochettino,2.6,0.8,2.8,0.2,7.8,1.4
+1617,2017-04-30,Arsenal,H,2,0,W,0,0,D,20,12,11,4,2,0,Mauricio Pochettino,2.6,0.8,2.8,0.2,8.6,1.8
+1617,2017-05-05,West Ham,A,0,1,L,0,0,D,11,13,5,5,-1,0,Mauricio Pochettino,2.0,1.0,2.2,0.2,8.0,2.6
+1617,2017-05-14,Man United,H,2,1,W,1,0,W,14,8,7,2,1,1,Mauricio Pochettino,1.4,0.6,1.8,0.4,8.2,2.6
+1617,2017-05-18,Leicester,A,6,1,W,2,0,W,26,12,12,5,5,2,Mauricio Pochettino,1.6,0.6,2.2,0.6,7.8,3.4
+1617,2017-05-21,Hull,A,7,1,W,3,0,W,19,10,14,4,6,3,Mauricio Pochettino,2.6,1.2,3.4,0.8,9.8,4.0
+1718,2017-08-13,Newcastle,A,2,0,W,0,0,D,18,6,6,3,2,0,Mauricio Pochettino,2.6,1.2,3.4,0.8,8.8,3.8
+1718,2017-08-20,Chelsea,H,1,2,L,0,1,L,18,9,6,2,-1,-1,Mauricio Pochettino,2.6,1.0,3.6,1.0,9.0,3.2
+1718,2017-08-27,Burnley,H,1,1,D,0,0,D,28,13,5,3,0,0,Mauricio Pochettino,2.4,0.8,3.4,1.0,8.6,3.4
+1718,2017-09-09,Everton,A,3,0,W,2,0,W,15,12,6,1,3,2,Mauricio Pochettino,2.0,0.8,2.8,0.8,7.4,2.6
+1718,2017-09-16,Swansea,H,0,0,D,0,0,D,26,4,8,0,0,0,Mauricio Pochettino,0.8,0.2,1.4,0.6,6.2,1.8
+1718,2017-09-23,West Ham,A,3,2,W,2,0,W,15,10,5,4,1,2,Mauricio Pochettino,0.6,0.6,1.6,1.0,6.0,2.0
+1718,2017-09-30,Huddersfield,A,4,0,W,3,0,W,14,6,7,1,4,3,Mauricio Pochettino,1.6,1.4,2.2,0.6,6.2,1.8
+1718,2017-10-14,Bournemouth,H,1,0,W,0,0,D,18,5,6,1,1,0,Mauricio Pochettino,1.8,1.4,2.2,0.4,6.4,1.4
+1718,2017-10-22,Liverpool,H,4,1,W,3,1,W,14,12,6,7,3,2,Mauricio Pochettino,1.8,1.4,2.4,0.6,6.4,2.6
+1718,2017-10-28,Man United,A,0,1,L,0,0,D,13,11,4,3,-1,0,Mauricio Pochettino,1.6,1.4,2.4,0.8,5.6,3.2
+1718,2017-11-05,Crystal Palace,H,1,0,W,0,0,D,12,11,2,3,1,0,Mauricio Pochettino,1.6,1.0,2.0,0.4,5.0,3.0
+1718,2017-11-18,Arsenal,A,0,2,L,0,2,L,14,14,4,5,-2,-2,Mauricio Pochettino,0.4,0.0,1.2,0.8,4.4,3.8
+1718,2017-11-25,West Brom,H,1,1,D,0,1,L,24,5,5,2,0,-1,Mauricio Pochettino,0.2,-0.2,1.2,1.0,4.2,4.0
+1718,2017-11-28,Leicester,A,1,2,L,0,2,L,18,7,6,4,-1,-2,Mauricio Pochettino,-0.6,-1.0,0.6,1.2,4.2,3.4
+1718,2017-12-02,Watford,A,1,1,D,1,1,D,8,6,2,2,0,0,Mauricio Pochettino,-0.4,-1.0,0.8,1.2,3.8,3.2
+1718,2017-12-09,Stoke,H,5,1,W,1,0,W,20,4,11,3,4,1,Mauricio Pochettino,0.2,-0.8,1.6,1.4,5.6,3.2
+1718,2017-12-13,Brighton,H,2,0,W,1,0,W,25,7,8,4,2,1,Mauricio Pochettino,1.0,-0.2,2.0,1.0,6.4,3.0
+1718,2017-12-16,Man City,A,1,4,L,0,1,L,7,20,2,11,-3,-1,Mauricio Pochettino,0.4,-0.2,2.0,1.6,5.8,4.8
+1718,2017-12-23,Burnley,A,3,0,W,1,0,W,18,5,8,2,3,1,Mauricio Pochettino,1.2,0.4,2.4,1.2,6.2,4.4
+1718,2017-12-26,Southampton,H,5,2,W,2,0,W,16,16,7,6,3,2,Mauricio Pochettino,1.8,0.8,3.2,1.4,7.2,5.2
+1718,2018-01-02,Swansea,A,2,0,W,1,0,W,12,8,5,1,2,1,Mauricio Pochettino,1.4,0.8,2.6,1.2,6.0,4.8
+1718,2018-01-04,West Ham,H,1,1,D,0,0,D,31,3,8,1,0,0,Mauricio Pochettino,1.0,0.6,2.4,1.4,6.0,4.2
+1718,2018-01-13,Everton,H,4,0,W,1,0,W,20,7,10,0,4,1,Mauricio Pochettino,2.4,1.0,3.0,0.6,7.6,2.0
+1718,2018-01-21,Southampton,A,1,1,D,1,1,D,17,10,2,4,0,0,Mauricio Pochettino,1.8,0.8,2.6,0.8,6.4,2.4
+1718,2018-01-31,Man United,H,2,0,W,2,0,W,22,6,6,3,2,2,Mauricio Pochettino,1.6,0.8,2.0,0.4,6.2,1.8
+1718,2018-02-04,Liverpool,A,2,2,D,0,1,L,13,9,6,3,0,-1,Mauricio Pochettino,1.2,0.4,2.0,0.8,6.4,2.2
+1718,2018-02-10,Arsenal,H,1,0,W,0,0,D,18,6,6,1,1,0,Mauricio Pochettino,1.4,0.4,2.0,0.6,6.0,2.2
+1718,2018-02-25,Crystal Palace,A,1,0,W,0,0,D,14,5,4,3,1,0,Mauricio Pochettino,0.8,0.2,1.4,0.6,4.8,2.8
+1718,2018-03-03,Huddersfield,H,2,0,W,1,0,W,15,3,7,3,2,1,Mauricio Pochettino,1.2,0.4,1.6,0.4,5.8,2.6
+1718,2018-03-11,Bournemouth,A,4,1,W,1,1,D,12,14,8,3,3,0,Mauricio Pochettino,1.4,0.0,2.0,0.6,6.2,2.6
+1718,2018-04-01,Chelsea,A,3,1,W,1,1,D,12,14,7,4,2,0,Mauricio Pochettino,1.8,0.2,2.2,0.4,6.4,2.8
+1718,2018-04-07,Stoke,A,2,1,W,0,0,D,15,10,4,4,1,0,Mauricio Pochettino,1.8,0.2,2.4,0.6,6.0,3.4
+1718,2018-04-14,Man City,H,1,3,L,1,2,L,8,17,3,6,-2,-1,Mauricio Pochettino,1.2,0.0,2.4,1.2,5.8,4.0
+1718,2018-04-17,Brighton,A,1,1,D,0,0,D,16,8,6,5,0,0,Mauricio Pochettino,0.8,-0.2,2.2,1.4,5.6,4.4
+1718,2018-04-30,Watford,H,2,0,W,1,0,W,13,13,3,5,2,1,Mauricio Pochettino,0.6,0.0,1.8,1.2,4.6,4.8
+1718,2018-05-05,West Brom,A,0,1,L,0,0,D,18,9,5,1,-1,0,Mauricio Pochettino,0.0,0.0,1.2,1.2,4.2,4.2
+1718,2018-05-09,Newcastle,H,1,0,W,0,0,D,11,14,7,3,1,0,Mauricio Pochettino,0.0,0.0,1.0,1.0,4.8,4.0
+1718,2018-05-13,Leicester,H,5,4,W,1,2,L,14,16,6,9,1,-1,Mauricio Pochettino,0.6,0.0,1.8,1.2,5.4,4.6
+1819,2018-08-11,Newcastle,A,2,1,W,2,1,W,15,15,5,2,1,1,Mauricio Pochettino,0.8,0.2,2.0,1.2,5.2,4.0
+1819,2018-08-18,Fulham,H,3,1,W,1,0,W,25,10,11,3,2,1,Mauricio Pochettino,0.8,0.2,2.2,1.4,6.8,3.6
+1819,2018-08-27,Man United,A,3,0,W,0,0,D,9,23,5,5,3,0,Mauricio Pochettino,1.6,0.2,2.8,1.2,6.8,4.4
+1819,2018-09-02,Watford,A,1,2,L,0,0,D,11,7,2,3,-1,0,Mauricio Pochettino,1.2,0.2,2.8,1.6,5.8,4.4
+1819,2018-09-15,Liverpool,H,1,2,L,0,1,L,11,17,3,10,-1,-1,Mauricio Pochettino,0.8,0.2,2.0,1.2,5.2,4.6
+1819,2018-09-22,Brighton,A,2,1,W,1,0,W,16,8,7,4,1,1,Mauricio Pochettino,0.8,0.2,2.0,1.2,5.6,5.0
+1819,2018-09-29,Huddersfield,A,2,0,W,2,0,W,10,9,6,5,2,2,Mauricio Pochettino,0.8,0.4,1.8,1.0,4.6,5.4
+1819,2018-10-06,Cardiff,H,1,0,W,1,0,W,19,8,7,6,1,1,Mauricio Pochettino,0.4,0.6,1.4,1.0,5.0,5.6
+1819,2018-10-20,West Ham,A,1,0,W,1,0,W,10,13,2,4,1,1,Mauricio Pochettino,0.8,0.8,1.4,0.6,5.0,5.8
+1819,2018-10-29,Man City,H,0,1,L,0,1,L,4,13,1,6,-1,-1,Mauricio Pochettino,0.8,0.8,1.2,0.4,4.6,5.0
+1819,2018-11-03,Wolves,A,3,2,W,2,0,W,10,16,8,7,1,2,Mauricio Pochettino,0.8,1.0,1.4,0.6,4.8,5.6
+1819,2018-11-10,Crystal Palace,A,1,0,W,0,0,D,11,11,2,4,1,0,Mauricio Pochettino,0.6,0.6,1.2,0.6,4.0,5.4
+1819,2018-11-24,Chelsea,H,3,1,W,2,0,W,18,13,9,2,2,2,Mauricio Pochettino,0.8,0.8,1.6,0.8,4.4,4.6
+1819,2018-12-02,Arsenal,A,2,4,L,2,1,W,11,22,6,7,-2,1,Mauricio Pochettino,0.2,0.8,1.8,1.6,5.2,5.2
+1819,2018-12-05,Southampton,H,3,1,W,1,0,W,13,18,8,5,2,1,Mauricio Pochettino,0.8,1.2,2.4,1.6,6.6,5.0
+1819,2018-12-08,Leicester,A,2,0,W,1,0,W,7,11,2,3,2,1,Mauricio Pochettino,1.0,1.0,2.2,1.2,5.4,4.2
+1819,2018-12-15,Burnley,H,1,0,W,0,0,D,15,4,3,0,1,0,Mauricio Pochettino,1.0,1.0,2.2,1.2,5.6,3.4
+1819,2018-12-23,Everton,A,6,2,W,3,1,W,17,10,8,3,4,2,Mauricio Pochettino,1.4,1.0,2.8,1.4,5.4,3.6
+1819,2018-12-26,Bournemouth,H,5,0,W,3,0,W,10,14,7,4,5,3,Mauricio Pochettino,2.8,1.4,3.4,0.6,5.6,3.0
+1819,2018-12-29,Wolves,H,1,3,L,1,0,W,10,11,3,4,-2,1,Mauricio Pochettino,2.0,1.4,3.0,1.0,4.6,2.8
+1819,2019-01-01,Cardiff,A,3,0,W,3,0,W,13,6,4,3,3,3,Mauricio Pochettino,2.2,1.8,3.2,1.0,5.0,2.8
+1819,2019-01-13,Man United,H,0,1,L,0,1,L,21,13,11,8,-1,-1,Mauricio Pochettino,1.8,1.6,3.0,1.2,6.6,4.4
+1819,2019-01-20,Fulham,A,2,1,W,0,1,L,14,12,5,4,1,-1,Mauricio Pochettino,1.2,1.0,2.2,1.0,6.0,4.6
+1819,2019-01-30,Watford,H,2,1,W,0,1,L,17,9,3,1,1,-1,Mauricio Pochettino,0.4,0.2,1.6,1.2,5.2,4.0
+1819,2019-02-02,Newcastle,H,1,0,W,0,0,D,21,8,4,2,1,0,Mauricio Pochettino,1.0,0.0,1.6,0.6,5.4,3.6
+1819,2019-02-10,Leicester,H,3,1,W,1,0,W,12,20,5,9,2,1,Mauricio Pochettino,0.8,-0.4,1.6,0.8,5.6,4.8
+1819,2019-02-23,Burnley,A,1,2,L,0,0,D,17,10,6,4,-1,0,Mauricio Pochettino,0.8,-0.2,1.8,1.0,4.6,4.0
+1819,2019-02-27,Chelsea,A,0,2,L,0,0,D,9,11,0,1,-2,0,Mauricio Pochettino,0.2,0.0,1.4,1.2,3.6,3.4
+1819,2019-03-02,Arsenal,H,1,1,D,0,1,L,10,9,3,4,0,-1,Mauricio Pochettino,0.0,0.0,1.2,1.2,3.6,4.0
+1819,2019-03-09,Southampton,A,1,2,L,1,0,W,16,12,5,4,-1,1,Mauricio Pochettino,-0.4,0.2,1.2,1.6,3.8,4.4
+1819,2019-03-31,Liverpool,A,1,2,L,0,1,L,11,14,2,3,-1,-1,Mauricio Pochettino,-1.0,-0.2,0.8,1.8,3.2,3.2
+1819,2019-04-03,Crystal Palace,H,2,0,W,0,0,D,26,5,10,1,2,0,Mauricio Pochettino,-0.4,-0.2,1.0,1.4,4.0,2.6
+1819,2019-04-13,Huddersfield,H,4,0,W,2,0,W,22,7,5,1,4,2,Mauricio Pochettino,0.8,0.2,1.8,1.0,5.0,2.6
+1819,2019-04-20,Man City,A,0,1,L,0,1,L,10,15,4,4,-1,-1,Mauricio Pochettino,0.6,0.2,1.6,1.0,5.2,2.6
+1819,2019-04-23,Brighton,H,1,0,W,0,0,D,29,6,5,1,1,0,Mauricio Pochettino,1.0,0.0,1.6,0.6,5.2,2.0
+1819,2019-04-27,West Ham,H,0,1,L,0,0,D,14,16,4,7,-1,0,Mauricio Pochettino,1.0,0.2,1.4,0.4,5.6,2.8
+1819,2019-05-04,Bournemouth,A,0,1,L,0,0,D,11,20,5,6,-1,0,Mauricio Pochettino,0.4,0.2,1.0,0.6,4.6,3.8
+1819,2019-05-12,Everton,H,2,2,D,1,0,W,11,17,3,9,0,1,Mauricio Pochettino,-0.4,0.0,0.6,1.0,4.2,5.4
+1920,2019-08-10,Aston Villa,H,3,1,W,0,1,L,31,7,7,4,2,-1,Mauricio Pochettino,0.2,0.0,1.2,1.0,4.8,5.4
+1920,2019-08-17,Man City,A,2,2,D,1,2,L,3,30,2,10,0,-1,Mauricio Pochettino,0.0,-0.2,1.4,1.4,4.2,7.2
+1920,2019-08-25,Newcastle,H,0,1,L,0,1,L,17,8,2,3,-1,-1,Mauricio Pochettino,0.0,-0.4,1.4,1.4,3.8,6.4
+1920,2019-09-01,Arsenal,A,2,2,D,2,1,W,13,26,9,8,0,1,Mauricio Pochettino,0.2,-0.2,1.8,1.6,4.6,6.8
+1920,2019-09-14,Crystal Palace,H,4,0,W,4,0,W,13,11,5,6,4,4,Mauricio Pochettino,1.0,0.4,2.2,1.2,5.0,6.2
+1920,2019-09-21,Leicester,A,1,2,L,1,0,W,11,16,4,7,-1,1,Mauricio Pochettino,0.4,0.8,1.8,1.4,4.4,6.8
+1920,2019-09-28,Southampton,H,2,1,W,2,1,W,9,14,4,6,1,1,Mauricio Pochettino,0.6,1.2,1.8,1.2,4.8,6.0
+1920,2019-10-05,Brighton,A,0,3,L,0,2,L,8,17,3,6,-3,-2,Mauricio Pochettino,0.2,1.0,1.8,1.6,5.0,6.6
+1920,2019-10-19,Watford,H,1,1,D,0,1,L,12,7,2,2,0,-1,Mauricio Pochettino,0.2,0.6,1.6,1.4,3.6,5.4
+1920,2019-10-27,Liverpool,A,1,2,L,1,0,W,11,21,4,13,-1,1,Mauricio Pochettino,-0.8,0.0,1.0,1.8,3.4,6.8
+1920,2019-11-03,Everton,A,1,1,D,0,0,D,4,7,2,3,0,0,Mauricio Pochettino,-0.6,-0.2,1.0,1.6,3.0,6.0
+1920,2019-11-09,Sheffield United,H,1,1,D,0,0,D,17,14,5,4,0,0,Mauricio Pochettino,-0.8,-0.4,0.8,1.6,3.2,5.6
+1920,2019-11-23,West Ham,A,3,2,W,2,0,W,15,11,6,4,1,2,José Mourinho,0.0,0.4,1.4,1.4,3.8,5.2
+1920,2019-11-30,Bournemouth,H,3,2,W,1,0,W,15,20,5,6,1,1,José Mourinho,0.2,0.8,1.8,1.6,4.4,6.0
+1920,2019-12-04,Man United,A,1,2,L,1,1,D,8,12,5,7,-1,0,José Mourinho,0.2,0.6,1.8,1.6,4.6,4.8
+1920,2019-12-07,Burnley,H,5,0,W,3,0,W,13,7,7,1,5,3,José Mourinho,1.2,1.2,2.6,1.4,5.6,4.4
+1920,2019-12-15,Wolves,A,2,1,W,1,0,W,9,18,5,5,1,1,José Mourinho,1.4,1.4,2.8,1.4,5.6,4.6
+1920,2019-12-22,Chelsea,H,0,2,L,0,2,L,5,13,1,3,-2,-2,José Mourinho,0.8,0.6,2.2,1.4,4.6,4.4
+1920,2019-12-26,Brighton,H,2,1,W,0,1,L,11,11,5,5,1,-1,José Mourinho,0.8,0.2,2.0,1.2,4.6,4.2
+1920,2019-12-28,Norwich,A,2,2,D,0,1,L,15,5,7,2,0,-1,José Mourinho,1.0,0.0,2.2,1.2,5.0,3.2
+1920,2020-01-01,Southampton,A,0,1,L,0,1,L,11,12,5,3,-1,-1,José Mourinho,-0.2,-0.8,1.2,1.4,4.6,3.6
+1920,2020-01-11,Liverpool,H,0,1,L,0,1,L,14,13,4,7,-1,-1,José Mourinho,-0.6,-1.2,0.8,1.4,4.4,4.0
+1920,2020-01-18,Watford,A,0,0,D,0,0,D,17,15,5,2,0,0,José Mourinho,-0.2,-0.8,0.8,1.0,5.2,3.8
+1920,2020-01-22,Norwich,H,2,1,W,1,0,W,14,12,3,2,1,1,José Mourinho,-0.2,-0.4,0.8,1.0,4.8,3.2
+1920,2020-02-02,Man City,H,2,0,W,0,0,D,3,18,3,5,2,0,José Mourinho,0.2,-0.2,0.8,0.6,4.0,3.8
+1920,2020-02-16,Aston Villa,A,3,2,W,2,1,W,23,18,10,4,1,1,José Mourinho,0.6,0.2,1.4,0.8,5.0,4.0
+1920,2020-02-22,Chelsea,A,1,2,L,0,1,L,5,17,3,7,-1,-1,José Mourinho,0.6,0.2,1.6,1.0,4.8,4.0
+1920,2020-03-01,Wolves,H,2,3,L,2,1,W,13,14,5,4,-1,1,José Mourinho,0.4,0.4,2.0,1.6,4.8,4.4
+1920,2020-03-07,Burnley,A,1,1,D,0,1,L,13,21,2,8,0,-1,José Mourinho,0.2,0.0,1.8,1.6,4.6,5.6
+1920,2020-06-19,Man United,H,1,1,D,1,0,W,10,12,3,6,0,1,José Mourinho,-0.2,0.2,1.6,1.8,4.6,5.8
+1920,2020-06-23,West Ham,H,2,0,W,0,0,D,15,10,4,2,2,0,José Mourinho,0.0,0.0,1.4,1.4,3.4,5.4
+1920,2020-07-02,Sheffield United,A,1,3,L,0,1,L,9,7,2,5,-2,-1,José Mourinho,-0.2,0.0,1.4,1.6,3.2,5.0
+1920,2020-07-06,Everton,H,1,0,W,1,0,W,12,11,2,3,1,1,José Mourinho,0.2,0.0,1.2,1.0,2.6,4.8
+1920,2020-07-09,Bournemouth,A,0,0,D,0,0,D,9,9,0,2,0,0,José Mourinho,0.2,0.2,1.0,0.8,2.2,3.6
+1920,2020-07-12,Arsenal,H,2,1,W,1,1,D,15,13,9,4,1,0,José Mourinho,0.4,0.0,1.2,0.8,3.4,3.2
+1920,2020-07-15,Newcastle,A,3,1,W,1,0,W,8,22,5,6,2,1,José Mourinho,0.4,0.2,1.4,1.0,3.6,4.0
+1920,2020-07-19,Leicester,H,3,0,W,3,0,W,7,24,3,6,3,3,José Mourinho,1.4,1.0,1.8,0.4,3.8,4.2
+1920,2020-07-26,Crystal Palace,A,1,1,D,1,0,W,7,13,2,2,0,1,José Mourinho,1.2,1.0,1.8,0.6,3.8,4.0
+2021,2020-09-13,Everton,H,0,1,L,0,0,D,9,15,5,4,-1,0,José Mourinho,1.0,1.0,1.8,0.8,4.8,4.4
+2021,2020-09-20,Southampton,A,5,2,W,1,1,D,9,14,6,7,3,0,José Mourinho,1.4,1.0,2.4,1.0,4.2,5.0
+2021,2020-09-27,Newcastle,H,1,1,D,1,0,W,23,6,12,1,0,1,José Mourinho,1.0,1.0,2.0,1.0,5.6,4.0
+2021,2020-10-04,Man United,A,6,1,W,4,1,W,22,5,8,2,5,3,José Mourinho,1.4,1.0,2.6,1.2,6.6,3.2
+2021,2020-10-18,West Ham,H,3,3,D,3,0,W,11,13,6,4,0,3,José Mourinho,1.4,1.4,3.0,1.6,7.4,3.6
+2021,2020-10-26,Burnley,A,1,0,W,0,0,D,9,13,3,4,1,0,José Mourinho,1.8,1.4,3.2,1.4,7.0,3.6
+2021,2020-11-01,Brighton,H,2,1,W,1,0,W,9,6,3,2,1,1,José Mourinho,1.4,1.6,2.6,1.2,6.4,2.6
+2021,2020-11-08,West Brom,A,1,0,W,0,0,D,19,12,5,2,1,0,José Mourinho,1.6,1.4,2.6,1.0,5.0,2.8
+2021,2020-11-21,Man City,H,2,0,W,1,0,W,4,22,2,5,2,1,José Mourinho,1.0,1.0,1.8,0.8,3.8,3.4
+2021,2020-11-29,Chelsea,A,0,0,D,0,0,D,5,13,1,3,0,0,José Mourinho,1.0,0.4,1.2,0.2,2.8,3.2
+2021,2020-12-06,Arsenal,H,2,0,W,2,0,W,6,11,3,2,2,2,José Mourinho,1.2,0.8,1.4,0.2,2.8,2.8
+2021,2020-12-13,Crystal Palace,A,1,1,D,1,0,W,14,16,6,5,0,1,José Mourinho,1.0,0.8,1.2,0.2,3.4,3.4
+2021,2020-12-16,Liverpool,A,1,2,L,1,1,D,8,17,2,11,-1,0,José Mourinho,0.6,0.8,1.2,0.6,2.8,5.2
+2021,2020-12-20,Leicester,H,0,2,L,0,1,L,8,17,3,4,-2,-1,José Mourinho,-0.2,0.4,0.8,1.0,3.0,5.0
+2021,2020-12-27,Wolves,A,1,1,D,1,0,W,6,11,3,6,0,1,José Mourinho,-0.2,0.6,1.0,1.2,3.4,5.6
+2021,2021-01-02,Leeds,H,3,0,W,2,0,W,20,18,7,5,3,2,José Mourinho,0.0,0.6,1.2,1.2,4.2,6.2
+2021,2021-01-13,Fulham,H,1,1,D,1,0,W,15,15,6,4,0,1,José Mourinho,0.0,0.6,1.2,1.2,4.2,6.0
+2021,2021-01-17,Sheffield United,A,3,1,W,2,0,W,14,15,5,5,2,2,José Mourinho,0.6,1.0,1.6,1.0,4.8,4.8
+2021,2021-01-28,Liverpool,H,1,3,L,0,1,L,3,14,2,7,-2,-1,José Mourinho,0.6,1.0,1.8,1.2,4.6,5.4
+2021,2021-01-31,Brighton,A,0,1,L,0,1,L,8,16,4,5,-1,-1,José Mourinho,0.4,0.6,1.6,1.2,4.8,5.2
+2021,2021-02-04,Chelsea,H,0,1,L,0,1,L,7,18,2,2,-1,-1,José Mourinho,-0.4,0.0,1.0,1.4,3.8,4.6
+2021,2021-02-07,West Brom,H,2,0,W,0,0,D,13,4,6,1,2,0,José Mourinho,0.0,-0.2,1.2,1.2,3.8,4.0
+2021,2021-02-13,Man City,A,0,3,L,0,1,L,7,15,3,6,-3,-1,José Mourinho,-1.0,-0.8,0.6,1.6,3.4,4.2
+2021,2021-02-21,West Ham,A,1,2,L,0,1,L,20,4,4,4,-1,-1,José Mourinho,-0.8,-0.8,0.6,1.4,3.8,3.6
+2021,2021-02-28,Burnley,H,4,0,W,3,0,W,16,10,7,3,4,3,José Mourinho,0.2,0.0,1.4,1.2,4.4,3.2
+2021,2021-03-04,Fulham,A,1,0,W,1,0,W,9,11,2,3,1,1,José Mourinho,0.6,0.4,1.6,1.0,4.4,3.4
+2021,2021-03-07,Crystal Palace,H,4,1,W,1,1,D,12,5,5,1,3,0,José Mourinho,0.8,0.4,2.0,1.2,4.2,3.4
+2021,2021-03-14,Arsenal,A,1,2,L,1,1,D,6,13,3,3,-1,0,José Mourinho,1.2,0.6,2.2,1.0,4.2,2.8
+2021,2021-03-21,Aston Villa,A,2,0,W,1,0,W,9,8,3,1,2,1,José Mourinho,1.8,1.0,2.4,0.6,4.0,2.2
+2021,2021-04-04,Newcastle,A,2,2,D,2,1,W,11,22,5,6,0,1,José Mourinho,1.0,0.6,2.0,1.0,3.6,2.8
+2021,2021-04-11,Man United,H,1,3,L,1,0,W,12,12,3,7,-2,1,José Mourinho,0.4,0.6,2.0,1.6,3.8,3.6
+2021,2021-04-16,Everton,A,2,2,D,1,1,D,12,18,3,7,0,0,José Mourinho,-0.2,0.6,1.6,1.8,3.4,4.8
+2021,2021-04-21,Southampton,H,2,1,W,0,1,L,12,10,3,5,1,-1,Interim Manager,0.2,0.4,1.8,1.6,3.4,5.2
+2021,2021-05-02,Sheffield United,H,4,0,W,1,0,W,20,8,11,1,4,1,Interim Manager,0.6,0.4,2.2,1.6,5.0,5.2
+2021,2021-05-08,Leeds,A,1,3,L,1,2,L,11,16,3,7,-2,-1,Interim Manager,0.2,0.0,2.0,1.8,4.6,5.4
+2021,2021-05-16,Wolves,H,2,0,W,1,0,W,24,15,13,3,2,1,Interim Manager,1.0,0.0,2.2,1.2,6.6,4.6
+2021,2021-05-19,Aston Villa,H,1,2,L,1,2,L,10,20,4,4,-1,-1,Interim Manager,0.8,-0.2,2.0,1.2,6.8,4.0
+2021,2021-05-23,Leicester,A,4,2,W,1,1,D,11,10,4,6,2,0,Interim Manager,1.0,0.0,2.4,1.4,7.0,4.2
+2122,2021-08-15,Man City,H,1,0,W,0,0,D,13,18,3,4,1,0,Nuno Espírito Santo,0.4,-0.2,1.8,1.4,5.4,4.8
+2122,2021-08-22,Wolves,A,1,0,W,1,0,W,8,25,6,6,1,1,Nuno Espírito Santo,1.0,0.2,1.8,0.8,6.0,4.6
+2122,2021-08-29,Watford,H,1,0,W,1,0,W,15,9,8,2,1,1,Nuno Espírito Santo,0.8,0.2,1.6,0.8,5.0,4.4
+2122,2021-09-11,Crystal Palace,A,0,3,L,0,0,D,2,18,1,4,-3,0,Nuno Espírito Santo,0.4,0.4,1.4,1.0,4.4,4.4
+2122,2021-09-19,Chelsea,H,0,3,L,0,0,D,8,20,2,10,-3,0,Nuno Espírito Santo,-0.6,0.4,0.6,1.2,4.0,5.2
+2122,2021-09-26,Arsenal,A,1,3,L,0,3,L,10,12,4,7,-2,-3,Nuno Espírito Santo,-1.2,-0.2,0.6,1.8,4.2,5.8
+2122,2021-10-03,Aston Villa,H,2,1,W,1,0,W,17,14,8,3,1,1,Nuno Espírito Santo,-1.2,-0.2,0.8,2.0,4.6,5.2
+2122,2021-10-17,Newcastle,A,3,2,W,3,1,W,14,7,4,1,1,2,Nuno Espírito Santo,-1.2,0.0,1.2,2.4,3.8,5.0
+2122,2021-10-24,West Ham,A,0,1,L,0,0,D,7,13,4,4,-1,0,Nuno Espírito Santo,-0.8,0.0,1.2,2.0,4.4,5.0
+2122,2021-10-30,Man United,H,0,3,L,0,1,L,9,10,0,4,-3,-1,Nuno Espírito Santo,-0.8,-0.2,1.2,2.0,4.0,3.8
+2122,2021-11-07,Everton,A,0,0,D,0,0,D,8,12,0,2,0,0,Antonio Conte,-0.4,0.4,1.0,1.4,3.2,2.8
+2122,2021-11-21,Leeds,H,2,1,W,0,1,L,13,18,4,7,1,-1,Antonio Conte,-0.4,0.0,1.0,1.4,2.4,3.6
+2122,2021-12-02,Brentford,H,2,0,W,1,0,W,11,6,6,2,2,1,Antonio Conte,-0.2,-0.2,0.8,1.0,2.8,3.8
+2122,2021-12-05,Norwich,H,3,0,W,1,0,W,17,10,7,1,3,1,Antonio Conte,0.6,0.0,1.4,0.8,3.4,3.2
+2122,2021-12-19,Liverpool,H,2,2,D,1,1,D,10,18,5,6,0,0,Antonio Conte,1.2,0.2,1.8,0.6,4.4,3.6
+2122,2021-12-26,Crystal Palace,H,3,0,W,2,0,W,17,4,6,0,3,2,Antonio Conte,1.8,0.6,2.4,0.6,5.6,3.2
+2122,2021-12-28,Southampton,A,1,1,D,1,1,D,21,9,11,2,0,0,Antonio Conte,1.6,0.8,2.2,0.6,7.0,2.2
+2122,2022-01-01,Watford,A,1,0,W,0,0,D,21,6,9,4,1,0,Antonio Conte,1.4,0.6,2.0,0.6,7.6,2.6
+2122,2022-01-19,Leicester,A,3,2,W,1,1,D,27,14,10,4,1,0,Antonio Conte,1.0,0.4,2.0,1.0,8.2,3.2
+2122,2022-01-23,Chelsea,A,0,2,L,0,0,D,6,15,3,7,-2,0,Antonio Conte,0.6,0.4,1.6,1.0,7.8,3.4
+2122,2022-02-09,Southampton,H,2,3,L,1,1,D,8,23,3,10,-1,0,Antonio Conte,-0.2,0.0,1.4,1.6,7.2,5.4
+2122,2022-02-13,Wolves,H,0,2,L,0,2,L,17,11,7,7,-2,-2,Antonio Conte,-0.6,-0.4,1.2,1.8,6.4,6.4
+2122,2022-02-19,Man City,A,3,2,W,1,1,D,6,21,5,4,1,0,Antonio Conte,-0.6,-0.4,1.6,2.2,5.6,6.4
+2122,2022-02-23,Burnley,A,0,1,L,0,0,D,12,15,2,4,-1,0,Antonio Conte,-1.0,-0.4,1.0,2.0,4.0,6.4
+2122,2022-02-26,Leeds,A,4,0,W,3,0,W,15,19,11,3,4,3,Antonio Conte,0.2,0.2,1.8,1.6,5.6,5.6
+2122,2022-03-07,Everton,H,5,0,W,3,0,W,14,6,7,0,5,3,Antonio Conte,1.4,0.8,2.4,1.0,6.4,3.6
+2122,2022-03-12,Man United,A,2,3,L,1,2,L,10,10,3,6,-1,-1,Antonio Conte,1.6,1.0,2.8,1.2,5.6,3.4
+2122,2022-03-16,Brighton,A,2,0,W,1,0,W,17,15,7,0,2,1,Antonio Conte,1.8,1.2,2.6,0.8,6.0,2.6
+2122,2022-03-20,West Ham,H,3,1,W,2,1,W,17,6,4,1,2,1,Antonio Conte,2.4,1.4,3.2,0.8,6.4,2.0
+2122,2022-04-03,Newcastle,H,5,1,W,1,1,D,19,8,6,1,4,0,Antonio Conte,2.4,0.8,3.4,1.0,5.4,1.6
+2122,2022-04-09,Aston Villa,A,4,0,W,1,0,W,11,9,5,8,4,1,Antonio Conte,2.2,0.4,3.2,1.0,5.0,3.2
+2122,2022-04-16,Brighton,H,0,1,L,0,0,D,5,12,0,5,-1,0,Antonio Conte,2.2,0.6,2.8,0.6,4.4,3.0
+2122,2022-04-23,Brentford,A,0,0,D,0,0,D,9,15,0,2,0,0,Antonio Conte,1.8,0.4,2.4,0.6,3.0,3.4
+2122,2022-05-01,Leicester,H,3,1,W,1,0,W,13,6,7,2,2,1,Antonio Conte,1.8,0.4,2.4,0.6,3.6,3.6
+2122,2022-05-07,Liverpool,A,1,1,D,0,0,D,8,22,3,3,0,0,Antonio Conte,1.0,0.4,1.6,0.6,3.0,4.0
+2122,2022-05-12,Arsenal,H,3,0,W,2,0,W,16,8,6,4,3,2,Antonio Conte,0.8,0.6,1.4,0.6,3.2,3.2
+2122,2022-05-15,Burnley,H,1,0,W,1,0,W,21,8,8,1,1,1,Antonio Conte,1.2,0.8,1.6,0.4,4.8,2.4
+2122,2022-05-22,Norwich,A,5,0,W,2,0,W,19,9,13,0,5,2,Antonio Conte,2.2,1.2,2.6,0.4,7.4,2.0
+2223,2022-08-06,Southampton,H,4,1,W,2,1,W,18,10,8,2,3,1,Antonio Conte,2.4,1.2,2.8,0.4,7.6,2.0
+2223,2022-08-14,Chelsea,A,2,2,D,0,1,L,10,16,5,3,0,-1,Antonio Conte,2.4,1.0,3.0,0.6,8.0,2.0
+2223,2022-08-20,Wolves,H,1,0,W,0,0,D,11,20,4,3,1,0,Antonio Conte,2.0,0.6,2.6,0.6,7.6,1.8
+2223,2022-08-28,Nott'm Forest,A,2,0,W,1,0,W,18,17,7,1,2,1,Antonio Conte,2.2,0.6,2.8,0.6,7.4,1.8
+2223,2022-08-31,West Ham,A,1,1,D,1,0,W,13,14,4,4,0,1,Antonio Conte,1.2,0.4,2.0,0.8,5.6,2.6
+2223,2022-09-03,Fulham,H,2,1,W,1,0,W,23,9,10,3,1,1,Antonio Conte,0.8,0.4,1.6,0.8,6.0,2.8
+2223,2022-09-17,Leicester,H,6,2,W,2,2,D,16,19,11,7,4,0,Antonio Conte,1.6,0.6,2.4,0.8,7.2,3.6
+2223,2022-10-01,Arsenal,A,1,3,L,1,1,D,7,22,3,9,-2,0,Antonio Conte,1.0,0.6,2.4,1.4,7.0,4.8
+2223,2022-10-08,Brighton,A,1,0,W,1,0,W,8,14,3,4,1,1,Antonio Conte,0.8,0.6,2.2,1.4,6.2,5.4
+2223,2022-10-15,Everton,H,2,0,W,0,0,D,21,4,7,0,2,0,Antonio Conte,1.2,0.4,2.4,1.2,6.8,4.6
+2223,2022-10-19,Man United,A,0,2,L,0,0,D,9,28,2,10,-2,0,Antonio Conte,0.6,0.2,2.0,1.4,5.2,6.0
+2223,2022-10-23,Newcastle,H,1,2,L,0,2,L,17,13,5,5,-1,-2,Antonio Conte,-0.4,-0.2,1.0,1.4,4.0,5.6
+2223,2022-10-29,Bournemouth,A,3,2,W,0,1,L,23,6,7,4,1,-1,Antonio Conte,0.2,-0.4,1.4,1.2,4.8,4.6
+2223,2022-11-06,Liverpool,H,1,2,L,0,2,L,14,13,5,6,-1,-2,Antonio Conte,-0.2,-1.0,1.4,1.6,5.2,5.0
+2223,2022-11-12,Leeds,H,4,3,W,1,2,L,14,12,8,5,1,-1,Antonio Conte,-0.4,-1.2,1.8,2.2,5.4,6.0
+2223,2022-12-26,Brentford,A,2,2,D,0,1,L,16,9,8,5,0,-1,Antonio Conte,0.0,-1.4,2.2,2.2,6.6,5.0
+2223,2023-01-01,Aston Villa,H,0,2,L,0,0,D,6,13,2,4,-2,0,Antonio Conte,-0.2,-1.0,2.0,2.2,6.0,4.8
+2223,2023-01-04,Crystal Palace,A,4,0,W,0,0,D,14,19,6,4,4,0,Antonio Conte,0.4,-0.8,2.2,1.8,5.8,4.8
+2223,2023-01-15,Arsenal,H,0,2,L,0,2,L,17,14,7,5,-2,-2,Antonio Conte,0.2,-0.8,2.0,1.8,6.2,4.6
+2223,2023-01-19,Man City,A,2,4,L,2,0,W,9,16,3,6,-2,2,Antonio Conte,-0.4,-0.2,1.6,2.0,5.2,4.8
+2223,2023-01-23,Fulham,A,1,0,W,1,0,W,10,10,3,5,1,1,Antonio Conte,-0.2,0.2,1.4,1.6,4.2,4.8
+2223,2023-02-05,Man City,H,1,0,W,1,0,W,12,15,3,5,1,1,Antonio Conte,0.4,0.4,1.6,1.2,4.4,5.0
+2223,2023-02-11,Leicester,A,1,4,L,1,3,L,11,15,4,7,-3,-2,Antonio Conte,-1.0,0.0,1.0,2.0,4.0,5.6
+2223,2023-02-19,West Ham,H,2,0,W,0,0,D,16,6,6,1,2,0,Antonio Conte,-0.2,0.4,1.4,1.6,3.8,4.8
+2223,2023-02-26,Chelsea,H,2,0,W,0,0,D,8,10,3,2,2,0,Antonio Conte,0.6,0.0,1.4,0.8,3.8,4.0
+2223,2023-03-04,Wolves,A,0,1,L,0,0,D,21,8,6,5,-1,0,Antonio Conte,0.2,-0.2,1.2,1.0,4.4,4.0
+2223,2023-03-11,Nott'm Forest,H,3,1,W,2,0,W,15,9,7,5,2,2,Antonio Conte,0.4,0.0,1.6,1.2,5.2,4.0
+2223,2023-03-18,Southampton,A,3,3,D,1,0,W,17,19,3,7,0,1,Antonio Conte,1.0,0.6,2.0,1.0,5.0,4.0
+2223,2023-04-03,Everton,A,1,1,D,0,0,D,8,15,2,6,0,0,Interim Manager,0.6,0.6,1.8,1.2,4.2,5.0
+2223,2023-04-08,Brighton,H,2,1,W,1,1,D,9,17,3,4,1,0,Interim Manager,0.4,0.6,1.8,1.4,4.2,5.4
+2223,2023-04-15,Bournemouth,H,2,3,L,1,1,D,24,6,8,6,-1,0,Interim Manager,0.4,0.6,2.2,1.8,4.6,5.6
+2223,2023-04-23,Newcastle,A,1,6,L,0,5,L,11,25,3,8,-5,-5,Interim Manager,-1.0,-0.8,1.8,2.8,3.8,6.2
+2223,2023-04-27,Man United,H,2,2,D,0,2,L,18,17,7,8,0,-2,Interim Manager,-1.0,-1.4,1.6,2.6,4.6,6.4
+2223,2023-04-30,Liverpool,A,3,4,L,1,3,L,10,12,7,4,-1,-2,Interim Manager,-1.2,-1.8,2.0,3.2,5.6,6.0
+2223,2023-05-06,Crystal Palace,H,1,0,W,1,0,W,8,7,3,2,1,1,Interim Manager,-1.2,-1.6,1.8,3.0,5.6,5.6
+2223,2023-05-13,Aston Villa,A,1,2,L,0,1,L,5,8,2,4,-1,-1,Interim Manager,-1.2,-1.8,1.6,2.8,4.4,5.2
+2223,2023-05-20,Brentford,H,1,3,L,1,0,W,22,11,8,4,-2,1,Interim Manager,-0.6,-0.6,1.6,2.2,5.4,4.4
+2223,2023-05-28,Leeds,A,4,1,W,1,0,W,11,19,7,2,3,1,Interim Manager,0.0,0.0,2.0,2.0,5.4,3.2
+2324,2023-08-13,Brentford,A,2,2,D,2,2,D,18,11,6,6,0,0,Ange Postecoglou,0.2,0.4,1.8,1.6,5.2,3.6
+2324,2023-08-19,Man United,H,2,0,W,0,0,D,17,22,6,6,2,0,Ange Postecoglou,0.4,0.2,2.0,1.6,5.8,4.4
+2324,2023-08-26,Bournemouth,A,2,0,W,1,0,W,17,11,6,3,2,1,Ange Postecoglou,1.0,0.6,2.2,1.2,6.6,4.2
+2324,2023-09-02,Burnley,A,5,2,W,2,1,W,20,16,10,4,3,1,Ange Postecoglou,2.0,0.6,3.0,1.0,7.0,4.2
+2324,2023-09-16,Sheffield United,H,2,1,W,0,0,D,28,7,10,5,1,0,Ange Postecoglou,1.6,0.4,2.6,1.0,7.6,4.8
+2324,2023-09-24,Arsenal,A,2,2,D,1,1,D,13,13,5,6,0,0,Ange Postecoglou,1.6,0.4,2.6,1.0,7.4,4.8
+2324,2023-09-30,Liverpool,H,2,1,W,1,1,D,24,12,8,4,1,0,Ange Postecoglou,1.4,0.4,2.6,1.2,7.8,4.4
+2324,2023-10-07,Luton,A,1,0,W,0,0,D,15,12,4,2,1,0,Ange Postecoglou,1.2,0.2,2.4,1.2,7.4,4.2
+2324,2023-10-23,Fulham,H,2,0,W,1,0,W,15,10,5,3,2,1,Ange Postecoglou,1.0,0.2,1.8,0.8,6.4,4.0
+2324,2023-10-27,Crystal Palace,A,2,1,W,0,0,D,10,13,1,3,1,0,Ange Postecoglou,1.0,0.2,1.8,0.8,4.6,3.6
+2324,2023-11-06,Chelsea,H,1,4,L,1,1,D,8,17,5,8,-3,0,Ange Postecoglou,0.4,0.2,1.6,1.2,4.6,4.0
+2324,2023-11-11,Wolves,A,1,2,L,1,0,W,6,17,2,4,-1,1,Ange Postecoglou,0.0,0.4,1.4,1.4,3.4,4.0
+2324,2023-11-26,Aston Villa,H,1,2,L,1,1,D,18,15,8,5,-1,0,Ange Postecoglou,-0.4,0.4,1.4,1.8,4.2,4.6
+2324,2023-12-03,Man City,A,3,3,D,1,2,L,8,18,4,4,0,-1,Ange Postecoglou,-0.8,0.0,1.6,2.4,4.0,4.8
+2324,2023-12-07,West Ham,H,1,2,L,1,0,W,23,11,7,5,-1,1,Ange Postecoglou,-1.2,0.2,1.4,2.6,5.2,5.2
+2324,2023-12-10,Newcastle,H,4,1,W,2,0,W,23,9,12,3,3,2,Ange Postecoglou,0.0,0.6,2.0,2.0,6.6,4.2
+2324,2023-12-15,Nott'm Forest,A,2,0,W,1,0,W,12,15,6,1,2,1,Ange Postecoglou,0.6,0.6,2.2,1.6,7.4,3.6
+2324,2023-12-23,Everton,H,2,1,W,2,0,W,13,18,6,8,1,2,Ange Postecoglou,1.0,1.0,2.4,1.4,7.0,4.2
+2324,2023-12-28,Brighton,A,2,4,L,0,2,L,19,15,3,9,-2,-2,Ange Postecoglou,0.6,0.8,2.2,1.6,6.8,5.2
+2324,2023-12-31,Bournemouth,H,3,1,W,1,0,W,12,24,6,4,2,1,Ange Postecoglou,1.2,0.8,2.6,1.4,6.6,5.0
+2324,2024-01-14,Man United,A,2,2,D,1,2,L,16,9,6,2,0,-1,Ange Postecoglou,0.6,0.2,2.2,1.6,5.4,4.8
+2324,2024-01-31,Brentford,H,3,2,W,0,1,L,19,9,5,5,1,-1,Ange Postecoglou,0.4,-0.2,2.4,2.0,5.2,5.6
+2324,2024-02-03,Everton,A,2,2,D,2,1,W,9,14,6,5,0,1,Ange Postecoglou,0.2,-0.4,2.4,2.2,5.2,5.0
+2324,2024-02-10,Brighton,H,2,1,W,0,1,L,16,6,6,3,1,-1,Ange Postecoglou,0.8,-0.2,2.4,1.6,5.8,3.8
+2324,2024-02-17,Wolves,H,1,2,L,0,1,L,15,12,4,7,-1,-1,Ange Postecoglou,0.2,-0.6,2.0,1.8,5.4,4.4
+2324,2024-03-02,Crystal Palace,H,3,1,W,0,0,D,14,4,6,1,2,0,Ange Postecoglou,0.6,-0.4,2.2,1.6,5.4,4.2
+2324,2024-03-10,Aston Villa,A,4,0,W,0,0,D,9,10,5,1,4,0,Ange Postecoglou,1.2,-0.2,2.4,1.2,5.4,3.4
+2324,2024-03-16,Fulham,A,0,3,L,0,1,L,14,16,5,7,-3,-1,Ange Postecoglou,0.6,-0.6,2.0,1.4,5.2,3.8
+2324,2024-03-30,Luton,H,2,1,W,0,1,L,17,7,4,3,1,-1,Ange Postecoglou,0.6,-0.6,2.0,1.4,4.8,3.8
+2324,2024-04-02,West Ham,A,1,1,D,1,1,D,13,11,4,4,0,0,Ange Postecoglou,0.8,-0.4,2.0,1.2,4.8,3.2
+2324,2024-04-07,Nott'm Forest,H,3,1,W,1,1,D,17,13,7,6,2,0,Ange Postecoglou,0.8,-0.4,2.0,1.2,5.0,4.2
+2324,2024-04-13,Newcastle,A,0,4,L,0,2,L,11,18,2,5,-4,-2,Ange Postecoglou,-0.8,-0.8,1.2,2.0,4.4,5.0
+2324,2024-04-28,Arsenal,H,2,3,L,0,3,L,14,9,2,3,-1,-3,Ange Postecoglou,-0.4,-1.2,1.6,2.0,3.8,4.2
+2324,2024-05-02,Chelsea,A,0,2,L,0,1,L,19,16,3,5,-2,-1,Ange Postecoglou,-1.0,-1.2,1.2,2.2,3.6,4.6
+2324,2024-05-05,Liverpool,A,2,4,L,0,2,L,11,25,6,13,-2,-2,Ange Postecoglou,-1.4,-1.6,1.4,2.8,4.0,6.4
+2324,2024-05-11,Burnley,H,2,1,W,1,1,D,21,7,9,3,1,0,Ange Postecoglou,-1.6,-1.6,1.2,2.8,4.4,5.8
+2324,2024-05-14,Man City,H,0,2,L,0,0,D,10,8,5,5,-2,0,Ange Postecoglou,-1.2,-1.2,1.2,2.4,5.0,5.8
+2324,2024-05-19,Sheffield United,A,3,0,W,1,0,W,18,6,9,1,3,1,Ange Postecoglou,-0.4,-0.4,1.4,1.8,6.4,5.4
+2425,2024-08-19,Leicester,A,1,1,D,1,0,W,15,7,7,3,0,1,Ange Postecoglou,0.0,0.0,1.6,1.6,7.2,5.0
+2425,2024-08-24,Everton,H,4,0,W,2,0,W,13,10,7,1,4,2,Ange Postecoglou,1.2,0.8,2.0,0.8,7.4,2.6
+2425,2024-09-01,Newcastle,A,1,2,L,0,1,L,20,9,6,3,-1,-1,Ange Postecoglou,0.8,0.6,1.8,1.0,6.8,2.6
+2425,2024-09-15,Arsenal,H,0,1,L,0,0,D,15,7,5,4,-1,0,Ange Postecoglou,1.0,0.6,1.8,0.8,6.8,2.4
+2425,2024-09-21,Brentford,H,3,1,W,2,1,W,23,6,10,6,2,1,Ange Postecoglou,0.8,0.6,1.8,1.0,7.0,3.4
+2425,2024-09-29,Man United,A,3,0,W,1,0,W,24,11,10,2,3,1,Ange Postecoglou,1.4,0.6,2.2,0.8,7.6,3.2
+2425,2024-10-06,Brighton,A,2,3,L,2,0,W,13,11,3,4,-1,2,Ange Postecoglou,0.4,0.6,1.8,1.4,6.8,3.8
+2425,2024-10-19,West Ham,H,4,1,W,1,1,D,22,11,7,4,3,0,Ange Postecoglou,1.2,0.8,2.4,1.2,7.0,4.0
+2425,2024-10-27,Crystal Palace,A,0,1,L,0,1,L,11,14,3,6,-1,-1,Ange Postecoglou,1.2,0.6,2.4,1.2,6.6,4.4
+2425,2024-11-03,Aston Villa,H,4,1,W,0,1,L,16,12,6,1,3,-1,Ange Postecoglou,1.4,0.2,2.6,1.2,5.8,3.4
+2425,2024-11-10,Ipswich,H,1,2,L,0,2,L,17,8,5,3,-1,-2,Ange Postecoglou,0.6,-0.4,2.2,1.6,4.8,3.6
+2425,2024-11-23,Man City,A,4,0,W,2,0,W,9,23,7,5,4,2,Ange Postecoglou,1.6,-0.4,2.6,1.0,5.6,3.8
+2425,2024-12-01,Fulham,H,1,1,D,0,0,D,8,14,3,6,0,0,Ange Postecoglou,1.0,-0.4,2.0,1.0,4.8,4.2
+2425,2024-12-05,Bournemouth,A,0,1,L,0,1,L,12,21,4,8,-1,-1,Ange Postecoglou,1.0,-0.4,2.0,1.0,5.0,4.6
+2425,2024-12-08,Chelsea,H,3,4,L,2,1,W,13,17,5,8,-1,1,Ange Postecoglou,0.2,0.0,1.8,1.6,4.8,6.0
+2425,2024-12-15,Southampton,A,5,0,W,5,0,W,18,9,9,3,5,5,Ange Postecoglou,1.4,1.4,2.6,1.2,5.6,6.0
+2425,2024-12-22,Liverpool,H,3,6,L,1,3,L,9,24,5,12,-3,-2,Ange Postecoglou,0.0,0.6,2.4,2.4,5.2,7.4
+2425,2024-12-26,Nott'm Forest,A,0,1,L,0,1,L,13,10,4,3,-1,-1,Ange Postecoglou,-0.2,0.4,2.2,2.4,5.4,6.8
+2425,2024-12-29,Wolves,H,2,2,D,2,1,W,13,11,3,3,0,1,Ange Postecoglou,0.0,0.8,2.6,2.6,5.2,5.8
+2425,2025-01-04,Newcastle,H,1,2,L,1,2,L,13,14,4,4,-1,-1,Ange Postecoglou,0.0,0.4,2.2,2.2,5.0,5.0
+2425,2025-01-15,Arsenal,A,1,2,L,1,2,L,10,14,2,4,-1,-1,Ange Postecoglou,-1.2,-0.8,1.4,2.6,3.6,5.2
+2425,2025-01-19,Everton,A,2,3,L,0,3,L,11,12,6,6,-1,-3,Ange Postecoglou,-0.8,-1.0,1.2,2.0,3.8,4.0
+2425,2025-01-26,Leicester,H,1,2,L,1,0,W,15,12,6,3,-1,1,Ange Postecoglou,-0.8,-0.6,1.4,2.2,4.2,4.0
+2425,2025-02-02,Brentford,A,2,0,W,1,0,W,13,20,2,4,2,1,Ange Postecoglou,-0.4,-0.6,1.4,1.8,4.0,4.2
+2425,2025-02-16,Man United,H,1,0,W,1,0,W,22,16,7,6,1,1,Ange Postecoglou,0.0,-0.2,1.4,1.4,4.6,4.6
+2425,2025-02-22,Ipswich,A,4,1,W,2,1,W,10,17,6,5,3,1,Ange Postecoglou,0.8,0.2,2.0,1.2,5.4,4.8
+2425,2025-02-26,Man City,H,0,1,L,0,1,L,11,12,6,5,-1,-1,Ange Postecoglou,0.8,0.6,1.6,0.8,5.4,4.6
+2425,2025-03-09,Bournemouth,H,2,2,D,0,1,L,12,17,4,8,0,-1,Ange Postecoglou,1.0,0.2,1.8,0.8,5.0,5.6
+2425,2025-03-16,Fulham,A,0,2,L,0,0,D,12,13,4,4,-2,0,Ange Postecoglou,0.2,0.0,1.4,1.2,5.4,5.6
+2425,2025-04-03,Chelsea,A,0,1,L,0,0,D,8,11,2,5,-1,0,Ange Postecoglou,-0.2,-0.2,1.2,1.4,4.4,5.4
+2425,2025-04-06,Southampton,H,3,1,W,2,0,W,13,12,8,4,2,2,Ange Postecoglou,-0.4,0.0,1.0,1.4,4.8,5.2
+2425,2025-04-13,Wolves,A,2,4,L,0,2,L,11,13,4,5,-2,-2,Ange Postecoglou,-0.6,-0.2,1.4,2.0,4.4,5.2
+2425,2025-04-21,Nott'm Forest,H,1,2,L,0,2,L,22,4,6,3,-1,-2,Ange Postecoglou,-0.8,-0.4,1.2,2.0,4.8,4.2
+2425,2025-04-27,Liverpool,A,1,5,L,1,3,L,8,25,3,8,-4,-2,Ange Postecoglou,-1.2,-0.8,1.4,2.6,4.6,5.0
+2425,2025-05-04,West Ham,A,1,1,D,1,1,D,7,11,2,2,0,0,Ange Postecoglou,-1.0,-0.8,1.6,2.6,4.6,4.4
+2425,2025-05-11,Crystal Palace,H,0,2,L,0,1,L,8,23,1,10,-2,-1,Ange Postecoglou,-1.8,-1.4,1.0,2.8,3.2,5.6
+2425,2025-05-16,Aston Villa,A,0,2,L,0,0,D,3,18,1,7,-2,0,Ange Postecoglou,-1.8,-1.0,0.6,2.4,2.6,6.0
+2425,2025-05-25,Brighton,H,1,4,L,1,0,W,4,23,2,8,-3,1,Ange Postecoglou,-2.2,-0.4,0.6,2.8,1.8,7.0
+2526,2025-08-16,Burnley,H,3,0,W,1,0,W,16,14,6,4,3,1,Thomas Frank,-0.8,0.2,1.0,1.8,2.4,6.2
+2526,2025-08-23,Man City,A,2,0,W,2,0,W,12,10,5,4,2,2,Thomas Frank,-0.4,0.6,1.2,1.6,3.0,6.6
+2526,2025-08-30,Bournemouth,H,0,1,L,0,1,L,5,20,1,6,-1,-1,Thomas Frank,-0.2,0.6,1.2,1.4,3.0,5.8
+2526,2025-09-13,West Ham,A,3,0,W,0,0,D,14,7,5,4,3,0,Thomas Frank,0.8,0.6,1.8,1.0,3.8,5.2
+2526,2025-09-20,Brighton,A,2,2,D,1,2,L,11,12,3,4,0,-1,Thomas Frank,1.4,0.2,2.0,0.6,4.0,4.4
+2526,2025-09-27,Wolves,H,1,1,D,0,0,D,10,9,3,3,0,0,Thomas Frank,0.8,0.0,1.6,0.8,3.4,4.2
+2526,2025-10-04,Leeds,A,2,1,W,1,1,D,9,16,3,4,1,0,Thomas Frank,0.6,-0.4,1.6,1.0,3.0,4.2
+2526,2025-10-19,Aston Villa,H,1,2,L,1,1,D,9,8,3,2,-1,0,Thomas Frank,0.6,-0.2,1.8,1.2,3.4,3.4
+2526,2025-10-26,Everton,A,3,0,W,2,0,W,7,12,4,2,3,2,Thomas Frank,0.6,0.2,1.8,1.2,3.2,3.0
+2526,2025-11-01,Chelsea,H,0,1,L,0,1,L,3,15,1,9,-1,-1,Thomas Frank,0.4,0.2,1.4,1.0,2.8,4.0
+2526,2025-11-08,Man United,H,2,2,D,0,1,L,10,5,4,2,0,-1,Thomas Frank,0.4,0.0,1.6,1.2,3.0,3.8
+2526,2025-11-23,Arsenal,A,1,4,L,0,2,L,3,17,2,8,-3,-2,Thomas Frank,-0.4,-0.4,1.4,1.8,2.8,4.6
+2526,2025-11-29,Fulham,H,1,2,L,0,2,L,14,7,2,3,-1,-2,Thomas Frank,-0.4,-0.8,1.4,1.8,2.6,4.8
+2526,2025-12-02,Newcastle,A,2,2,D,0,0,D,8,19,2,7,0,0,Thomas Frank,-1.0,-1.2,1.2,2.2,2.2,5.8
+2526,2025-12-06,Brentford,H,2,0,W,2,0,W,15,4,7,1,2,2,Thomas Frank,-0.4,-0.6,1.6,2.0,3.4,4.2
+2526,2025-12-14,Nott'm Forest,A,0,3,L,0,1,L,6,15,1,6,-3,-1,Thomas Frank,-1.0,-0.6,1.2,2.2,2.8,5.0
+2526,2025-12-20,Liverpool,H,1,2,L,0,0,D,15,8,4,4,-1,0,Thomas Frank,-0.6,-0.2,1.2,1.8,3.2,4.2
+2526,2025-12-28,Crystal Palace,A,1,0,W,1,0,W,8,15,4,2,1,1,Thomas Frank,-0.2,0.4,1.2,1.4,3.6,4.0
+2526,2026-01-01,Brentford,A,0,0,D,0,0,D,9,7,3,2,0,0,Thomas Frank,-0.2,0.4,0.8,1.0,3.8,3.0
+2526,2026-01-04,Sunderland,H,1,1,D,1,0,W,13,10,5,3,0,1,Thomas Frank,-0.6,0.2,0.6,1.2,3.4,3.4
+2526,2026-01-07,Bournemouth,A,2,3,L,1,2,L,16,11,4,3,-1,-1,Thomas Frank,-0.2,0.2,1.0,1.2,4.0,2.8
+2526,2026-01-17,West Ham,H,1,2,L,0,1,L,21,17,6,4,-1,-1,Thomas Frank,-0.2,0.0,1.0,1.2,4.4,2.8
+2526,2026-01-24,Burnley,A,2,2,D,1,1,D,18,9,11,4,0,0,Thomas Frank,-0.4,-0.2,1.2,1.6,5.8,3.2
+2526,2026-02-01,Man City,H,2,2,D,0,2,L,12,15,6,3,0,-2,Thomas Frank,-0.4,-0.6,1.6,2.0,6.4,3.4
+2526,2026-02-07,Man United,A,0,2,L,0,1,L,7,23,1,10,-2,-1,Thomas Frank,-0.8,-1.0,1.4,2.2,5.6,4.8
+2526,2026-02-10,Newcastle,H,1,2,L,0,1,L,16,21,2,5,-1,-1,Thomas Frank,-0.8,-1.0,1.2,2.0,5.2,5.2
