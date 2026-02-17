@@ -27,8 +27,9 @@ The data for this project came from a few sources and required extensive wrangli
 
 ### <b>(1) [Football-Data.co.uk](https://www.football-data.co.uk/englandm.php) </b>
 
-![football-data.png](/img/football-data.png)
-
+<p align="center">
+<img src="img/football-data.png" width="85%" margin="auto">
+</p>
 I got most of my team performance data from Football-Data.co.uk, a website with season-by-season results for all Premier League games from the 1993/94 season - present.
 
 Once I had the csvs downloaded, I needed to read them into one dataframe and clean the data. Some of my steps were:
@@ -49,7 +50,9 @@ tottenham['TFTG'] = np.where(only_tot['HomeTeam'] == 'Tottenham', only_tot['FTHG
 
 ### <b>(2) [thfcdb.com](https://www.thfcdb.com)</b>
 
-![thfcdb.png](/img/thfcdb.png)
+<p align="center">
+<img src="img/thfcdb.png" width="85%" margin="auto">
+</p>
 
 I also brought in some data from THFCDB.com, specifically using their [manager history](https://thfcdb.com/collections/manager-history) data to create my own dictionary of coach timelines.
 
@@ -69,7 +72,9 @@ I used this coaching data to create a new dataframe summarizing the coaches' sta
 
 ### <b>(3) [PremierLeague.com](https://www.premierleague.com/en/tables/premier-league/2025-26)</b>
 
-![premier-league.png](/img/premier-league.png)
+<p align="center">
+<img src="img/premier-leage.png" width="85%" margin="auto">
+</p>
 
  I manually compiled historical position data for Tottenham from the official [Premier League table](https://www.premierleague.com/en/tables/premier-league/2025-26). This powered one of my visualizations
 
