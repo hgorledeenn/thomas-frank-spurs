@@ -53,64 +53,9 @@ coach_df["end"]   = pd.to_datetime(coach_df["end"])
 
 ```
 
-<br>
-
-## What I Learned
-For this project, I put to work a lot of what I learned in my Foundations of Computer class (see other classwork in this [repo](https://github.com/hgorledeenn/CJS-founds-of-comp)). In addition to skills from class, like creating functional scrapers, using for loops in data manipulation and general Pandas knowledge, I challenged myself and learned several new skills for this project.
-
-(1)&ensp;I learned the `.concat` and `.drop_duplicates` command pair, which enabled me to read in stored data and combine it with newly scraped results
-
-```python
-df_orig = pd.read_csv("employee_reimbursements.csv")
-df_safe = pd.concat([df_orig, df_new], ignore_index = True)
-df_safe = df_safe.drop_duplicates(subset=['voucher_name', 'amount', 'payment_date', 'description'], keep='first')
-df_safe.to_csv("employee_reimbursements.csv", index=False)
-```
-(2)&ensp;I learned how to iterate through dataframe groups, which enabled me to succinctly create individual csv files for the transactions by each department
-
-```python
-groups = df.groupby(by="DEPARTMENT")
-keys = groups.groups.keys()
-
-for i in keys:
-   dept = groups.get_group(i)
-   name = i.lower()
-   name = name.replace(" ", "-")
-   name = name.replace("'", "")
-   dept.to_csv(f"docs/dept-csvs/{name}.csv", index=False)
-```
-
-(3)&ensp;I learned this structure for defining a function, which enabled me to automatically add the html formatting to hyperlink each department name to its transaction list page
-
-```python
-def make_link(dep):
-   folder = (
-       dep.lower()
-       .replace(" ", "-")
-       .replace("'", "")
-   )
-   return f"<a href="https://hgorledeenn.github.io/Chicago-Reimbursements-site/{folder}/index.html">{dep}</a>"
-
-df_dept_sum['DEPARTMENT'] = df_dept_sum['DEPARTMENT'].apply(make_link)
-
-df_dept_sum.to_csv("docs/by_department_summary.csv", index=False
-```
+STILL WORKING HERE
 
 <br>
-
-## What I Would Add Next Time
-I learned a lot through this project and am happy that I challenged myself to create multiple pages and display the data in this way (the assignment only required us to make one visualization on one page). While the website does achieve the goals I set for myself, it also gives me ideas about more functionality that could be included.
-
-In future projects, I would like to add more ways for a user to interact with the data. Some ideas I have for increased functionality include:
-
-- <ins>A more powerful search tool</ins> to allow for the use of advanced search parameters
-- <ins>Filtering options</ins> like the ability to specify date or total amount ranges
-- <ins>More/varied visualizations</ins>, for instance showing change over time line charts to demonstrate how employee reimbursement spending has fluctuated historically.
-- <ins>Further analysis of spending</ins> using natural language processing (specifically of the   `description` column in the data set). This could lead to interesting insights and allow for more complex visualizations like spending by category or analysis of employee travel locations.
-
-
-
-
 
 
 
