@@ -73,7 +73,7 @@ I used this coaching data to create a new dataframe summarizing the coaches' sta
 ### <b>(3) [PremierLeague.com](https://www.premierleague.com/en/tables/premier-league/2025-26)</b>
 
 <p align="center">
-<img src="img/premier-leage.png" width="85%" margin="auto">
+<img src="img/premier-league.png" width="85%" margin="auto">
 </p>
 
  I manually compiled historical position data for Tottenham from the official [Premier League table](https://www.premierleague.com/en/tables/premier-league/2025-26). This powered one of my visualizations
