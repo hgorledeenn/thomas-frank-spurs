@@ -15,7 +15,7 @@ The data for this project came from a few sources and required extensive wrangli
 
 <b>(1) Football-Data.co.uk </b>
 
-![violations-map.png](https://github.com/srjouppi/michigan-air-polluters-dataset-map/blob/main/screenshots/violations-map.png)
+![football-data.png](/img/football-data.png)
 
 
 I got
