@@ -1,12 +1,18 @@
 # Analysis of Thomas Frank's Tenure at Tottenham Hotspur Football Club
 
-Created by **[Holden Green](https://www.hgorledeenn.github.io)** in February 2026 <br>
+Created by **[Holden Green](https://hgorledeenn.github.io)** in February 2026 <br>
 Columbia Journalism School, Data Studio
 
 <br>
 
 ## The Project
-Thomas Frank was removed as head coach of the Tottenham mens team in mid-February 2026. This story, concieved following his separation from the club and published just a few days later, combines data from a few sources to analyze Frank's tenure in the context of other 2000s-era Spurs coaches.
+This story was concieved following Thomas Frank's removal from his position as head coach at the Tottenham Hotspur Football Club. I did original data analysis and research and published just a few days later, combining data from a multiple sources to analyze Frank's tenure in the context of other 2000s-era Spurs coaches.
+<br><br>
+> **<big>An excerpt from the story:</big>**
+<br><br>
+*Thomas Frank was removed from his post as Head Coach of the Tottenham Hotspur men's team last week. He was appointed in the summer of 2025 and has spent the better part of the current season at the helm in North London.
+<br><br>
+Despite a strong showing in the Champions League (which Spurs qualified for by winning the Europa league under Frank’s predecessor, Ange Postecoglou), the board thought Spurs’ recent results meant “a change at this point in the season is necessary,” according to a club statement. The team currently sits at 16th in the table, just 5 points clear of the relegation zone, and haven’t won a game in 2026.*
 
 <br>
 
@@ -19,14 +25,14 @@ The data for this project came from a few sources and required extensive wrangli
 
 I got most of my team performance data from Football-Data.co.uk, a website with season-by-season results for all Premier League games from the 1993/94 season - present.
 
-Once I had the csvs downloaded, I needed to read them into one dataframe and clean the data. My steps were:
+Once I had the csvs downloaded, I needed to read them into one dataframe and clean the data. Some of my steps were:
 
 (1) Filter the full dataset to only games where Tottenham was the home team or the away team
 ```python
 only_tot = all_games[(all_games['HomeTeam'] == 'Tottenham') | (all_games['AwayTeam'] == 'Tottenham')]
 ```
 
-(2) I used (and learned) the `np.where` function and used it to create a new dataframe that organizes the same stats from a Tottenham-focused view (as opposed to stats being, for instance, "Home Team Shots" and "Away Team Shots", my dataframe had "Tottenham Shots" and "Other Team Shots"). A few examples of how I used `np.where` are below:
+(2) Learn and use the `np.where` function and used it to create a new dataframe that organizes the same stats from a Tottenham-focused view (as opposed to stats being, for instance, "Home Team Shots" and "Away Team Shots", my dataframe had "Tottenham Shots" and "Other Team Shots"). A few examples of how I used `np.where` are below:
 ```python
 tottenham['OT'] = np.where(only_tot['HomeTeam'] == 'Tottenham', only_tot['AwayTeam'], only_tot['HomeTeam'])
 
@@ -53,7 +59,13 @@ coach_df["start"] = pd.to_datetime(coach_df["start"])
 coach_df["end"]   = pd.to_datetime(coach_df["end"])
 ```
 
-I used this coaching data to create a new dataframe summarizing the coaches' stats across their tenures.
+I used this coaching data to create a new dataframe summarizing the coaches' stats across their tenures. This dataset ended up being the main one I used to visualize the data for readers.
+
+### <b>(2) [PremierLeague.com](https://www.premierleague.com/en/tables/premier-league/2025-26)</b>
+
+![premier-league.png](/img/premier-league.png)
+
+I also brought in some data from THFCDB.com, specifically using their [manager history](https://thfcdb.com/collections/manager-history) data to create my own dictionary of coach timelines.
 
 <br>
 
