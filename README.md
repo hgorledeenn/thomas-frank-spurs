@@ -16,8 +16,13 @@ Despite a strong showing in the Champions League (which Spurs qualified for by w
 
 <br>
 
+## Findings
+The most interesting thing I found was that Frank had the lowest league game win rate of any coach since the 2000/01 season.
+
+![wld-viz.png](img/wld-viz.png)
+
 ## Data Collection and Wrangling
-The data for this project came from a few sources and required extensive wrangling.
+The data for this project came from a few sources and required extensive wrangling. Almost all of the code is contained in the notebook `data_analysis.ipynb`. I also used a scraper to quickly gather the table results for one visualization; the code for that scraper is in `pl_results_scraper.ipynb`.
 
 ### <b>(1) [Football-Data.co.uk](https://www.football-data.co.uk/englandm.php) </b>
 
@@ -61,11 +66,11 @@ coach_df["end"]   = pd.to_datetime(coach_df["end"])
 
 I used this coaching data to create a new dataframe summarizing the coaches' stats across their tenures. This dataset ended up being the main one I used to visualize the data for readers.
 
-### <b>(2) [PremierLeague.com](https://www.premierleague.com/en/tables/premier-league/2025-26)</b>
+### <b>(3) [PremierLeague.com](https://www.premierleague.com/en/tables/premier-league/2025-26)</b>
 
 ![premier-league.png](/img/premier-league.png)
 
-I also brought in some data from THFCDB.com, specifically using their [manager history](https://thfcdb.com/collections/manager-history) data to create my own dictionary of coach timelines.
+ I manually compiled historical position data for Tottenham from the official [Premier League table](https://www.premierleague.com/en/tables/premier-league/2025-26). This powered one of my visualizations
 
 <br>
 
