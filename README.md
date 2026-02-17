@@ -9,10 +9,10 @@ Columbia Journalism School, Data Studio
 This story was concieved following Thomas Frank's removal from his position as head coach at the Tottenham Hotspur Football Club. I did original data analysis and research and published just a few days later, combining data from a multiple sources to analyze Frank's tenure in the context of other 2000s-era Spurs coaches.
 <br><br>
 > **<big>An excerpt from the story:</big>**
-<br><br>
-*Thomas Frank was removed from his post as Head Coach of the Tottenham Hotspur men's team last week. He was appointed in the summer of 2025 and has spent the better part of the current season at the helm in North London.
-<br><br>
-Despite a strong showing in the Champions League (which Spurs qualified for by winning the Europa league under Frank’s predecessor, Ange Postecoglou), the board thought Spurs’ recent results meant “a change at this point in the season is necessary,” according to a club statement. The team currently sits at 16th in the table, just 5 points clear of the relegation zone, and haven’t won a game in 2026.*
+>
+>*Thomas Frank was removed from his post as Head Coach of the Tottenham Hotspur men's team last week. He was appointed in the summer of 2025 and has spent the better part of the current season at the helm in North London.*
+>
+>*Despite a strong showing in the Champions League (which Spurs qualified for by winning the Europa league under Frank’s predecessor, Ange Postecoglou), the board thought Spurs’ recent results meant “a change at this point in the season is necessary,” according to a club statement. The team currently sits at 16th in the table, just 5 points clear of the relegation zone, and haven’t won a game in 2026.*
 
 <br>
 
