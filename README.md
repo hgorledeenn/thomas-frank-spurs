@@ -19,7 +19,7 @@ Despite a strong showing in the Champions League (which Spurs qualified for by w
 ## Findings
 The most interesting thing I found was that Frank had the lowest league game win rate of any coach since the 2000/01 season.
 <p align="center">
-<img src="img/wld-viz.png" width="75%" margin="auto">
+<img src="img/wld-viz.png" width="65%" margin="auto">
 </p>
 
 ## Data Collection and Wrangling
