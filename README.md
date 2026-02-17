@@ -37,33 +37,33 @@ tottenham['TFTG'] = np.where(only_tot['HomeTeam'] == 'Tottenham', only_tot['FTHG
 
 ### <b>(2) [thfcdb.com](https://www.thfcdb.com)</b>
 
-IMAGE
+![thfcdb.png](/img/thfcdb.png)
 
-DESCRIPTION
+I also brought in some data from THFCDB.com, specifically using their [manager history](https://thfcdb.com/collections/manager-history) data to create my own dictionary of coach timelines.
 
-(1)
+(1) I manually entered coach names and dates as a dataframe in my notebook (see an excerpt of the dictionary below). This helped me later when I created a new dataframe analyzing stats across the coaches' tenures.
 ```python
-    {"coach":"Thomas Frank","start":"2025-06-07","end":"2026-02-11"},
-    {"coach":"Igor Tudor","start":"2026-02-12","end":"2026-03-01"}
+...
+{"coach":"Thomas Frank","start":"2025-06-07","end":"2026-02-11"},
+{"coach":"Igor Tudor","start":"2026-02-12","end":"2026-03-01"}
 ]
 
 coach_df = pd.DataFrame(coaches)
 coach_df["start"] = pd.to_datetime(coach_df["start"])
 coach_df["end"]   = pd.to_datetime(coach_df["end"])
-
 ```
 
 STILL WORKING HERE
 
 <br>
 
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
