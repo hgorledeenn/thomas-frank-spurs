@@ -13,12 +13,45 @@ Thomas Frank was removed as head coach of the Tottenham mens team in mid-Februar
 ## Data Collection and Wrangling
 The data for this project came from a few sources and required extensive wrangling.
 
-<b>(1) Football-Data.co.uk </b>
+### <b>(1) [Football-Data.co.uk](https://www.football-data.co.uk/englandm.php) </b>
 
 ![football-data.png](/img/football-data.png)
 
+I got most of my team performance data from Football-Data.co.uk, a website with season-by-season results for all Premier League games from the 1993/94 season - present.
 
-I got
+Once I had the csvs downloaded, I needed to read them into one dataframe and clean the data. My steps were:
+
+(1) Filter the full dataset to only games where Tottenham was the home team or the away team
+```python
+only_tot = all_games[(all_games['HomeTeam'] == 'Tottenham') | (all_games['AwayTeam'] == 'Tottenham')]
+```
+
+(2) I used (and learned) the `np.where` function and used it to create a new dataframe that organizes the same stats from a Tottenham-focused view (as opposed to stats being, for instance, "Home Team Shots" and "Away Team Shots", my dataframe had "Tottenham Shots" and "Other Team Shots"). A few examples of how I used `np.where` are below:
+```python
+tottenham['OT'] = np.where(only_tot['HomeTeam'] == 'Tottenham', only_tot['AwayTeam'], only_tot['HomeTeam'])
+
+tottenham['TL'] = np.where(only_tot['HomeTeam'] == 'Tottenham', "H", "A")
+
+tottenham['TFTG'] = np.where(only_tot['HomeTeam'] == 'Tottenham', only_tot['FTHG'], only_tot['FTAG'])
+```
+
+### <b>(2) [thfcdb.com](https://www.thfcdb.com)</b>
+
+IMAGE
+
+DESCRIPTION
+
+(1)
+```python
+    {"coach":"Thomas Frank","start":"2025-06-07","end":"2026-02-11"},
+    {"coach":"Igor Tudor","start":"2026-02-12","end":"2026-03-01"}
+]
+
+coach_df = pd.DataFrame(coaches)
+coach_df["start"] = pd.to_datetime(coach_df["start"])
+coach_df["end"]   = pd.to_datetime(coach_df["end"])
+
+```
 
 <br>
 
