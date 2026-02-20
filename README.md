@@ -8,7 +8,7 @@ Columbia Journalism School, Data Studio
 ## The Project
 This story was concieved following Thomas Frank's removal from his position as head coach at the Tottenham Hotspur Football Club. I did original data analysis and research and published just a few days later, combining data from a multiple sources to analyze Frank's tenure in the context of other 2000s-era Spurs coaches.
 
-*See the [Data Diary](#data-diary-for-my-columns-tottenham_centriccsv) for my csv file at the bottom.*
+*See the [Data Diary](#data-diary) for my csv file at the bottom.*
 <br><br>
 > **<big>An excerpt from the story:</big>**
 >
