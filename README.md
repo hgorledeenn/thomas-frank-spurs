@@ -5,6 +5,16 @@ Columbia Journalism School, Data Studio
 
 <br>
 
+## Contents
+1. [The Project](#the-project)
+2. [Findings](#findings)
+3. [Data Collection and Wrangling](#data-collection-and-wrangling)
+4. [What I Learned](#what-i-learned)
+5. [Limitations/For Next Time](#limitationsfor-next-time)
+6. [Data Diary](#data-diary)
+
+<br>
+
 ## The Project
 This story was concieved following Thomas Frank's removal from his position as head coach at the Tottenham Hotspur Football Club. I did original data analysis and research and published just a few days later, combining data from a multiple sources to analyze Frank's tenure in the context of other 2000s-era Spurs coaches.
 
@@ -83,7 +93,6 @@ I used this coaching data to create a new dataframe summarizing the coaches' sta
 
 
 ## What I learned
-### A section about what new skills, approaches, etc you used, or where you grew the most during the project
 I got some very helpful hands-on experience with data wrangling. I'd practiced some in classes, of course, but these datasets needed to be combined and then reworked significantly to fit my analysis.
 
 I also got practice making a data diary and felt this project was a good opportunity for me to experience iterative data analysis (find something interesting in the data, do some reasearch about it and have more questions, do more analysis to answer those questions, etc).
